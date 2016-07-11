@@ -1296,6 +1296,7 @@ lakʼíchʼ	noun	back of head, nape of neck (lá ‘nape of neck’)
 lé	noun	throat; only in compounds (cf. lá ‘nape of neck’, √la ‘yell’)
 lekachóox̱ʼ	noun	trachea, windpipe (< lé ‘throat’ + chóox̱ʼ ‘fat roll’)
 laaÿig̱águ	noun	ring finger (cf. laag̱ák ‘rock slime’)
+Laaÿineidí	name	Raven moiety (<? laan unknown + ÿee + -eit)
 laaw	noun	penis
 laan	noun	in g̱ax̱laan ‘rabbit blanket’ and laanáḵw ‘barren cow’
 g̱ax̱laan	noun	rabbit fur blanket (< g̱áx̱ ‘rabbit’ + laan unknown)
@@ -1372,3 +1373,44 @@ lóol	noun	fireweed
 √luk	root	have dishpan hands (only L78: 30)
 √lux̱	root	drip in steady stream
 kalóox̱jaa	noun	fast dripping (< √lux̱)
+dláa	interj	exasperation, irritation
+hadláa	interj	exasperation, irritation
+√dla	root	sediment settle (cf. √dlex̱ʼw, √tle ‘strain’, √cha ‘strain’)
+dlaakʼ	noun	man’s sister (cf. tláa ‘mother’)
+dlákʼ	noun	sister! (< dlaakʼ)
+√dlan	root	deep
+√dlakw	root	scratch
+dlágwaa	noun	peavy (< √dlakw ‘scratch’, cf. dlaagwáa)
+dlaagwáa	noun	salmon harpoon (< √dlakw ‘scratch’, cf. dlágwaa)
+√dlaxʼw	root	coil
+√dlaḵ	root	overcome, succeed, win, gain
+√dlax̱ʼw	root	sediment settle (see √dlex̱ʼw)
+anaax̱adléi	noun	myth (only in L73: 08/94)
+√dlex̱ʼw	root	sediment settle (cf. √dla, √tle ‘strain’, √cha ‘strain’)
+√dlénx̱aa	root	tempt, test (cf. √dlénaa)
+√dlénaa	root	play touching game (cf. √dlénx̱aa)
+dleit	noun	snow (< √dla ‘settle’ + át ‘thing’)
+√dlèit	root	snowy (< dleit ‘snow’)
+√dletʼ	root	plop (cf. √dletlʼ ‘hang slackly’)
+√dletlʼ	root	hang slackly (cf. √dletʼ ‘plop’)
+√dlexw	root	skin peel esp. with thumb (< √dlixw)
+√dlekw	root	startle, shock
+√dleʼkw	root	pat, shake hand (cf. dleigú ‘lullaby’, √dléigu)
+√dléigu	root	pat, shake hand (see √dleʼkw)
+dleigú	noun	lullaby (cf. √dleʼkw, √dléigu)
+dleeÿ	noun	meat, flesh, muscle
+√dleeÿí	root	muscular, meaty (< dleeÿ)
+dleewkát	adv	carefully (cf. dloonkát)
+dloonkát	adv	carefully (cf. dleewkát)
+√dlixw	root	skin peel esp. with thumb (cf. √dlexw)
+haashdlóo	interj	surprise (cf. dláa, hadláa, hadóo)
+haadlóo	interj	surprise (cf. dláa, hadláa, hadóo)
+hadlóo	interj	surprise (cf. dláa, hadláa, hadóo)
+hadlóh	interj	surprise (cf. dláa, hadláa, hadóo)
+hadláw	interj	surprise (cf. dláa, hadláa, hadóo)
+yakadlúwaas	noun	bloomers (< yá + ká + Eng. bloomers)
+dlóotldáx̱	adv	on one’s own (< dlóotl unknown + -dáx̱ ‘ablative’)
+dlóodlidáx̱	adv	on one’s own
+dlóotlkʼidáx̱	adv	on one’s own
+√dluḵ	root	sticky, gooey
+waḵkadlóog̱u	eye mucus (< √dluḵ)
