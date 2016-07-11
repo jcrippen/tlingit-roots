@@ -229,6 +229,10 @@ yaana.eit	noun	indian celery
 √.éikw	root	whistle
 akoo.éikw	noun	whistle (< √.éikw ‘whistle’)
 éix̱ʼ	noun	slough
+-i	affix	relative clause, suffix on relativized verbs (cf. -í)
+-í	affix	subordinate clause, suffix on subordinated verbs (cf. -i, -í)
+-í	affix	nominalization, suffix on nominalized verbs (cf. -i, -í)
+-í	affix	possessive, suffix on possessed nouns (cf. -ÿí, -wú, etc.)
 i	pron	your, second person singular possessor or object
 ee	pron	your, second person singular possessor or object
 √.i	root	cook
@@ -237,7 +241,8 @@ at.éewu	noun	cooking (< át ‘thing’ + éewu ‘cooked’)
 atʼiweit	noun	cooking pot (< √.i ‘cook’; cf. -weit)
 √.i	root	landslide
 daagoo.ée	noun	landslide (< daak ‘down’ + √.i ‘landslide’)
-ee	affix	pronominal base for postpositions
+ee	affix	pronominal base for postpositions (cf. eetí, ít)
+een	ppn	with, instrumental postposition (< ee + -n)
 ée	interj	disgust
 éeee	interj	disgust
 éekʼ	noun	female’s brother
@@ -250,7 +255,7 @@ eeÿ	noun	rapids
 éenyee	noun	armpit
 éenee	noun	armpit
 ít	noun	after, following
-eet	noun	room, place of, remains of
+eetí	noun	room, place of, remains of (< eet + -í, cf. ee, ít)
 ḵaankak.eetxʼ	noun	in public
 √.éet	root	not fit, change proportion
 éet	noun	halibut hole
@@ -275,6 +280,7 @@ eeḵ	noun	copper
 eeḵ	noun	top of foot (in iḵká)
 éex̱ʼ	noun	slough
 ó	interj	oh, understanding
+-ú	affix	at, locative predicate suffix
 √.uʰ	root	put, leave
 √.uʰ	root	own, buy
 óowu	noun	property (< √.uʰ ‘own, buy’)
@@ -462,6 +468,7 @@ lḵukanÿáaxʼ	adv	for nothing, for no purpose
 ÿeit	noun	thing below (< ÿee + át)
 -ÿeit	affix	thing (< –ÿi + át; cf. -weit, -neit, -deit, -teit, -jeit)
 ÿeiḵ	noun	beach (< éeḵ ‘beach’)
+-ÿí	affix	possessive, suffix on possessed nouns (cf. -í)
 ÿee	noun	below
 yei	adv	downward (cf. ÿee ‘below’)
 shuwee	noun	lower end, edge (< shú + ÿee)
@@ -589,6 +596,8 @@ wúg̱aa	noun	skin scraper
 √máamaa	root	call ‘mama’
 máadushgaa	noun	priest’s wife (< Ru. матюшка)
 √bélt	root	spell (< Eng. spelled)
+-n	ppn	with, instrumental postposition (cf. een, teen)
+-n	affix	stem variation suffix, causes ablaut of a→éi and u→wéi
 √naʰ	root	damp; drink; rub with tallow
 neisʼ	noun	tallow for rubbing (< √naʰ ‘damp; drink; rub with tallow’)
 √na	root	inherit
@@ -648,10 +657,13 @@ náakw	noun	medicine, drugs
 kaḵéitsʼnáakw	noun	itch medicine
 sx̱enx̱ináakw	noun	dog scratching medicine
 ḵʼanáax̱án	noun	fence (< CJ qʼəláχan)
+-náx̱	ppn	through, along, perlative, prolative
+-náx̱	affix	kind of bay in placenames (e.g. G̱aanáx̱, Sʼiknáx̱, Joonáx̱)
+-náx̱	affix	human numeral, e.g. dáx̱náx̱ ‘two people’
 náx̱ki	noun	needles accumulated under tree
 √naḵ	root	pl. stand
 shachkkanág̱u	noun	moss growing on muskeg (< √naḵ ‘pl. stand’)
-náḵ	ppn	leaving behind (cf. √naḵ ‘leave behind’)
+náḵ	ppn	leaving behind, abessive, ablative (cf. √naḵ ‘leave behind’)
 √naḵ	root	leave behind (cf. náḵ ‘leaving behind’)
 √naḵw	root	rot and fall apart
 naaḵw	noun 	rotten wood, punk (< √naḵw ‘rot and fall apart’)
@@ -851,11 +863,16 @@ ixdáaknáx̱.á	noun	south side inside house toward beach (< éex + dáak)
 √dakw	root	render (fat)
 dakwtási	noun	fertilizer (< √dakw ‘render’)
 nadáakw	noun	table (< CJ lətáp)
+-dáx̱	ppn	from, out of, ablative
+dax̱-	affix	distributive in verbs (cf. dag̱a-, -g̱áa)
+dáx̱-	num	two, compounding form of déix̱ ‘two’
+dáx̱náx̱	num	two people (< dáx̱- + -náx̱)
 √dax̱	root	hew with adze
 dáax̱	noun	canoe under construction (< √dax̱ ‘hew with adze’)
 √daʼx̱	root	move under momentum
 shaÿadáax̱	adv	better/more than before; again (cf. shuwadáax̱)
 shuwadáax̱	adv	better/more than before; again (cf. shaÿadáax̱)
+dag̱a-	affix	distributive in verbs (cf. dax̱-, -g̱áa)
 √daḵ	root	clear up
 √daḵ	root	move residence (perh. related to √daḵ ‘clear up’)
 shax̱dáḵ	noun	kind of shark; kind of beetle (cf. shuḵdáḵ)
@@ -895,7 +912,7 @@ déisaa	noun	clam juice for seasoning (< *√des unknown)
 √detlʼ	root	swelling of wound (also attested as √ḵetlʼ, see L73: 05/96)
 √dexʼ	root	ashamed
 kadéixʼ	noun	shame (< √dexʼ ‘ashamed’)
-déix̱	num	two (cf. déex̱)
+déix̱	num	two (cf. déex̱, dáx̱-)
 déex̱	num	two (cf. déix̱; Yakutat dialect only)
 √deḵ	root	dare
 dee	noun	tea (< Eng.)
@@ -1100,6 +1117,8 @@ kootéeÿaa	noun	totem pole (< √tiʼÿ ‘carve with chisel or adze’)
 √tiʼÿ	root	jealous of spouse
 téeÿ	noun	chin
 √tiʼw	root	count, read (cf. √tuʼw)
+teen	ppn	with, instrumental postposition (< át? + ee + -n, cf. een, -n)
+tin	ppn	with, instrumental postposition (< teen)
 √tin	root	see; travel
 ḵutéen	noun	sight (< √tin ‘see’)
 latíni	noun	watcher (< √tin ‘see’)
@@ -1413,4 +1432,54 @@ dlóotldáx̱	adv	on one’s own (< dlóotl unknown + -dáx̱ ‘ablative’)
 dlóodlidáx̱	adv	on one’s own
 dlóotlkʼidáx̱	adv	on one’s own
 √dluḵ	root	sticky, gooey
-waḵkadlóog̱u	eye mucus (< √dluḵ)
+waḵkadlóog̱u	eye mucus (< waaḵ ‘eye’ + ká + dlóoḵ < √dluḵ)
+tla-	affix	in tlag̱eiÿí ‘brain’ (cf. shá ‘head’)
+tlag̱eiyí	noun	brain (< tla- + g̱ei ‘between, within’ + -í)
+√tla	root	sediment settle (cf. √dla)
+√tlaʰ	root	stout, big around, thick; comforting with tu-
+-tlei	affix	irregular stem form of √tlaʰ ‘stout’
+tlein	adj	big, large (< √tlaʰ ‘stout’ + -n, cf. -tlei)
+aatlein	adv	much, lots (< aa + tlein)
+tlénxʼ	adj	pl. big, large (< tlein + -xʼ)
+tulatlei	noun	comfort (< √tlaʰ, cf. -tlei)
+tláa	noun	mother (cf. atlée, tláakʼw, dlaakʼ)
+atlée	noun	mommy (<? ax̱ tláa, cf. atléi)
+atléi	noun	mommy (<? ax̱ tláa, cf. atlée)
+tláakʼw	noun	mother’s sister (< tláa + -kʼ, cf. dlaakʼ)
+tlám	interj	bang, thump (cf. tlóo)
+tlóo	interj	bang, thump (< tlám)
+tlaxchʼ	noun	dead branch without needles or leaves
+√tlak	root	quieten, shush
+tlákw	adv	always in the past (cf. tlaagú, √tlakw, tlágu, tleix̱)
+tlaagú	noun	legend, legendary; in chʼa tlaagú ‘amazing!’ (cf. tlákw, √tlakw)
+tlágu	adj	old, ancient (cf. tlákw, √tlakw, tlaagú)
+√tlakw	root	investigate; tell legend; whisper with ḵu- (cf. tlákw, tlaagú)
+tláakw	adv	quickly; in anger
+tláaḵ	noun	sharp point of arrow, spear
+lʼutʼtláaḵ	noun	snake, serpent (< lʼóotʼ ‘tongue’ + tláaḵ ‘spearpoint’)
+tláx̱	adv	very, extremely
+√tlax̱	root	mouldy
+tlaax̱	noun	mould (cf. √tlax̱)
+shaltláax̱	noun	rock almost covered by tide
+tle	pcl	and so, just
+√tle	root	strain (cf. √dla, √cha, √dlex̱ʼw
+√tleʰ	root	stout (< √tlaʰ)
+√tle	root	run away, avoid responsibility (only in L78: 32)
+√tlew	root	make noise, yell or speak loudly
+√tletʼ	root	lick; slip
+√tleilkʼú	root	make string figures (< tleilkʼú)
+tleilkʼú	noun	string figures (cf. √tleilkʼú)
+tléil	pcl	negative (cf. héil, hél, l)
+tlél	pcl	neggative (< tléil)
+tléikʼ	interj	no (cf. tléil, héil, l)
+tléixʼ	num	one
+tléináx̱	num	one person (< tléikʼ + -náx̱)
+tléig̱aa	num	one each (< tléikʼ + -g̱áa)
+tleix̱	adv	always in the future (cf. tlákw)
+√tlex̱w	root	plunge, scare fish with plunger
+tléiḵw	noun	berry (cf. √tleḵw ‘grab one at a time’)
+√tleḵw	root	grab one at a time (cf. tléiḵw ‘berry’)
+√tleḵw	root	greedy, gluttonous, excessively
+√tluxʼ	root	pull or roll self; carry clutched
+tlóox̱	noun	bullhead, sculpin (cf. tlóox̱ʼ)
+tlóox̱ʼ	noun	bullhead, sculpin (cf. tlóox̱)
