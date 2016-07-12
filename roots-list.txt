@@ -568,7 +568,7 @@ wóow	noun	lunch (< √wu ‘send, take along’)
 √wu	root	dare (see √wuḵ)
 √wu	root	pale (orig. ‘white’)
 jánwu	noun	mountain goat
-cháatwu	noun	epidermis
+chʼáatwu	noun	epidermis (< chʼáat unknown cf. tlʼátk + √wu ‘pale’)
 taanwú	noun	umbilical cord
 lakʼéechʼwu	noun	surf scoter
 wóo	noun	father-in-law
@@ -802,6 +802,7 @@ noox̱ú	noun	colon (cf. ḵʼanoox̱)
 √da	root	flow
 √da	root	accustomed; watch over
 daa	noun	around, surrounding
+daakeit	noun	container (< daa ‘around’ + ká + át; see -keit)
 kaldaag̱ákw	adv	naked (< daa ‘around’ + -ḵ ‘lacking’ + -ákw?)
 kaldaag̱éináx̱	adv	slowly, carefully (<? daa ‘around’)
 daa	pron	what (wh-question)
@@ -1186,7 +1187,7 @@ tóox	noun	sandflea, bedbug (< √tux; cf. tíx, wanatíx)
 jáajikatúxsi	noun	snowshoe frame (< √túxs unknown; <? Ath.)
 tuxʼ-	affix	knee in yan tuxʼ uwatsúw ‘he knelt down’
 √tuk	root	explode
-√tuk	root	(brew) too strong, rancid; clean, pure (with neg.)
+√tuk	root	(brew) too strong, rancid; clean, pure (with negation)
 √tux̱	root	spit
 leitóox̱	noun	throat (< lé ‘throat’ + √tux̱ ‘spit’)
 tooḵ	noun	needlefish
@@ -1513,13 +1514,13 @@ lʼeiwú	noun	wood (cf. lʼé, lʼoowú)
 lʼéiw	noun	sand (cf. √lʼéiw)
 √lʼéiw	root	sandy (< lʼéiw)
 lʼéinxw	noun	wool ear pendant
-lʼénx̱i	noun	shabby (cf. tlʼénx̱i, lʼúx̱ʼti)
+lʼénx̱i	noun	shabby (cf. tlʼénx̱i, lʼúx̱ʼti, √tlʼéin)
 lʼél	noun	jackpine (cf. lʼál)
 lʼeix̱	noun	aluminum, grey rock (cf. lʼáax̱ʼ)
 √lʼex̱	root	dance
 lʼeix̱	noun	dance (cf. √lʼex̱)
 hinyiklʼéx̱i	water ouzel (< héen + ÿík + √lʼex̱ ‘dance’)
-lʼax̱keit	noun	mask (< lʼeix̱ ‘dance’ + ká + át, cf. -keit)
+lʼax̱keit	noun	mask (< lʼeix̱ ‘dance’ + ká + át, see -keit)
 alʼeix̱í	noun	dancer; sandhopper (< √lʼex̱)
 lʼée	noun	potlatch blanket
 ji.aax̱gwalʼí	noun	string for something on lix̱ʼooseit (in L78: 34)
@@ -1548,6 +1549,59 @@ lʼook	noun	coho salmon, silver salmon
 √lʼuxʼ	root	gulp, drink up
 √lʼux̱ʼ	root	spray milt, spawn; cloud water
 lʼóox̱'	noun	milt
-lʼúx̱ʼti	noun	worn (cf. lʼénx̱i, tlʼénx̱i)
-
-tlʼénx̱i	noun	shabby (cf. lʼénx̱i, lʼúx̱ʼti)
+lʼúx̱ʼti	noun	worn (cf. lʼénx̱i, tlʼénx̱i, √tlʼéin)
+tlʼa-	affix	in tlʼag̱áa ‘lots’ (cf. chʼa)
+tlʼag̱áa	adv	lots (< tlʼa- unknown + -g̱áa ‘adessive’)
+tlʼaa-	affix	in tlʼaadéin ‘crosswise’, maybe in tlʼaaḵʼwáchʼ ‘sorrel’
+tlʼaadéin	adv	crosswise (< tlʼaa- unknown + -déin ‘adverb’)
+eetlʼát	noun	lowbush cranberry (<? Ath.)
+tlʼátk	noun	earth, dirt, soil (cf. chʼáatwu, tlʼáx̱ʼkw, tlʼéx̱ʼkw, √chʼex̱ʼw)
+tlʼáatlʼ	noun	yellow salmonberry; yellow thing (cf. chʼáalʼ, sʼáasʼ)
+tlʼági	noun	bow of boat (in L78: 35)
+√tlʼakʼ	root	wet
+katlʼaakʼ	noun	mica (< √tlʼakʼ ‘wet’)
+tlʼaaḵʼwáchʼ	noun	sorrel, wild rhubarb (cf. tlʼaa-, √ḵʼwach, √ḵʼwash)
+tlʼáx̱ʼkw	noun	soil, earth (cf. tlʼéx̱ʼkw, tlʼátk, √chʼex̱ʼw)
+atlx̱atlʼéi	interj	my goodness (in L73: 08/223)
+√tlʼéin	root	pure, clean (with negation)
+tlʼeitáḵw	noun	pure, honest, consecrated (< √tlʼéin + -áḵw ‘lacking’)
+tlʼénx̱i	noun	shabby, messy (cf. lʼénx̱i, lʼúx̱ʼti, √tlʼéin, tlʼéxwti)
+tlʼéinaa	noun	hair tie (< tlʼéenaa)
+tlʼéinaa	noun	three-pronged stick for barbecuing salmon
+√tlʼetʼ	root	grasp tightly, climb
+kootlʼéitʼaa	noun	small white seagull (< √tlʼetʼ, cf. koochʼéitʼaa)
+tlʼéili	noun	milt; fish guts
+tlʼétlʼ	noun	moonfish, blowfish
+tlʼéxwti	noun	ill-fitting, ugly (cf. tlʼénx̱i, lʼénx̱i, lʼúx̱ʼti)
+√tlʼeʼkw	root	recoil, dodge, duck
+√tlʼekw	root	eat raw seafood
+tlʼéx̱	noun	usnea
+√tlʼeḵ	root	carry with pincers (< √tlʼiḵ)
+tlʼeiḵw	noun	finger (< tlʼeeḵ)
+tlʼéx̱ʼkw	noun	soil (cf. tlʼáx̱ʼkw, tlʼátk, √chʼex̱ʼw)
+√tlʼin	root	tie up hair or cloth (cf. tlʼéenaa, tlʼéinaa, √chʼin, chʼéen)
+tlʼéenaa	noun	hair tie (< √tlʼin, cf. chʼéen)
+shakatlʼéen	skein of yarn, hank of beads (< √tlʼin)
+ḵʼalukatlʼéeni	noun	toebar
+√tlʼit	root	throw away, discard
+ḵutlʼídaa	noun	shovel (< √tlʼit)
+√tlʼitʼ	root	fill with liquid (cf. √tsʼitʼ)
+tlʼíl	noun	hammer; penis
+√tlʼix	root	dirty, trashy (cf. tlʼeex)
+tlʼeex	noun	trash (cf. √tlʼix)
+tlʼixdaakeit	noun	trash can (< tlʼeex + daa + ká + át, see -keit)
+√tlʼéekʼát	root	thread stick through to make rigid
+tlʼéekʼát	noun	stick threaded through fish to make rigid for cooking
+tlʼíkʼwx̱	noun	worm (cf. tlʼúkʼx̱)
+√tlʼiḵ	root	carry with pincers (cf. tlʼeeḵ, tlʼeiḵ)
+tlʼeeḵ	noun	finger (cf. tlʼeiḵ, wankachʼeeḵ)
+√tlʼun	root	squint; mutter
+tlʼóon	noun	big shot, self important
+tlʼúkʼx̱	noun	worm (< tlʼíkʼwx̱)
+aastutlʼúkʼx̱u	noun	woodworm
+√tlʼuḵ	root	drip slowly
+katlʼúḵjaa	noun	slow drip (< √tlʼuḵ)
+tlʼoog̱ú	noun	liver (cf. √tlʼuḵ, tlʼoog̱ú)
+tlʼóog̱u	noun	liver (cf. √tlʼuḵ, tlʼóog̱u)
+√tlʼuʼḵ	root	rot and smell, develop sore (cf. tlʼooḵ)
+tlʼooḵ	noun	open sore (cf. √tlʼuʼḵ)
