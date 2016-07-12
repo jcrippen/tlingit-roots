@@ -1483,3 +1483,71 @@ tléiḵw	noun	berry (cf. √tleḵw ‘grab one at a time’)
 √tluxʼ	root	pull or roll self; carry clutched
 tlóox̱	noun	bullhead, sculpin (cf. tlóox̱ʼ)
 tlóox̱ʼ	noun	bullhead, sculpin (cf. tlóox̱)
+√lʼaʰ	root	suck (cf. lʼaa ‘breast’)
+lʼaa	noun	breast (cf. √lʼaʰ ‘suck’)
+lʼaatux̱áni	noun	milk (< lʼaa ‘breast’ + tú ‘inside’ + x̱án unknown + -í)
+lʼáa-	affix	in lʼáadu ‘inner part of spruce root’ and tulʼáadu ‘foundation’
+lʼáadu	noun	inner part of spruce root (cf. lʼáadu)
+tulʼáadu	noun	foundation of house (< tú ‘inside’ + lʼáadu)
+tulʼáatx̱u	noun	foundation of house (cf. tulʼáadu)
+lʼaw-	affix	in lʼawshadaaÿí ‘war helmet’ (in L73: 08/170)
+lʼán	noun	in kʼiḵlʼán ‘palate’ and waḵlʼandaa ‘around the eye’
+kʼiḵlʼán	noun	palate (< kʼiḵ + lʼán)
+waḵlʼandaa	noun	around the eye (< waaḵ ‘eye’ + lʼán + daa ‘around’)
+√lʼatʼ	root	carry in tongs
+lʼátʼaa	noun	tongs (< √lʼatʼ)
+lʼál	noun	jackpine (cf. lʼél)
+lʼaak	noun	dress
+doonÿaax̱lʼaak	noun	petticoat (< doonÿaa ‘under clothes’ + lʼaak ‘dress’)
+lʼákwti	noun	dry fallen tree
+√lʼaḵ	root	put down hemlock branches for herring spawn
+√lʼaḵw	root	stuck in muck (cf. lʼáaḵw, lʼáḵwti)
+lʼáaḵw	noun	flat-bowed canoe (cf. √lʼaḵw, lʼáḵwti)
+lʼáḵwti	noun	old and worn out thing (cf. √lʼaḵw, lʼáaḵw)
+lʼáax̱ʼ	noun	greyish colour (in L78: 34; <?; cf. shalʼáax̱ʼ, lʼeix̱)
+shalʼáax̱ʼ	noun	long beetle (in L78: 34; cf. láax̱ʼ)
+√lʼéi	root	promiscuous, sexually aroused
+lʼé	noun	sediment (cf. lʼéiw)
+takalʼeiÿí	noun	sediment in oil (< tá + ká + lʼé + -í)
+lʼeiwú	noun	wood (cf. lʼé, lʼoowú)
+lʼéiw	noun	sand (cf. √lʼéiw)
+√lʼéiw	root	sandy (< lʼéiw)
+lʼéinxw	noun	wool ear pendant
+lʼénx̱i	noun	shabby (cf. tlʼénx̱i, lʼúx̱ʼti)
+lʼél	noun	jackpine (cf. lʼál)
+lʼeix̱	noun	aluminum, grey rock (cf. lʼáax̱ʼ)
+√lʼex̱	root	dance
+lʼeix̱	noun	dance (cf. √lʼex̱)
+hinyiklʼéx̱i	water ouzel (< héen + ÿík + √lʼex̱ ‘dance’)
+lʼax̱keit	noun	mask (< lʼeix̱ ‘dance’ + ká + át, cf. -keit)
+alʼeix̱í	noun	dancer; sandhopper (< √lʼex̱)
+lʼée	noun	potlatch blanket
+ji.aax̱gwalʼí	noun	string for something on lix̱ʼooseit (in L78: 34)
+lʼeet	noun	tail
+lʼílʼ	noun	feces (cf. √lʼilʼ)
+√lʼilʼ	root	defecate (cf. lʼílʼ)
+√lʼik	root	pop louse or nit
+kakalʼéek	noun	nit (< √lʼik)
+√lʼik	root	wink (cf. √lʼixw, √lʼikw)
+√lʼixw	root	close eyes (cf. √lʼik, √lʼikw, √lʼux)
+√lʼikw	root	blink (cf. √lʼik, √lʼixw, √lʼukw)
+xeitllʼíkgu	noun	lightning (< xeitl + √lʼikw)
+√lʼixʼ	root	break 
+lʼéexʼi	noun	broken piece (cf. √lʼixʼ)
+√lʼux	root	close eyes (< √lʼixw)
+√lʼuk	root	blink (< √lʼikw)
+xeitllʼúkgu	noun	lightning (< xeitl + √lʼikw)
+√lʼuʼn	root	hunt
+alʼóoni	noun	hunter (< √lʼuʼn)
+lʼóoni	noun	hunt (< √lʼuʼn)
+lʼóotʼ	noun	tongue
+√lʼóotʼ	root	tongue (< lʼóotʼ)
+√lʼutl	root	scavenge (cf. √lʼuʼn)
+√lʼuk	root	snow have hard crust (in L78: 34)
+lʼook	noun	coho salmon, silver salmon
+√lʼuxʼ	root	gulp, drink up
+√lʼux̱ʼ	root	spray milt, spawn; cloud water
+lʼóox̱'	noun	milt
+lʼúx̱ʼti	noun	worn (cf. lʼénx̱i, tlʼénx̱i)
+
+tlʼénx̱i	noun	shabby (cf. lʼénx̱i, lʼúx̱ʼti)
