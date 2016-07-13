@@ -30,7 +30,7 @@ kuhaantí	noun	orphan
 -háan	affix	plural pronoun suffix
 ḵuháan	noun	dwellers (see ḵwáan)
 háanís	noun	harness (< Eng.)
-hándít	noun	hundred (< CJ)
+hándít	noun	hundred (< CJ or Eng.)
 √hat	root	carry heavy object
 koohádaa	noun	heavy thing carrier (< √hat ‘carry heavy object’)
 √hat	root	cover
@@ -152,7 +152,7 @@ ltʼaaní	noun	world (< lingitʼaaní ‘world’)
 tula.aan	noun	kindness (< √.àan ‘kind’)
 √.aʼn	root	bedridden
 áan	noun	fish trap
-áanjís	noun	orange (< CJ)
+áanjís	noun	orange (< CJ ólanjis < Eng.)
 ánkʼw	noun	spoiled brat
 √.ánkʼw	root	spoiled (< ánkʼw ‘brat’)
 át	noun	thing
@@ -510,16 +510,16 @@ shanaax̱kaÿéeḵ	noun	scarf (< √ÿiḵ ‘pull, draw’)
 ÿéeḵ	noun	foremost or sternmost place in canoe (cf. √ÿiḵ ‘pull, draw’)
 saÿeeḵ	noun	next day (cf. seig̱án ‘tomorrow’, ÿee ‘time’)
 wáa	pron	how (wh-question)
-wánwaa	noun	sailor (< Eng man-o-war or CJ manawaa)
+wánwaa	noun	sailor (< Eng. man-o-war or CJ manawaa)
 x̱ʼeisʼawáa	noun	ptarmigan; pigeon
 wán	noun	edge
 woon	noun	maggot (cf. √wan)
 √wan	root	maggoty (cf. woon)
-Kinjuchwaan	name	Canadian, English (< CJ kinjochman < Eng. King George)
-ganaswáan	noun	worker (< CJ < Eng. businessman)	
-sgóonwaan	noun	student (< CJ sgulman < Eng. school+man)
-Jáawaan	name	German (< Eng.)
-Cháanwaan	name	Chinese (< CJ chanəman < Eng. chinaman)
+Kinjuchwaan	name	Canadian, English (< CJ kínjochman < Eng. King George)
+ganaswáan	noun	worker (< CJ or Eng. businessman)	
+sgóonwaan	noun	student (< CJ sgúlman < Eng. school + man)
+Jáawaan	name	German (< CJ or Eng.)
+Cháanwaan	name	Chinese (< CJ chánəman < Eng. chinaman)
 Waaktwáani	name	Victoria (< CJ biktóli < Eng.)
 waat	noun	fathom (cf. ÿaat)
 √wat	root	measure fathom (cf. waat, ÿaat)
@@ -534,7 +534,7 @@ wáadishgaa	noun	priest (< Ru. батюшка)
 x̱ʼasʼkalawálʼ	noun	jawbreaker
 √was	root	dry roast
 wáasadi	noun	dry roasted fish
-Kíswás	noun	Christmas (< CJ kísmás < Eng.)
+Kíswás	noun	Christmas (< CJ kísmas < Eng.)
 wáasdla	noun	butter (< Ru. масло)
 wásʼ	noun	bush; stem
 √wusʼ	root	ask (cf. √wasʼ ‘ask’)
@@ -821,14 +821,14 @@ séewkooshdaneit	noun	swallow (cf. sinkooshdaneit, < séewkooshtaneit)
 sinkooshdaneit	noun	swallow (cf. séewkooshdaneit, < séewkooshtaneit)
 kadáan	noun	fine, excellent (cf. ḵooshkadáan)
 ḵooshkadáan	interj	alas, oh no, distress (cf. kadáan)
-Wáasdán	name	American (< CJ báštən < Eng. Boston)
+Wáashdán	name	American (< CJ báštən < Eng. Boston)
 dáanaa	noun	money, silver, coin, circular (< CJ dála < Eng. dollar)
 waḵdáanaa	noun	eyeglasses (< waaḵ ‘eye’ + dáanaa ‘silver, coin’)
 √dáanaa	root	rich, wealthy (< dáanaa ‘money’)
 geewdáan	noun	horse (< CJ kiyudán)
 giwdáan	noun	horse (< CJ kiyudán)
-gawdáan	noun	horse (< giwdáan)
-gamdáan	noun	horse (< gawdáan)
+gawdáan	noun	horse (< giwdáan < CJ kiyudán)
+gamdáan	noun	horse (< gawdáan < CJ kiyudán)
 √daʼt	root	bounce back
 dáat	noun	jelly (< √daʼt ‘bounce back’)
 √dat	root	bruised
@@ -921,9 +921,9 @@ deenáa	noun	seal harpoon (<? √din ‘upset, concern, trouble’)
 sʼoodeen	noun	shrew
 sʼikshaldéen	noun	Hudson Bay tea (< sʼeek + shá + l-*√din unknown)
 gukyikdínl	noun	earwax, hard of hearing (< gúk + ÿík + *√din + *-l)
-shdéen	noun	steel (< CJ or Eng.)
+shdéen	noun	steel (< CJ or Eng.; occ. sdéen)
 shadíngaa	noun	pig (<? Ru. свинья ‘pig’ or свинина ‘pork’)
-shadéengaa	noun	strings (? see L73 05/115)
+shadéengaa	noun	strings (? see L73 05/115; cf. shadíngaa ‘pig’)
 dís	noun	moon, month (cf. √diʼs)
 √diʼs	root	moon be visible; month change (cf. dís ‘moon’)
 √dich	root	rub eyes (cf. √duch ‘rub eyes’)
@@ -967,8 +967,7 @@ dóosh	noun	cat (<? CJ puspús)
 √duchʼ	root	cut in chunks
 dúx	noun	lowbush cranberry (< dáxw)
 dóox	noun	sinew (rare; cf. tás ‘sinew, thread’)
-sdóox	noun	stove (< CJ or Eng.)
-shdóox	noun	stove (rare, cf. sdóox)
+sdóox	noun	stove (< CJ or Eng.; occ. shdóox)
 √duk	root	closed up, solid, plugged, healed up, become whole
 lit.isdúk	noun	black bass (< √duk ‘closed up, solid’)
 dook	noun	skin, complexion
@@ -1623,9 +1622,9 @@ sán	noun	waist in kasán ‘waist’ and sankeit ‘dance apron’
 kasán	noun	waist (< ká + sán)
 sankeit	noun	dance apron (< sán + ká + át, cf. -keit)
 sáni	noun	father’s brother
-sitgawsaan	noun	noon (< sitgamsaan)
-sitgansaan	noun	noon (< sitgamsaan)
-sitgamsaan	noun	noon (< CJ sítkum san ‘half day/sun’)
+sitgawsaan	noun	noon (< sitgamsaan < CJ sítkəm san ‘half day/sun’)
+sitgansaan	noun	noon (< sitgamsaan < CJ sítkəm san ‘half day/sun’)
+sitgamsaan	noun	noon (< CJ sítkəm san ‘half day/sun’)
 sáani	noun	medium amount
 =sáani	affix	plural of diminutive (< sáani ‘medium amount’)
 kʼisáani	noun	boys, young men (< kʼi unknown + sáani)
