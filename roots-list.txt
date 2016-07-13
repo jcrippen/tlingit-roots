@@ -164,13 +164,13 @@ tooxée.aat	noun	hives
 aat	noun	father’s sister
 áadaa	noun	fish spear (occ. éidaa)
 lu.áadaa	noun	marbled godwit? (<? áadaa ‘fish spear’)
-ÿinaak.áatʼani	noun	lid (cf. √.atʼ ‘cold’)
-ÿana.áatʼani	noun	lid
-ÿana.áaktʼani	noun	lid
-ÿanáatʼi	noun	lid
-ÿaÿakʼáatʼi	noun	lid
-niÿa.áatʼani	noun	lid
-ÿanáatʼani	noun	lid
+ÿinaak.áatʼani	noun	lid, cover (cf. √.atʼ ‘cold’)
+ÿana.áatʼani	noun	lid, cover
+ÿana.áaktʼani	noun	lid, cover
+ÿanáatʼi	noun	lid, cover
+ÿaÿakʼáatʼi	noun	lid, cover
+niÿa.áatʼani	noun	lid, cover
+ÿanáatʼani	noun	lid, cover
 √.atʼ	root	cold
 áatʼ	noun	cold (< √.atʼ ‘cold’)
 áatʼlani	noun	slime of shellfish (< √.atʼ ‘cold’)
@@ -373,8 +373,6 @@ yéilʼ	noun	elderberry
 yeis	noun	horseshoe clam
 ÿees	noun	horseshoe clam
 yeis	noun	autumn
-yeisú	adv	still, yet, just now
-ÿeisú	adv	still, yet, just now
 √yesʼ	root	blacken, discolour (cf. ÿéisʼ ‘obsidian’)
 daakayésʼaa	noun	shoe polish (< √yesʼ ‘blacken, discolour’)
 yétsʼ	noun	jet black (cf. √yesʼ ‘blacken, discolour’)
@@ -478,12 +476,12 @@ wanee	noun	secret (< wanÿee)
 diÿín	dirn	downward, below (cf. daÿee, ÿee)
 daÿee	noun	below (cf. diÿín)
 ÿee	noun	time (obsolete, only found in compounds, < *ŋiʰ)
-yagiÿee	noun	day (cf. ÿee ‘time’, perh. yáaxʼ ÿee ‘here time’?)
+yagiÿee	noun	day (cf. ÿee ‘time’, <? yáaxʼ ‘here’ + ÿee)
 yakyee	noun	day (< yagiÿee)
 yagee	noun	day (< yagiÿee)
-ÿeedát	noun	now (cf. ÿee ‘time’, taat ‘night’)
-ÿéeÿi	noun	former, previous (cf. ÿee ‘time’)
-ÿeen	noun	time interval, during, middle (cf. ÿee ‘time’, -n ‘instr.’)
+ÿeedát	noun	now (< ÿee ‘time’ + dát unknown, cf. taat ‘night’)
+ÿéeÿi	noun	former, previous (< ÿee ‘time’)
+ÿeen	noun	time interval, during, middle (< ÿee ‘time’, -n ‘instr.’)
 ÿinká	noun	middle of island (cf. ÿeen ‘time interval’)
 √ÿiʼÿ	root	bind long obj.
 shaÿéen	noun	nail (<? √ÿiʼÿ ‘bind long obj.’; Haida sangíin)
@@ -581,7 +579,7 @@ wool	noun	hole (cf. √wal ‘have hole’)
 atḵaalawóodli	noun	intestinal worm of porcupine
 √wulʼ	root	peel (cf. √wutʼ ‘split along grain’, √walʼ ‘break’)
 √wutlʼ	root	stubborn (cf. √wuchʼ ‘stubborn’, √wusʼ ‘tough’)
-wasóos	noun	cattle (< waswóos < CJ musmús)
+waswóos	noun	cattle (< CJ musmús; cf. wasóos)
 √wusʼ	root	tough (cf. √wutlʼ ‘stubborn’, √wuchʼ ‘stubborn’)
 √wusʼ	root	murky (cf. √wuchʼ ‘murky’)
 √wuchʼ	root	murky (cf. √wusʼ ‘murky’)
@@ -819,8 +817,8 @@ dám	interj	bang
 kadánjaa	noun	dust
 Dánjaakʼ	name	Donjek River (reinterp.)
 √dan	root	pile up (cf. √daʼn ‘snow fall heavily’)
-séewkooshdaneit	noun	swallow (cf. sinkooshdaneit)
-sinkooshdaneit	noun	swallow (cf. séewkooshdaneit)
+séewkooshdaneit	noun	swallow (cf. sinkooshdaneit, < séewkooshtaneit)
+sinkooshdaneit	noun	swallow (cf. séewkooshdaneit, < séewkooshtaneit)
 kadáan	noun	fine, excellent (cf. ḵooshkadáan)
 ḵooshkadáan	interj	alas, oh no, distress (cf. kadáan)
 Wáasdán	name	American (< CJ báštən < Eng. Boston)
@@ -1008,7 +1006,7 @@ yoox̱ʼatánk	noun	speech (< x̱ʼa- ‘mouth’ + √tan ‘handle’)
 √tan	root	hook squid or octopus
 táanaa	noun	octopus spear (< √tan ‘hook squid or octopus’)
 √tan	root	be habituated
-séewkooshtaneit	noun	swallow (< √tan ‘habituated’)
+séewkooshtaneit	noun	swallow (< séew ‘rain’ + √tan ‘habituated’)
 Ḵudatán Hít	noun	Salmon Box House (< ḵu- ‘areal’ + da-√tan unknown)
 √tánu	root	gripe, complain, mutter
 sʼigeiditaan	noun	bat (< sʼigeidí ‘beaver’ + taan unknown)
@@ -1605,3 +1603,109 @@ tlʼoog̱ú	noun	liver (cf. √tlʼuḵ, tlʼoog̱ú)
 tlʼóog̱u	noun	liver (cf. √tlʼuḵ, tlʼóog̱u)
 √tlʼuʼḵ	root	rot and smell, develop sore (cf. tlʼooḵ)
 tlʼooḵ	noun	open sore (cf. √tlʼuʼḵ)
+√saʰ	root	narrow, small in girth
+√sa	root	breathe, rest (cf. daséikw, x̱ʼaséikw)
+daséikw	noun	breath, air, life (< d- + √sa ‘breathe’ + -kw)
+x̱ʼaséikw	noun	breath, air, life (< x̱ʼé ‘mouth’ + √sa ‘breathe’ + -kw)
+√sa	root	name, call (cf. saa ‘name’)
+saa	noun	name (cf. √sa ‘name, call’)
+√saaÿí	root	famous (< saa ‘name’)
+saaÿee	noun	calf of leg
+dag̱asaa	noun	squid
+saa	dirn	southern
+Saanÿaa	name	Sanya ḵwáan (< saa ‘southern’ + niÿaa ‘direction’)
+sáanáx̱	noun	south wind (< saa ‘southern’ + -náx̱ ‘through, along’)
+sáanáx̱eit	noun	south wind (< sáanáx̱ + -eit)
+√saʼÿ	root	hot, sweaty, steamy
+kasáÿjaa	noun	heat (< √saʼÿ ‘hot, sweaty, steamy’)
+√saʼn	root	cure shamanistically
+sán	noun	waist in kasán ‘waist’ and sankeit ‘dance apron’
+kasán	noun	waist (< ká + sán)
+sankeit	noun	dance apron (< sán + ká + át, cf. -keit)
+sáni	noun	father’s brother
+sitgawsaan	noun	noon (< sitgamsaan)
+sitgansaan	noun	noon (< sitgamsaan)
+sitgamsaan	noun	noon (< CJ sítkum san ‘half day/sun’)
+sáani	noun	medium amount
+=sáani	affix	plural of diminutive (< sáani ‘medium amount’)
+kʼisáani	noun	boys, young men (< kʼi unknown + sáani)
+shaaxʼsáani	noun	girls, young women (< sháa ‘woman’ + -xʼ ‘pl.’ + sáani)
+woosáani	noun	hunting spear
+sándi	noun	Sunday, week (< CJ sándi < Eng. Sunday)
+sandix̱ʼáak	noun	week (< sándi + x̱ʼáak ‘interval’)
+√sat	root	tight (cf. √hat ‘cover’, √sa ‘narrow’)
+√sátkw	root	fast, quick (< √ha ‘move invisibly’)
+sáaxdze	noun	orphaned bear cub, yearling rejected by mother (< Ath.)
+sáxwti	noun	handle (cf. síxwti)
+sáaxw	noun	cockle
+saak	noun	hooligan, eulachon
+sáagi	noun	place for lying in wait
+-sákw	adj	future, to be
+kaságu	noun	beam of house (cf. kasúgu)
+sagweit	noun	type of deadfall trap (< sákw unknown + -eit; cf. seen)
+sáxʼ	noun	edible cambium of spruce or hemlock
+√saḵ	root	exhausted
+sáḵs	noun	yew; bow
+√seʰ	root	near (cf. √leʰ ‘far, distant’)
+sé	noun	voice, neck
+seit	noun	necklace (< sé + át)
+saka.át	noun	necktie (< sé + ká + át)
+sekawóot	noun	necklace (< sé + kawóot ‘bead’)
+satú	noun	voice (< sé + tú)
+sadaa	noun	neck (< sé + daa)
+sadatʼaaÿ	noun	scarf (< sé + daa ‘around’ + tʼaaÿ ‘heat’)
+sé	noun	place below or in front; cache
+séixʼ	noun	in trade, in exchange (< sé ‘place below’ + -xʼ)
+waḵdasé	noun	without seeing (< waaḵ ‘eye’ + daa ‘around’ + sé ‘place below’)
+seiyí	noun	area below it; shelter (< sé ‘place below’ + -í)
+séitaa	noun	snipe (< √set unknown or √sa unknown + -t)
+√sel	root	bird sing, chirp
+kaséix̱jaa	noun	soft rain (< kaséex̱jaa)
+seig̱án	noun	tomorrow (<? √sa ‘breathe, rest’ + -án ‘restore’)
+seig̱ánín	noun	 tomorrow (< seig̱án ‘tomorrow’ + -ín unknown)
+√seḵʼw	root	stain, dye (cf. √lex̱ʼw ‘red’, léiḵʼw, léiḵʼw, shéix̱ʼw, shoox̱ʼ)
+séiḵʼw	noun	dark spot, stain (cf. √seḵʼw)
+kaséiḵʼw	noun	dye, color (< ká + √seḵʼw)
+kaséḵʼx̱u	noun	dye, color (< ká + √seḵʼw + -x̱ + -í)
+tukaséiḵʼu	noun	egg yolk (with kʼwátʼ; < tú + kaséiḵʼw)
+sée	noun	daughter; doll
+síkʼ	noun	daughter (vocative; < sée + -kʼ ‘diminutive’)
+jimasasée	noun	yellow warbler (< Ath.)
+séew	noun	rain (< séem)
+séem	noun	rain
+√séew	root	rainy (< séew ‘rain’)
+kaséex̱jaa	noun	soft rain (<? séew ‘rain’)
+√sin	root	hide, conceal
+seen	noun	deadfall trap (cf. √sin ‘hide’, sein, sagweit)
+sein	noun	deadfall trap (< seen)
+sínk	noun	silk (< Eng.)
+sánk	noun	silk (< Eng.)
+√siʼt	root	braid
+seet	noun	Sitka spruce canoe (cf. leet, √lit ‘slide’)
+séet	noun	channel, portage
+sítʼ	noun	glacier
+√sis	root	tired, fatigued (cf. √siʼs)
+√siʼs	root	lull to sleep (cf. √suʼs, √sis)
+√suʼs	root	lull to sleep (cf. √siʼs)
+ḵaasistʼaan	noun	spider (cf. ḵaashashx̱áaw ‘dragonfly’, √tʼan)
+√sitsʼ	root	dripping wet
+síxwti	noun	handle (cf. sáxwti)
+√sik	root	put on belt (cf. séek ‘belt’)
+séek	noun	belt (cf. √sik ‘put on belt’)
+√siʼk	root	keep over, delay, detain
+√sèek	root	bashful
+√sik	root	have something wrong (only in L78: 37; <? Eng. sick)
+√suʰ	root	supernatural help
+sú	noun	long seaweed
+sú	noun	ahead of
+sóox̱	adv	ahead of, soon (< sú + -x̱)
+súg̱aa	adv	for future (< sú + -g̱áa)
+ÿeisú	adv	still, yet, just now (< ÿee ‘time’ + sú)
+√suʼn	root	bubble; tipsy from drink
+x̱ʼasúnjaa	noun	bubbles from fish (< x̱ʼé + súnjaa)
+súnjaa	noun	bubble (< √suʼn)
+√suʼs	root	pl. fall
+√suʼs	root	lull to sleep (cf. √siʼs)
+wasóos	noun	cattle (< waswóos < CJ musmús)
+kasúgu	noun	beam of house (cf. kaságu)
+sooḵ	noun	wide grass
