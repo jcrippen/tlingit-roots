@@ -407,6 +407,7 @@ tsʼayóokʼ	adv	immediately, suddenly, right away (cf. yóo ‘thus’)
 yú	det	that (distal)
 yóotg̱aanyís	adv	just in case (cf. yú ‘that’, ÿís ‘for’)
 yóotg̱aantsá	adv	in some remote future (cf. yóotg̱aanyís ‘just in case’)
+yóoxgaa	noun	skirt (< Ru. юпка)
 √yuʼk	root	shake
 √yux̱ʼ	root	soaked, waterlogged
 √yux̱ʼ	root	gnaw, eat with teeth
@@ -759,6 +760,7 @@ x̱ʼanéegwálʼ	noun	lipstick (< x̱ʼé ‘mouth’ + néegwálʼ ‘paint’
 g̱aneex̱í	noun	saviour (< √nix̱)
 g̱aneex̱	noun	salvation (< √nix̱)
 neex̱	noun	safe harbour (< √nix̱)
+xunéikw	noun	bread of Eucharist (< Ru. хлеб; cf. ginóok)
 √nex̱	root	save, heal (< √nix̱)
 g̱aneix̱í	noun	saviour (< √nex̱)
 g̱aneix̱	noun	salvation (< √nex̱)
@@ -789,6 +791,7 @@ nóochʼ	noun	heart of fish
 g̱anook	noun	petrel (< √nuk ‘sg. animate sit’)
 ganx̱nook	noun	pot beside fire (< gán + √nuk ‘sg. animate sit’)
 káanukjeit	noun	chair (< a káa núkji át, < √nuk ‘sg. animate sit’)
+ginóok	noun	bread of the Eucharist (< *ginéikw < Ru. хлеб; cf. xunéikw)
 nukt	noun	grouse
 √nukts	root	sweet, delicious
 √nukch	root	helpless, undependable
@@ -1149,6 +1152,7 @@ katísʼayi	noun	large snowflakes (<? √tisʼ ‘watch for, look, stare’)
 √tix	root	have fleas (cf. tíx ‘flea’, wanatíx ‘ant’)
 tíx	noun	flea (cf. √tix ‘have fleas’, wanatíx ‘ant’)
 wanatíx	noun	ant (cf. tíx ‘flea’, √tix ‘have fleas’; or <? CJ)
+stixáa	noun	sticharion, cassock (< Ru. стихарь < Gk. στιχάριον)
 √tixw	root	stamp feet (cf. √tux, √tis ‘shuffle’)
 tíxwjaa	noun	stamping noise (< √tixw ‘stamp feet’)
 tíxʼ	noun	rope, cord (cf. √tixʼ ‘twist into rope’)
