@@ -1,13 +1,27 @@
 # Tlingit Roots
 
-This is a collection of documented roots and nouns in the Tlingit language,
-meant for reference and linguistic research. The structure of the file is
-very simple so that it can be easily parsed by text processing tools. The 
-contents are derived from Leer’s stem and verb documentation.
+This is a collection of documented roots and other parts of speech in the
+Tlingit language, meant for reference and linguistic research. The structure of
+the file is very simple so that it can be easily parsed by text processing
+tools. The contents are derived from Leer’s stem and verb documentation.
 
 * Leer 1973: http://www.uaf.edu/anla/item.xml?id=TL962L1973g
 * Leer 1976: http://www.uaf.edu/anla/item.xml?id=TL962L1975n
 * Leer 1978: http://www.uaf.edu/anla/item.xml?id=TL962L1975m
+
+This collection is meant to be exhaustive for verb roots, but not for nouns.
+Compounding and other nominal morphology make the noun inventory potentially
+far larger than the verb root inventory. Most if not all monomorphemic nouns
+are represented, but only a selection of interesting nouns of other kinds
+are included.
+
+The coverage of other parts of speech aims to be exhaustive. Particular
+emphasis is given to interjections, directionals, underived adjectives,
+underived adverbs, postpositions, pronouns, determiners, and demonstratives.
+
+Names are included mostly to illustrate otherwise rare lexical items. The
+majority of included names are ethnonyms, clan names, and place names.
+Personal names are generally limited to legendary and mythical figures.
 
 ## Structure
 
