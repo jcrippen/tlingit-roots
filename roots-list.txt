@@ -608,6 +608,7 @@ g̱alnáatʼadi	noun	bundle (< √na ‘carry bundles’)
 naawú	noun	corpse (< √naʷ ‘die’)
 naná	noun	death (< √naʷ ‘die’)
 dzaná	noun	sour smelling fish (in Raven story)
+guḵx̱oodzanaayí	noun	dried salmon packed with góoḵ (in L73: 09/99; cf. dzaná)
 ná	interj	here, take this
 ḵunáa	adv	in chʼu ḵunáa ‘even though’ and yéi ḵunáa ‘about this time’
 g̱una	adv	different
@@ -995,7 +996,7 @@ taaÿ	noun	fat
 √ta	root	fat (cf. taaÿ ‘fat’, √táaÿ)
 √táaÿ	root	fat (cf. taaÿ ‘fat’, √ta ‘fat’)
 táaÿ	noun	garden
-ltaaÿí	noun	ptarmigan (< Ath. ʔəłdaːỹiː ‘bough eater’)
+ltaaÿí	noun	ptarmigan (< Dene ʔəłdaːỹiː ‘bough eater’)
 √taʼw	root	steal
 táaw	noun	stealing, thievery (< √taʼw ‘steal’)
 táawsán	num	thousand (< CJ or Eng.)
@@ -1083,7 +1084,7 @@ texʼaaÿí	noun	rocky point (< té ‘rock’ + xʼaa)
 goowaté	noun	round stone for anchor (< goowa- unknown + té ‘rock’)
 yéilteiyí	noun	mica (< yéil ‘raven’ + té ‘rock’)
 tégéxkw	noun	pumice (< té ‘rock’ + géxkw unknown)
-ḵooté	noun	medium-sized beaver (<? Ath.)
+ḵooté	noun	medium-sized beaver (<? Dene)
 ḵʼateil	noun	jug
 téil	noun	pitch
 téil	pcl	negative (in Teslin & Carcross; cf. tléil, tlél, tléikʼ)
@@ -1185,7 +1186,7 @@ tóoch	adj	fresh
 √tuchʼ	root	rub with hand, dab, roll up (cf. √dutlʼ, √duchʼ, √dusʼ, √tul)
 √tux	root	(insect) spring, hop (cf. √tix, √tixw)
 tóox	noun	sandflea, bedbug (< √tux; cf. tíx, wanatíx)
-jáajikatúxsi	noun	snowshoe frame (< √túxs unknown; <? Ath.)
+jáajikatúxsi	noun	snowshoe frame (< √túxs unknown; <? Dene)
 tuxʼ-	affix	knee in yan tuxʼ uwatsúw ‘he knelt down’
 √tuk	root	explode
 √tuk	root	(brew) too strong, rancid; clean, pure (with negation)
@@ -1226,7 +1227,7 @@ kastʼáatʼ	noun	quilt (< √tʼatʼ)
 tʼáatʼ	noun	junco
 √tʼalʼ	root	flat, mash (cf. √tʼak, √tʼatʼ, √tʼatl, √tʼach, √tʼash, √tʼakw)
 √tʼatl	root	splash, slap water (cf. √tʼak, √tʼatʼ, √tʼalʼ, √tʼach)
-tʼási	noun	grayling (<? Ath.)
+tʼási	noun	grayling (<? Dene)
 √tʼasʼ	root	look askance, snap eyes at
 √tʼach	root	slap, clap, swim (cf. √tʼash, √tʼak, √tʼatʼ, √tʼatl, √tʼalʼ)
 √tʼash	root	slap, clap, swim (cf. √tʼach, √tʼak, √tʼatʼ, √tʼatl, √tʼalʼ)
@@ -1302,7 +1303,7 @@ tʼúgwaa	noun	bow and arrow
 tʼook	noun	cradleboard (cf. tʼukanéiÿi ‘baby’)
 tʼóokʼ	noun	nettle
 √tʼukʼ	root	stung by nettle (rare; cf. tʼóokʼ ‘nettle’, √tʼuch ‘sting’)
-tsʼantʼookʼ	noun	bone dish (< Ahtna, cf. Ath. *tsʼən-tsʼaːkʼ)
+tsʼantʼookʼ	noun	bone dish (< Ahtna, cf. Dene *tsʼən-tsʼaːkʼ)
 l	pcl	negative (cf. tléil, tlél, téil, héil, hél, tléikʼ)
 √la	root	tide go out (cf. lein ‘tideflat’, √la ‘melt, thaw’)
 lein	noun	tideflat, mudflat (< √la ‘tide go out’)
@@ -1555,7 +1556,7 @@ tlʼa-	affix	in tlʼag̱áa ‘lots’ (cf. chʼa)
 tlʼag̱áa	adv	lots (< tlʼa- unknown + -g̱áa ‘adessive’)
 tlʼaa-	affix	in tlʼaadéin ‘crosswise’, maybe in tlʼaaḵʼwáchʼ ‘sorrel’
 tlʼaadéin	adv	crosswise (< tlʼaa- unknown + -déin ‘adverb’)
-eetlʼát	noun	lowbush cranberry (<? Ath.)
+eetlʼát	noun	lowbush cranberry (<? Dene)
 tlʼátk	noun	earth, dirt, soil (cf. chʼáatwu, tlʼáx̱ʼkw, tlʼéx̱ʼkw, √chʼex̱ʼw)
 tlʼáatlʼ	noun	yellow salmonberry; yellow thing (cf. chʼáalʼ, sʼáasʼ)
 tlʼági	noun	bow of boat (in L78: 35)
@@ -1638,7 +1639,7 @@ sándi	noun	Sunday, week (< CJ sándi < Eng. Sunday)
 sandix̱ʼáak	noun	week (< sándi + x̱ʼáak ‘interval’)
 √sat	root	tight (cf. √hat ‘cover’, √sa ‘narrow’)
 √sátkw	root	fast, quick (< √ha ‘move invisibly’)
-sáaxdze	noun	orphaned bear cub, yearling rejected by mother (< Ath.)
+sáaxdze	noun	orphaned bear cub, yearling rejected by mother (< Dene)
 sáxwti	noun	handle (cf. síxwti)
 sáaxw	noun	cockle
 saak	noun	hooligan, eulachon
@@ -1673,7 +1674,7 @@ kaséḵʼx̱u	noun	dye, color (< ká + √seḵʼw + -x̱ + -í)
 tukaséiḵʼu	noun	egg yolk (with kʼwátʼ; < tú + kaséiḵʼw)
 sée	noun	daughter; doll
 síkʼ	noun	daughter (vocative; < sée + -kʼ ‘diminutive’)
-jimasasée	noun	yellow warbler (< Ath.)
+jimasasée	noun	yellow warbler (< Dene)
 séew	noun	rain (< séem)
 séem	noun	rain
 √séew	root	rainy (< séew ‘rain’)
@@ -1711,4 +1712,38 @@ súnjaa	noun	bubble (< √suʼn)
 √suʼs	root	lull to sleep (cf. √siʼs)
 wasóos	noun	cattle (< waswóos < CJ musmús)
 kasúgu	noun	beam of house (cf. kaságu)
-sooḵ	noun	wide grass
+sooḵ	noun	wide grass (cf. suḵtéitlʼ)
+dzaaÿí	noun	thick hair of beard, whiskers, nose (cf. √dzaʼÿ)
+√dzaʼÿ	root	grow beard (cf. dzaaÿí)
+dzánti	noun	flounder
+ḵʼaldzántí	noun	kind of flounder-like fish (in L73: 09/100; cf. dzánti)
+yadzánlʼ	noun	lumpy, pock-marked face (<? dzán unknown + -lʼ)
+dzáas	noun	leather thong (cf. dzaas, √dzas)
+dzaas	noun	leather thong (cf. dzáas, √dzas)
+√dzas	root	lace up (cf. dzáas, dzaas)
+√dzas	root	winded, short of breath
+dzeináa	noun	small snare (< dzeenáa)
+dzeit	noun	ladder, stairs, bridge (<? √dza unknown + -eit ‘thing’)
+tʼáadzeit	noun	sidewalk, boardwalk (< tʼáa ‘board’ + dzeit ‘ladder’)
+dzagweit	noun	deadfall (< √dzakw unknown + -eit ‘thing’)
+√dzée	root	difficult (cf. √dziʼÿ ‘balk’)
+√dziʼÿ	root	balk, stop short, resist, retreat (cf. √dzée ‘difficult’)
+ayaandzéeyi	noun	husky dog breed (< Ayáan + Dene dzí ‘dog’ + -í)
+dzeenáa	noun	small snare (< √dzin unknown + -áa; cf. √dziʼÿ)
+dzínx̱i	noun	kind of medicine (cited from Swanton in L78: 39)
+√dziskw	root	call dog (only in L78: 39)
+dzískʼw	noun	moose (also tsískʼw; cf. tsískʼw ‘owl’)
+hinx̱ukadzéedzi	noun	sandpiper (< héen + x̱oo + ká + dzéets onomatopoiea?)
+watsíx	noun	caribou (cf. wadzíx; < Dene cf. Tagish mesdzíh)
+wadzíx	noun	caribou (cf. watsíx; < Dene cf. Tagish mesdzíh)
+√dzixʼ	root	cover eyes (only in L78: 39)
+√dzixʼw	root	crush clam to get juice (cf. √dzuxʼ, dzéexʼw)
+dzéexʼw	noun	small clam, butter clam (cf. dzóoxʼ, √dzixwʼ)
+√dzuxʼ	root	crush clam to get juice (cf. √dzixʼw, dzóoxʼ)
+dzóoxʼ	noun	small clam, butter clam (< dzéexʼw, √dzuxʼ)
+√dzuʰ	root	hit by throwing (cf. √dzuʼw, √dzéix̱aa, dzóonaa)
+√dzuʼw	root	hit by throwing (cf. √dzuʰ, √dzéix̱aa, dzóonaa)
+√dzéix̱aa	root	miss by throwing (< √dzuʰ + -x̱aa)
+dzóonaa	noun	missile, thrown object (< √dzuʰ + -áa)
+√dzus	root	skitter along surface (snow, rain, etc.; only in L78: 39)
+dzúk	noun	back of person
