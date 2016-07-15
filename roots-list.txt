@@ -30,7 +30,7 @@ kuhaantí	noun	orphan
 -háan	affix	plural pronoun suffix
 ḵuháan	noun	dwellers (see ḵwáan)
 háanís	noun	harness (< Eng.)
-hándít	noun	hundred (< CJ or Eng.)
+hándít	noun	hundred (< CJ hándlət or Eng. hundred)
 √hat	root	carry heavy object
 koohádaa	noun	heavy thing carrier (< √hat ‘carry heavy object’)
 √hat	root	cover
@@ -152,7 +152,7 @@ ltʼaaní	noun	world (< lingitʼaaní ‘world’)
 tula.aan	noun	kindness (< √.àan ‘kind’)
 √.aʼn	root	bedridden
 áan	noun	fish trap
-áanjís	noun	orange (< CJ ólanjis < Eng.)
+áanjís	noun	orange (< CJ ólanjis < Eng. oranges)
 ánkʼw	noun	spoiled brat
 √.ánkʼw	root	spoiled (< ánkʼw ‘brat’)
 át	noun	thing
@@ -514,6 +514,7 @@ shanaax̱kaÿéeḵ	noun	scarf (< √ÿiḵ ‘pull’)
 saÿeeḵ	noun	next day (cf. seig̱án ‘tomorrow’, ÿee ‘time’)
 wáa	pron	how (wh-question)
 wánwaa	noun	sailor (< Eng. man-o-war or CJ manawaa)
+Wanwaasháa	name	woman of Kaagwaantaan clan (< wánwaa + sháa ‘woman’)
 x̱ʼeisʼawáa	noun	ptarmigan; pigeon
 wán	noun	edge
 woon	noun	maggot (cf. √wan)
@@ -521,9 +522,10 @@ woon	noun	maggot (cf. √wan)
 Kinjuchwaan	name	Canadian, English (< CJ kínjochman < Eng. King George)
 ganaswáan	noun	worker (< CJ or Eng. businessman)	
 sgóonwaan	noun	student (< CJ sgúlman < Eng. school + man)
-Jáawaan	name	German (< CJ or Eng.)
+Jáawaan	name	German (< CJ jáman or Eng. German)
 Cháanwaan	name	Chinese (< CJ chánəman < Eng. chinaman)
-Waaktwáani	name	Victoria (< CJ biktóli < Eng.)
+Jaagwaanée	name	Japanese (< CJ japaní < Eng. Japanese)
+Waaktwáani	name	Victoria (< CJ biktóli < Eng. Victoria)
 waat	noun	fathom (cf. ÿaat)
 √wat	root	measure fathom (cf. waat, ÿaat)
 √wat	root	grow up, mature (cf. ÿát ‘child’, waat ‘fathom’)
@@ -537,7 +539,7 @@ wáadishgaa	noun	priest (< Ru. батюшка)
 x̱ʼasʼkalawálʼ	noun	jawbreaker
 √was	root	dry roast
 wáasadi	noun	dry roasted fish
-Kíswás	noun	Christmas (< CJ kísmas < Eng.)
+Kíswás	noun	Christmas (< CJ kísmas < Eng. Christmas)
 wáasdla	noun	butter (< Ru. масло)
 wásʼ	noun	bush; stem
 √wusʼ	root	ask (cf. √wasʼ ‘ask’)
@@ -582,7 +584,7 @@ wool	noun	hole (cf. √wal ‘have hole’)
 atḵaalawóodli	noun	intestinal worm of porcupine
 √wulʼ	root	peel (cf. √wutʼ ‘split along grain’, √walʼ ‘break’)
 √wutlʼ	root	stubborn (cf. √wuchʼ ‘stubborn’, √wusʼ ‘tough’)
-waswóos	noun	cattle (< CJ musmús; cf. wasóos)
+waswóos	noun	cattle (< CJ musmús < Klamath; cf. wasóos)
 √wusʼ	root	tough (cf. √wutlʼ ‘stubborn’, √wuchʼ ‘stubborn’)
 √wusʼ	root	murky (cf. √wuchʼ ‘murky’)
 √wuchʼ	root	murky (cf. √wusʼ ‘murky’)
@@ -627,7 +629,7 @@ náa	noun	covering; end of pointed object
 chʼakwanáaxʼ	adv	anyway (cf. ḵulkanáaxʼ, lḵukanyáaxʼ)
 lukanaa	noun	dog eater demon (from southern tribes)
 aganáa	interj	oh no, regret
-weenáa	noun	sawmill (< CJ (lə)mulá < Fr. le moulin)
+weenáa	noun	sawmill (< CJ (lə)mulá < Fr. le moulin; not *woonáa)
 naaw	noun	bilge water
 náaw	noun	liquor (< CJ lam < Eng. rum)
 Xoujunáay	name	Fourth of July (< Eng.)
@@ -658,7 +660,7 @@ náakw	noun	medicine, drugs
 √náakw	root	medicate (< náakw ‘medicine’)
 kaḵéitsʼnáakw	noun	itch medicine
 sx̱enx̱ináakw	noun	dog scratching medicine
-ḵʼanáax̱án	noun	fence (< CJ qʼəláχan)
+ḵʼanáax̱án	noun	fence (< CJ qʼəláχan < Coast Salish)
 -náx̱	ppn	through, along, perlative, prolative
 -náx̱	affix	kind of bay in placenames (e.g. G̱aanáx̱, Sʼiknáx̱, Joonáx̱)
 -náx̱	affix	human numeral, e.g. dáx̱náx̱ ‘two people’
@@ -683,7 +685,7 @@ tʼukanéiÿi	noun	baby (< tʼook ‘cradleboard’ + √neʼÿ ‘fiddle, twidd
 √neʼÿ	root	fiddle, twiddle
 tsʼeig̱eenéi	noun	magpie (cf. tsʼeig̱eenée)
 tsʼeig̱eenée	noun	magpie (cf. tsʼeig̱eenéi)
-sakwnéin	noun	flour, bread (< CJ saplél)
+sakwnéin	noun	flour, bread (< CJ saplél < unknown)
 -neit	affix	thing (< -ni + át; cf. -weit, -ÿeit, -deit, -teit, -jeit)
 √net	root	tremble
 nakwnéit	noun	priest, pastor (< CJ ləplét < Fr. le prêtre)
@@ -832,10 +834,10 @@ Wáashdán	name	American (< CJ báštən < Eng. Boston)
 dáanaa	noun	money, silver, coin, circular (< CJ dála < Eng. dollar)
 waḵdáanaa	noun	eyeglasses (< waaḵ ‘eye’ + dáanaa ‘silver, coin’)
 √dáanaa	root	rich, wealthy (< dáanaa ‘money’)
-geewdáan	noun	horse (< CJ kiyudán)
-giwdáan	noun	horse (< CJ kiyudán)
-gawdáan	noun	horse (< giwdáan < CJ kiyudán)
-gamdáan	noun	horse (< gawdáan < CJ kiyudán)
+geewdáan	noun	horse (< CJ kiyudán < unknown)
+giwdáan	noun	horse (< CJ kiyudán < unknown)
+gawdáan	noun	horse (< giwdáan < CJ kiyudán < unknown)
+gamdáan	noun	horse (< gawdáan < giwdáan < CJ kiyudán < unknown)
 √daʼt	root	bounce back
 dáat	noun	jelly (< √daʼt ‘bounce back’)
 √dat	root	bruised
@@ -867,8 +869,8 @@ diginaa	noun	out to sea (< deikée + niÿaa)
 Deikeenaa	name	Haida (< deikée + naa)
 ixdáaknáx̱.á	noun	south side inside house toward beach (< éex + dáak)
 √dakw	root	render (fat)
-dakwtási	noun	fertilizer (< √dakw ‘render’)
-nadáakw	noun	table (< CJ lətáp)
+dakwtási	noun	fertilizer (< √dakw ‘render’ + -tási unknown)
+nadáakw	noun	table (< CJ lətáp < Fr. la table)
 -dáx̱	ppn	from, out of, ablative
 dax̱-	affix	distributive in verbs (cf. dag̱a-, -g̱áa)
 dáx̱-	num	two, compounding form of déix̱ ‘two’
@@ -928,7 +930,7 @@ deenáa	noun	seal harpoon (<? √din ‘upset, concern, trouble’)
 sʼoodeen	noun	shrew
 sʼikshaldéen	noun	Hudson Bay tea (< sʼeek + shá + l-*√din unknown)
 gukyikdínl	noun	earwax, hard of hearing (< gúk + ÿík + *√din + *-l)
-shdéen	noun	steel (< CJ or Eng.; occ. sdéen)
+shdéen	noun	steel (< CJ sdíl or Eng. steel; occ. sdéen)
 shadíngaa	noun	pig (<? Ru. свинья ‘pig’ or свинина ‘pork’)
 shadéengaa	noun	strings (? see L73 05/115; cf. shadíngaa ‘pig’)
 dís	noun	moon, month (cf. √diʼs)
@@ -954,7 +956,7 @@ hadóo	interj	oh my, surprise (< hadáw)
 hadáw	interj	oh my, surprise (<? *hadám, cf. dám ‘bang!’)
 hadóh	interj	oh my, surprise (< hadáw)
 nawadóo	noun	domestic sheep (< CJ ləmutó < Fr. le mouton)
-wanadóo	noun	domestic sheep (< nawadóo < CJ)
+wanadóo	noun	domestic sheep (< nawadóo < CJ ləmutó < Fr. le mouton)
 √dutʼ	root	hiccup
 dóol	noun	sandhill crane
 gusʼyadóoli	noun	snipe, sandpiper (< góosʼ ‘cloud’ + ÿá or ÿee + dóol)
@@ -968,13 +970,13 @@ dúsʼ	noun	soot (< √dusʼ ‘sooty’)
 √dusʼ	root	sooty (cf. dúsʼ ‘soot’)
 dúsh	noun	tadpole, polliwog
 dúsh	noun	chub or stone perch (only from Aurel Krause)
-dóosh	noun	cat (<? CJ puspús)
+dóosh	noun	cat (<? CJ puspús <? Eng.)
 √duch	root	rub eyes (cf. √dich ‘rub eyes’)
 √duchʼ	root	tweak, roll, pinch and twist (cf. √dutlʼ ‘roll up’)
 √duchʼ	root	cut in chunks
 dúx	noun	lowbush cranberry (< dáxw)
 dóox	noun	sinew (rare; cf. tás ‘sinew, thread’)
-sdóox	noun	stove (< CJ or Eng.; occ. shdóox)
+sdóox	noun	stove (< CJ sdúf or Eng. stove; occ. shdóox)
 √duk	root	closed up, solid, plugged, healed up, become whole
 lit.isdúk	noun	black bass (< √duk ‘closed up, solid’)
 dook	noun	skin, complexion
@@ -1002,7 +1004,7 @@ táaÿ	noun	garden
 ltaaÿí	noun	ptarmigan (< Dene ʔəłdaːỹiː ‘bough eater’)
 √taʼw	root	steal
 táaw	noun	stealing, thievery (< √taʼw ‘steal’)
-táawsán	num	thousand (< CJ or Eng.)
+táawsán	num	thousand (< CJ táwsən or Eng. thousand)
 √tan	root	handle wooden or long object or empty container
 seig̱atáanaa	noun	berrying basket (< sé ‘throat’ + √tan ‘handle’)
 náax̱.ag̱ataan	noun	stakes driven into bottom of stream (< √tan ‘handle’)
@@ -1703,6 +1705,7 @@ séek	noun	belt (cf. √sik ‘put on belt’)
 √siʼk	root	keep over, delay, detain
 √sèek	root	bashful
 √sik	root	have something wrong (only in L78: 37; <? Eng. sick)
+kóonsík	noun	common cold (< CJ kólsik < Eng. cold sick)
 √suʰ	root	supernatural help
 sú	noun	long seaweed
 sú	noun	ahead of
