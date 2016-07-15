@@ -183,7 +183,7 @@ aasgutú	noun	forest (< aas ‘tree’ + gú ‘base’ + tú ‘inside’)
 asyádi	noun	sapling (< aas ‘tree’ + yát ‘child’)
 √.àas	root	be(come) tree
 asxʼaansháachʼi	noun	green bird
-tu.áas	noun	unknown fish species like hooligan
+tu.áas	noun	kind of fish species like hooligan
 √.atsʼ	root	insufficient (cf. √.átlʼ & √.achʼ ‘insufficient’)
 √.atlʼ	root	insufficient (cf. √.átsʼ & √.achʼ ‘insufficient’)
 √.achʼ	root	insufficient (cf. √.átsʼ & √.atlʼ ‘insufficient’)
@@ -362,7 +362,7 @@ yaax̱	noun	bank, side edge
 Giyáḵw	name	Sugpiaq people, Alutiiq people (< Eyak)
 yéi	adv	thus, so (cf. yóo ‘thus’)
 koonaayei	noun	chipmunk
-atskʼiyé	noun	unknown duck species
+atskʼiyé	noun	kind of duck species
 √yeʼn	root	twirl, wave, wag
 yéin	noun	sea cucumber
 √yel	root	lie, deceive
@@ -1652,7 +1652,7 @@ saak	noun	hooligan, eulachon
 sáagi	noun	place for lying in wait
 -sákw	adj	future, to be
 kaságu	noun	beam of house (cf. kasúgu)
-sagweit	noun	type of deadfall trap (< sákw unknown + -eit; cf. seen)
+sagweit	noun	kind of deadfall trap (< sákw unknown + -eit; cf. seen)
 sáxʼ	noun	edible cambium of spruce or hemlock
 √saḵ	root	exhausted
 sáḵs	noun	yew; bow
@@ -1779,7 +1779,7 @@ tsín	noun	muskrat (<? Dene)
 √tsin	root	living, moving; strong (negative stem –cheen)
 latseen	noun	strength, power (< l- + √tsin)
 shachklatseen	noun	Hudson Bay tea (< sháchk + latseen; cf. sʼikshaldéen)
-lḵaatoolcheen	noun	unknown purple flower (< l + ḵaa + tu- + l- + √tsin)
+lḵaatoolcheen	noun	kind of purple flower (< l + ḵaa + tu- + l- + √tsin)
 yatseeneit	noun	bear, usually brown (< yatseen ‘living’ + -eit)
 √tsis	root	float, be anchored; bob, swim surfacing intermittently
 katsees	noun	buoy, fishing float (< √tsis)
@@ -1790,10 +1790,10 @@ tsískʼw	noun	owl (also dzískʼw; cf. dzískʼw ‘moose’)
 tséek	noun	roasting stick (cf. √tsik)
 √tsix̱	root	kick, move foot quickly (> √tsex̱)
 √tsex̱	root	kick, move foot quickly (< √tsix̱)
-√tsiʼx̱w	root	dam, block, obstruct (> √tsuʼx̱)
-√tsuʼx̱	root	dam, block, obstruct (< √tsiʼx̱w)	
-√tsix̱ʼ	root	strangle (> √tsex̱ʼ)
-√tsex̱ʼ	root	strangle (< √tsix̱ʼ)
+√tsiʼx̱w	root	dam, block, obstruct (> √tsuʼx̱; cf. √tsix̱)
+√tsuʼx̱	root	dam, block, obstruct (< √tsiʼx̱w; cf. √tsix̱)
+√tsix̱ʼ	root	strangle (> √tsex̱ʼ; cf. √tsiʼx̱w)
+√tsex̱ʼ	root	strangle (< √tsix̱ʼ; cf. √tsiʼx̱w)
 √tsix̱ʼw	root	beads come off string (> √tsux̱ʼ)
 √tsux̱ʼ	root	beads come off string (< √tsix̱ʼw)
 tsú	pcl	also (cf. tsu)
