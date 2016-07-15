@@ -189,16 +189,16 @@ tu.áas	noun	unknown fish species like hooligan
 √.achʼ	root	insufficient (cf. √.átsʼ & √.atlʼ ‘insufficient’)
 √.aʼsh	root	sap run (cf. aas ‘tree’)
 aashát	noun	steelhead
-√.ak	root	weave
+√.ak	root	weave (cf. √.aʼk ‘stagger’)
 √.aʼk	root	stagger, stumble when wounded (cf. √.ak ‘weave’)
 ya.áak	noun	space for, room
 √.axʼw	root	crack
 √.axʼw	root	bitter
 áx̱	interj	frustration, disgust
 ax̱	pron	my, first person singular possessor
-√.ax̱	root	handle fabric
-√.ax̱	root	hear
-√.áx̱ch	root	understand (< √.ax̱ ‘hear’)
+√.ax̱	root	handle fabric (cf. √.ax̱w ‘bind’)
+√.ax̱	root	hear (cf. √.ax̱ch ‘understand’)
+√.ax̱ch	root	understand (< √.ax̱ ‘hear’)
 √.ax̱w	root	tie up, bind (cf. √.ax̱ ‘handle fabric’)
 ka.áax̱u	noun	binding (< √.ax̱w ‘tie up, bind’)
 ḵʼalukas.aax̱w	noun	small trail snowshoes (< √.ax̱w ‘tie up, bind’)
@@ -362,7 +362,7 @@ yaax̱	noun	bank, side edge
 Giyáḵw	name	Sugpiaq people, Alutiiq people (< Eyak)
 yéi	adv	thus, so (cf. yóo ‘thus’)
 koonaayei	noun	chipmunk
-atskʼiyé	noun	unidentified duck species
+atskʼiyé	noun	unknown duck species
 √yeʼn	root	twirl, wave, wag
 yéin	noun	sea cucumber
 √yel	root	lie, deceive
@@ -497,18 +497,20 @@ leiÿís	noun	fir
 ÿees	noun	wedge (cf. ÿéesʼ)
 ÿéesʼ	noun	wedge (cf. ÿees)
 ÿées	adj	new
-√ÿish	root	pull (cf. √ÿiḵ ‘pull, draw’)
+√ÿish	root	pull (cf. √ÿiḵ ‘pull’)
 ÿéesh	noun	leech, bloodsucker
 √ÿich	root	pl. fly
 x̱ʼalʼdaaÿéejayi	noun	plover (cf. xʼatʼdaaÿéejayi)
 xʼatʼdaaÿéejayi	noun	plover (cf. x̱ʼalʼdaaÿéejayi)
 ÿík	noun	inside concavity
 kaawaÿík	noun	nowhere, thin air
-√ÿiḵ	root	pull, draw (cf. √ÿish ‘pull’)
-kaÿíg̱aa	noun	hoisting line (< √ÿiḵ ‘pull, draw’)
-shanaax̱kaÿéeḵ	noun	scarf (< √ÿiḵ ‘pull, draw’)
+√ÿiḵ	root	pull, draw (cf. √ÿish ‘pull’; > √ÿeḵ)
+√ÿeḵ	root	pull, draw (< √ÿiḵ ‘pull’)
+kaÿíg̱aa	noun	hoisting line (< √ÿiḵ ‘pull’)
+shanaax̱kaÿéeḵ	noun	scarf (< √ÿiḵ ‘pull’)
 √ÿiḵ	root	carry in mouth, bite
-ÿéeḵ	noun	foremost or sternmost place in canoe (cf. √ÿiḵ ‘pull, draw’)
+ÿéeḵ	noun	foremost or sternmost place in canoe (cf. √ÿiḵ ‘pull’; > ÿéiḵ)
+ÿéiḵ	noun	foremost or sternmost place in canoe (< ÿéeḵ)
 saÿeeḵ	noun	next day (cf. seig̱án ‘tomorrow’, ÿee ‘time’)
 wáa	pron	how (wh-question)
 wánwaa	noun	sailor (< Eng. man-o-war or CJ manawaa)
@@ -705,7 +707,7 @@ náx̱ʼw	noun	cloudberry (cf. néx̱ʼw)
 ni-	affix	in niÿís ‘for time of’, niÿaa ‘dirn’ (<? *ŋiʰ, cf. ÿeen ‘time’)
 atsganée	interj	fright (cf. atsganéi)
 atsganéi	interj	fright (cf. atsganée)
-√niʼtl	root	human get fat (cf. √neʼtl)
+√niʼtl	root	human get fat (> √neʼtl)
 √neʼtl	root	human get fat (< √niʼtl)
 neetl	noun	human fatness (< √niʼtl)
 neitl	noun	human fatness (< √neʼtl)
@@ -755,7 +757,8 @@ kanéegwálʼ	noun	jam; berries mixed with salmon eggs (< néegwálʼ ‘paint�
 x̱ʼanéegwálʼ	noun	lipstick (< x̱ʼé ‘mouth’ + néegwálʼ ‘paint’)
 √nixʼ	root	smell
 √nikʼ	root	fastidious, picky, neat, tidy
-√nikʼw	root	pivot, swivel (cf. √nukʼ ‘pivot, swivel’)
+√nikʼw	root	pivot, swivel (> √nukʼ ‘pivot, swivel’)
+√nukʼ	root	pivot, swivel (> √nikʼw ‘pivot, swivel’)
 √nikʼw	root	pique interest (perh. same as √nikʼw ‘pivot, swivel’)
 √nix̱	root	save, heal
 g̱aneex̱í	noun	saviour (< √nix̱)
@@ -936,7 +939,7 @@ deegáa	noun	dipnet (< √dik ‘dipnet’)
 √dixʼ	root	plug, cork (cf. √dikʼ ‘constipate’)
 x̱ʼadéexʼi	noun	plug, cork (< x̱ʼé ‘mouth’ + √dixʼ ‘plug’)
 √dikʼ	root	constipate (cf. √dixʼ ‘plug’)
-díx̱ʼ	noun	spine, back (cf. déx̱ʼ, díx̱ʼ)
+díx̱ʼ	noun	spine, back (> déx̱ʼ, dáx̱ʼ)
 déx̱ʼ	noun	spine, back (< díx̱ʼ)
 dáx̱ʼ	noun	spine, back (< díx̱ʼ)
 lidíx̱ʼ	noun	neck (< lé ‘throat’ + díx̱ʼ ‘spine’)
@@ -1103,12 +1106,12 @@ téix̱ʼ	noun	heart (cf. √tex̱ʼ ‘twist’)
 Gutéix̱ʼ	name	Eyak (cf. Haida kʼudeeḵʼ)
 √tex̱ʼw	root	smoke signal (cf. √tax̱ʼw)
 √teʼḵ	root	twist (cf. √tex̱ʼ, √tix̱ʼ, √tiḵʼ, √tixʼ ‘twist rope’)
-√tex̱ʼ	root	twist (cf. √teʼḵ, √tix̱ʼ, √tiḵʼ, téix̱ʼ ‘heart’)
+√tex̱ʼ	root	twist (< √tix̱ʼ; cf. √teʼḵ, √tiḵʼ, téix̱ʼ ‘heart’)
 √tiḵʼ	root	twist (cf. √tex̱ʼ, √teʼḵ, √tix̱ʼ, √tixʼ ‘twist rope’)
 √tiʰ	root	handle generic object
 √tiʰ	root	exist, be
 tee	noun	tea (< Eng.)
-shachkalateeÿí	noun	sʼikshaldéen, Hudson’s Bay tea (< sháchk ‘muskeg’)
+shachkalateeÿí	noun	sʼikshaldéen, Hudson’s Bay tea (<? sháchk + tee ‘tea’)
 √tiÿ	root	soak fish
 téeÿi	noun	soaked fish (< √tiÿ ‘soak fish’)
 √tiʼÿ	root	patch
@@ -1118,7 +1121,7 @@ tíÿaa	noun	chisel (< √tiʼÿ ‘carve with chisel or adze’)
 kootéeÿaa	noun	totem pole (< √tiʼÿ ‘carve with chisel or adze’)
 √tiʼÿ	root	jealous of spouse
 téeÿ	noun	chin
-√tiʼw	root	count, read (cf. √tuʼw)
+√tiʼw	root	count, read (> √tuʼw)
 teen	ppn	with, instrumental postposition (< át? + ee + -n, cf. een, -n)
 tin	ppn	with, instrumental postposition (< teen)
 √tin	root	see; travel
@@ -1154,12 +1157,12 @@ katísʼayi	noun	large snowflakes (<? √tisʼ ‘watch for, look, stare’)
 tíx	noun	flea (cf. √tix ‘have fleas’, wanatíx ‘ant’)
 wanatíx	noun	ant (cf. tíx ‘flea’, √tix ‘have fleas’; or <? CJ)
 stixáa	noun	sticharion, cassock (< Ru. стихарь < Gk. στιχάριον)
-√tixw	root	stamp feet (cf. √tux, √tis ‘shuffle’)
+√tixw	root	stamp feet (> √tux; cf. √tis ‘shuffle’)
 tíxwjaa	noun	stamping noise (< √tixw ‘stamp feet’)
 tíxʼ	noun	rope, cord (cf. √tixʼ ‘twist into rope’)
 √tixʼ	root	twist into rope (cf. tíxʼ ‘rope’)
 teeḵ	noun	cape (clothing; cf. teiḵ)
-√tix̱ʼ	root	twist, wring, wind (cf. √tixʼ, √tex̱ʼ, √teʼḵ, √tiḵʼ)
+√tix̱ʼ	root	twist, wring, wind (> √tex̱ʼ; cf. √tixʼ, √teʼḵ, √tiḵʼ)
 katíx̱ʼaa	noun	key (< √tix̱ʼ ‘twist’)
 tú	noun	inside hollow object (cf. toowú)
 tatóok	noun	cave (< tú ‘inside hollow object’)
@@ -1424,7 +1427,7 @@ dleeÿ	noun	meat, flesh, muscle
 √dleeÿí	root	muscular, meaty (< dleeÿ)
 dleewkát	adv	carefully (cf. dloonkát)
 dloonkát	adv	carefully (cf. dleewkát)
-√dlixw	root	skin peel esp. with thumb (cf. √dlexw)
+√dlixw	root	skin peel esp. with thumb (> √dlux; cf. √dlexw)
 haashdlóo	interj	surprise (cf. dláa, hadláa, hadóo)
 haadlóo	interj	surprise (cf. dláa, hadláa, hadóo)
 hadlóo	interj	surprise (cf. dláa, hadláa, hadóo)
@@ -1434,6 +1437,7 @@ yakadlúwaas	noun	bloomers (< yá + ká + Eng. bloomers)
 dlóotldáx̱	adv	on one’s own (< dlóotl unknown + -dáx̱ ‘ablative’)
 dlóodlidáx̱	adv	on one’s own
 dlóotlkʼidáx̱	adv	on one’s own
+√dlux	root	skin peel esp. with thumb (< √dlixw)
 √dluḵ	root	sticky, gooey
 waḵkadlóog̱u	eye mucus (< waaḵ ‘eye’ + ká + dlóoḵ < √dluḵ)
 tla-	affix	in tlag̱eiÿí ‘brain’ (cf. shá ‘head’)
@@ -1532,14 +1536,14 @@ lʼílʼ	noun	feces (cf. √lʼilʼ)
 √lʼik	root	pop louse or nit
 kakalʼéek	noun	nit (< √lʼik)
 √lʼik	root	wink (cf. √lʼixw, √lʼikw)
-√lʼixw	root	close eyes (cf. √lʼik, √lʼikw, √lʼux)
-√lʼikw	root	blink (cf. √lʼik, √lʼixw, √lʼukw)
-xeitllʼíkgu	noun	lightning (< xeitl + √lʼikw)
+√lʼixw	root	close eyes (> √lʼux; cf. √lʼik, √lʼikw)
+√lʼikw	root	blink (> √lʼuk; cf. √lʼik, √lʼixw)
+xeitllʼíkgu	noun	lightning (< xeitl + √lʼikw + -í)
 √lʼixʼ	root	break 
 lʼéexʼi	noun	broken piece (cf. √lʼixʼ)
 √lʼux	root	close eyes (< √lʼixw)
 √lʼuk	root	blink (< √lʼikw)
-xeitllʼúkgu	noun	lightning (< xeitl + √lʼikw)
+xeitllʼúkgu	noun	lightning (< xeitl + √lʼuk + -í)
 √lʼuʼn	root	hunt
 alʼóoni	noun	hunter (< √lʼuʼn)
 lʼóoni	noun	hunt (< √lʼuʼn)
@@ -1737,13 +1741,61 @@ hinx̱ukadzéedzi	noun	sandpiper (< héen + x̱oo + ká + dzéets onomatopoiea?)
 watsíx	noun	caribou (cf. wadzíx; < Dene cf. Tagish mesdzíh)
 wadzíx	noun	caribou (cf. watsíx; < Dene cf. Tagish mesdzíh)
 √dzixʼ	root	cover eyes (only in L78: 39)
-√dzixʼw	root	crush clam to get juice (cf. √dzuxʼ, dzéexʼw)
-dzéexʼw	noun	small clam, butter clam (cf. dzóoxʼ, √dzixwʼ)
-√dzuxʼ	root	crush clam to get juice (cf. √dzixʼw, dzóoxʼ)
-dzóoxʼ	noun	small clam, butter clam (< dzéexʼw, √dzuxʼ)
+√dzixʼw	root	crush clam to get juice (> √dzuxʼ; cf. dzéexʼw)
+dzéexʼw	noun	small clam, butter clam (cf. dzóoxʼ, √dzixʼw)
+√dzuxʼ	root	crush clam to get juice (< √dzixʼw; cf. dzóoxʼ)
+dzóoxʼ	noun	small clam, butter clam (< dzéexʼw; cf. √dzuxʼ)
 √dzuʰ	root	hit by throwing (cf. √dzuʼw, √dzéix̱aa, dzóonaa)
 √dzuʼw	root	hit by throwing (cf. √dzuʰ, √dzéix̱aa, dzóonaa)
 √dzéix̱aa	root	miss by throwing (< √dzuʰ + -x̱aa)
 dzóonaa	noun	missile, thrown object (< √dzuʰ + -áa)
 √dzus	root	skitter along surface (snow, rain, etc.; only in L78: 39)
 dzúk	noun	back of person
+tsaa	noun	seal (cf. √tsàa ‘belch’)
+√tsàa	root	belch (< tsaa ‘seal’)
+tsá	pcl	then (cf. tsáa, tsé)
+tsáa	pcl	then (cf. tsá, tsé)
+tsé	pcl	then (cf. tsá, tsáa)
+√tsáaÿ	root	ask to accompany
+tsálk	noun	marmot, groundsquirrel
+√tsaʼtl	root	plastered (cf. katsáatl)
+katsáatl	noun	plaster (cf. √tsaʼtl)
+tsʼas	pcl	I wish (< tsaʼs <? tsaʼ + sí)
+tsáats	noun	bear root, indian potato, Hedysarum alpinum (cf. tséitʼ)
+√tsáakw	root	long-lasting, durable
+tsáaxʼ	noun	gloves (<? Dene)
+√tsaḵ	root	push, poke with long object (cf. tsaag̱álʼ, tsaag̱áa, wootsaag̱áa)
+tsaag̱álʼ	noun	spear (< √tsaḵ + -álʼ)
+tsaag̱áa	noun	spear (< √tsaḵ + -áa)
+wootsaag̱áa	noun	cane, staff (< ÿa- + u- + √tsaḵ + -áa)
+√tsaḵ	root	refuse, reject person (<? √tsaḵ ‘push, poke’)
+tseiÿí	noun	sweetheart
+tséitʼ	noun	plant with edible root (cf. tsáats)
+√tsets	root	suffer, feel pain
+tsín	noun	muskrat (<? Dene)
+√tsin	root	living, moving; strong (negative stem –cheen)
+latseen	noun	strength, power (< l- + √tsin)
+shachklatseen	noun	Hudson Bay tea (< sháchk + latseen; cf. sʼikshaldéen)
+lḵaatoolcheen	noun	unknown purple flower (< l + ḵaa + tu- + l- + √tsin)
+yatseeneit	noun	bear, usually brown (< yatseen ‘living’ + -eit)
+√tsis	root	float, be anchored; bob, swim surfacing intermittently
+katsees	noun	buoy, fishing float (< √tsis)
+katsistléiḵw	noun	watermelon (< katsees ‘buoy’ + tléiḵw ‘berry, fruit’)
+√tsiʼts	root	simmer, nearly boil (only in L78: 40)
+tsískʼw	noun	owl (also dzískʼw; cf. dzískʼw ‘moose’)
+√tsik	root	roast on stick (cf. tséek)
+tséek	noun	roasting stick (cf. √tsik)
+√tsix̱	root	kick, move foot quickly (> √tsex̱)
+√tsex̱	root	kick, move foot quickly (< √tsix̱)
+√tsiʼx̱w	root	dam, block, obstruct (> √tsuʼx̱)
+√tsuʼx̱	root	dam, block, obstruct (< √tsiʼx̱w)	
+√tsix̱ʼ	root	strangle (> √tsex̱ʼ)
+√tsex̱ʼ	root	strangle (< √tsix̱ʼ)
+√tsix̱ʼw	root	beads come off string (> √tsux̱ʼ)
+√tsux̱ʼ	root	beads come off string (< √tsix̱ʼw)
+tsú	pcl	also (cf. tsu)
+tsóokʼ	adv	some more (< tsú + -kʼ ‘diminutive’)
+tsu	pcl	again (cf. tsú)
+√tsuʼw	root	push end of long thing forward; move household
+katsóowaa	noun	dibble stick (< √tsʼuw ‘push end forward’)
+tsóox̱	noun	corral (cf. √tsuʼx̱ ‘dam’)
