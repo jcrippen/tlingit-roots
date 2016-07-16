@@ -68,7 +68,7 @@ omitted where there is a high tone vowel in a neighbouring syllable.
 * `√tsàa` [tsʰàː] CV̀V̀
 * `√dzée` [tsíː] CV́V́
 * `√.àas` [ʔàːs] CV̀V̀C
-* `√ÿáash [ɰáːʃ] CV́V́C
+* `√ÿáash` [ɰáːʃ] CV́V́C
 * `√hélʼk` [héɬʼk] CV́CC
 * `√náalx̱` [náːɬχ] CV́V́CC
 * `√háachʼi` [háːtʃʼì] CV́V́CV̀
