@@ -46,3 +46,47 @@ assorted information.
 * `affix` – an affix not identifiable as a separate word
 * `interj` – an interjection or exclamation
 * `name` – a proper name of a place, person, etc.
+
+## Representation of roots
+
+Tlingit roots form two classes: variable and invariable. These two classes and
+their various subclasses are represented in the roots list with particular
+orthographic conventions. These conventions differ slightly from the
+orthography used for the rest of the language.
+
+Variable roots have multiple surface forms that depend on phonological and
+inflectional context. The variation in surface forms is mostly tone and length.
+Variable roots do not have an underlying specification of either tone or
+length, so their representations are not pronounceable forms. In contrast,
+invariable roots have one surface form regardless of context. The
+representations of invariable roots are therefore pronounceable.
+
+The following list illustrates the representation of invariable roots. Note the
+use of a grave accent to indicate low tone where it might be ambiguous. This is
+omitted where there is a high tone vowel in a neighbouring syllable.
+
+* `√tsàa` [tsʰàː] CV̀V̀
+* `√dzée` [tsíː] CV́V́
+* `√.àas` [ʔàːs] CV̀V̀C
+* `√ÿáash [ɰáːʃ] CV́V́C
+* `√hélʼk` [héɬʼk] CV́CC
+* `√náalx̱` [náːɬχ] CV́V́CC
+* `√háachʼi` [háːtʃʼì] CV́V́CV̀
+* `√haakʼú` [hàːkʼʷú] CV̀V̀CV́
+* `√ÿaax̱áḵw` [ɰàːχáqʷ] CV̀V̀CV́C
+* `√tlʼéekʼát` [tɬʼíːkʼát] CV́V́CV́C
+
+The following list illustrates the representation of variable roots. Note the
+lack of tone on the vowels.
+
+* `√tla` /tɬʰa/ CV
+* `√tlaʰ` /tɬʰa/ CVʰ
+* `√tan` /tʰan/ CVC
+* `√taʼw` /tʰaw/ CVʼC
+
+The CVʰ roots differ from CV roots in appearing in suffixed forms with low tone
+where high tone would otherwise be expected. The CVʼC roots differ from CVC
+roots in having high tone where low tone would otherwise be expected.
+The representations are due to Tongass Tlingit where CVʰ roots had breathy
+vowels instead of plain vowels, and CVʼC roots had glottalized vowels instead
+of plain vowels.
