@@ -1455,9 +1455,9 @@ tláa	noun	mother (cf. atlée, tláakʼw, dlaakʼ)
 atlée	noun	mommy (<? ax̱ tláa, cf. atléi)
 atléi	noun	mommy (<? ax̱ tláa, cf. atlée)
 tláakʼw	noun	mother’s sister (< tláa + -kʼ, cf. dlaakʼ)
-tlám	interj	bang, thump (cf. tlóo)
+tlám	interj	bang, thump (> tlóo)
 tlóo	interj	bang, thump (< tlám)
-tlaxchʼ	noun	dead branch without needles or leaves
+tláxchʼ	noun	dead branch without needles or leaves
 √tlak	root	quieten, shush
 tlákw	adv	always in the past (cf. tlaagú, √tlakw, tlágu, tleix̱; √tsáakw)
 tlaagú	noun	legend, legendary; in chʼa tlaagú ‘amazing!’ (cf. tlákw, √tlakw)
@@ -1467,9 +1467,9 @@ tláakw	adv	quickly; in anger
 tláaḵ	noun	sharp point of arrow, spear
 lʼutʼtláaḵ	noun	snake, serpent (< lʼóotʼ ‘tongue’ + tláaḵ ‘spearpoint’)
 tláx̱	adv	very, extremely
-√tlax̱	root	mouldy
-tlaax̱	noun	mould (cf. √tlax̱)
-shaltláax̱	noun	rock almost covered by tide
+√tlax̱	root	mouldy, moldy (cf. tlaax̱ ‘mould’)
+tlaax̱	noun	mould, mold growth (cf. √tlax̱)
+shaltláax̱	noun	rock almost covered by tide (< shá + l- + √tlax̱)
 tle	pcl	and so, just
 √tle	root	strain (cf. √dla, √cha, √dlex̱ʼw
 √tleʰ	root	stout (< √tlaʰ)
@@ -1514,7 +1514,7 @@ lʼákwti	noun	dry fallen tree
 lʼáaḵw	noun	flat-bowed canoe (cf. √lʼaḵw, lʼáḵwti)
 lʼáḵwti	noun	old and worn out thing (cf. √lʼaḵw, lʼáaḵw)
 lʼáax̱ʼ	noun	greyish colour (in L78: 34; <?; cf. shalʼáax̱ʼ, lʼeix̱)
-shalʼáax̱ʼ	noun	long beetle (in L78: 34; cf. láax̱ʼ)
+shalʼáax̱ʼ	noun	long beetle (in L78: 34; cf. lʼáax̱ʼ)
 √lʼéi	root	promiscuous, sexually aroused
 lʼé	noun	sediment (cf. lʼéiw)
 takalʼeiÿí	noun	sediment in oil (< tá + ká + lʼé + -í)
