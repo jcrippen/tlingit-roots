@@ -23,13 +23,27 @@ Names are included mostly to illustrate otherwise rare lexical items. The
 majority of included names are ethnonyms, clan names, and place names.
 Personal names are generally limited to legendary and mythical figures.
 
-## Structure
+## File structure
 
-The structure of the roots list is very simple. Each entry is a single line.
-Each line is divided into three columns separated by tabs. The first column
-is the entry datum. The second column contains a part of speech label in the
-list given below. The third column contains a definition and other
-assorted information.
+The structure of the roots list is very simple. The file is composed of many
+entries, with each entry on a separate line. (Unix line endings are used, so
+that [newlines](https://en.wikipedia.org/wiki/Newline) are represented by
+U+000A Line Feed.) Each entry line is divided into three columns, and these
+columns are separated by tabs (U+0009 Character Tabulation).
+
+* `column1 → column2 ⇥ column3`
+
+The first column, `column1` above, is the entry datum. This is a single word
+without any spaces, possibly preceded by a `√` root sign (U+221A Square Root)
+if the entry is a verb root. The second column, `column2` above, contains a
+part of speech label. The part of speech labels are listed exhaustively in a
+subsection below. The third column, `column3` above, is the definition and
+other assorted information about the datum.
+
+* `√taxʼ → root → bite, chew`
+* `lʼaak → noun → dress`
+* `tléil → pcl → not, negative`
+* `tléikʼ → interj → no`
 
 ### Parts of speech
 
