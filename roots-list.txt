@@ -116,7 +116,7 @@ hóhó	interj	emphasis with gunalchéesh ‘thank you’
 yeihó	interj	unknown exclamation (canoeing? hauling?)
 √.a	root	end move; grow; examine (cf. √.éiyáḵw ‘incapacitated’)
 √.a	root	sg. sit
-éinaa	noun	drying rack (< √.a ·‘sg. sit’)
+éinaa	noun	drying rack (< √.a ‘sg. sit’)
 √.a	root	delay
 á	pron	it, third person nonhuman
 a-	pron	third person nonhuman object; fourth person human subject (mot.)
@@ -164,7 +164,7 @@ tooxée.aat	noun	hives
 aat	noun	father’s sister
 áadaa	noun	fish spear (occ. éidaa)
 lu.áadaa	noun	marbled godwit? (<? áadaa ‘fish spear’)
-ÿinaak.áatʼani	noun	lid, cover (cf. √.atʼ ‘cold’)
+ÿinaak.áatʼani	noun	lid, cover (cf. ÿanáa ‘covering’, √.a ‘end move’)
 ÿana.áatʼani	noun	lid, cover
 ÿana.áaktʼani	noun	lid, cover
 ÿanáatʼi	noun	lid, cover
@@ -624,10 +624,12 @@ naa	noun	tribe, clan
 √náaÿ	root	send, tell to go (cf. √náa)
 √náa	root	send, tell to go (cf. √náaÿ)
 atkunáaÿi	noun	commander (< √náaÿ)
-náa	noun	covering; end of pointed object
+náa	noun	covering, draped over; end of pointed object
+ÿanáa	noun	covering (< ÿá + náa)
+ÿináa	noun	covering (< ÿanáa)
 ḵulkanáaxʼ	adv	in vain (cf. chʼawanáaxʼ, lḵukanyáaxʼ)
 chʼakwanáaxʼ	adv	anyway (cf. ḵulkanáaxʼ, lḵukanyáaxʼ)
-lukanaa	noun	dog eater demon (from southern tribes)
+lukanáa	noun	dog eater demon (from southern tribes)
 aganáa	interj	oh no, regret
 weenáa	noun	sawmill (< CJ (lə)mulá < Fr. le moulin; not *woonáa)
 naaw	noun	bilge water
@@ -1654,7 +1656,7 @@ sáagi	noun	place for lying in wait
 kaságu	noun	beam of house (cf. kasúgu)
 sagweit	noun	kind of deadfall trap (< sákw unknown + -eit; cf. seen)
 sáxʼ	noun	edible cambium of spruce or hemlock
-√saḵ	root	exhausted
+√saḵ	root	exhausted (cf. √shaḵ)
 sáḵs	noun	yew; bow
 √seʰ	root	near (cf. √leʰ ‘far, distant’)
 sé	noun	voice, neck
@@ -1941,5 +1943,135 @@ tsʼu	pcl	even, just, the same (cf. chʼu)
 √tsʼutsʼ	root	fish nibble, jerk on line
 tsʼóotsʼ	noun	fishing expert, fish feeler (cf. √tsʼutsʼ)
 √tsʼux̱	root	move slightly, budge, dislocate (cf. √sʼux̱)
+shá	noun	head (cf. sháan, sháak)
+shanáa	noun	over head (< shá + náa ‘draped over’)
+sháan	noun	inside of head (cf. shá, sháak)
+sháak	noun	head of river or lake
+shakée	noun	above, top (< shá ‘head’ + kée ‘up’)
+shakee.át	noun	frontlet hat (< shakée + át)
+shantú	noun	upstairs, attic (< sháan + tú)
+-dasháan	affix	headed in direction, adverbial affix (cf. shá ‘head’)
+√shaʰ	root	bark (dog; cf. tsaa ‘seal’)
+√sha	root	marry (> √sháaÿ ‘marry each other’, √sháaxʼw; cf. sháa ‘woman’)
+√sháaÿ	root	marry each other (< √sha ‘marry’)
+√sháaxʼw	root	get wife (< √sha ‘marry’ + -xʼ)
+sháaʷ	noun	woman (cf. √sha ‘marry’, √sháaÿ, shaawát ‘girl, woman’, shátx̱)
+sháawu	noun	clan sister
+shát	noun	wife (cf. sháa ‘woman’, √sha ‘marry’, √sháaÿ)
+shaatkʼ	noun	young woman, girl (< shaawát + -kʼ)
+taḵsháa	noun	widow (< taḵ unknown + sháa)
+asgutuyiksháa	noun	beetle, spider (< aasgutú + ÿík + sháa)
+tuyiksháa	noun	junebug (< tú + ÿík + sháa)
+shaa	noun	mountain
+shaaw	noun	gumboot, chiton
+√shan	root	old, gray (cf. shaan ‘old age’)
+shaan	noun	old age (> shaan ‘old, elderly’; cf. √shan ‘old, gray’)
+shaan	adj	old, elderly (< shaan ‘old age’)
+eesháan	interj	too bad, poor, sad (< eesháan ‘poverty’)
+eesháan	noun	poverty (> √.eesháan ‘poor’; cf. shaan ‘old age’, √shan ‘old’)
+√.eesháan	root	poor, pitiable (< eesháan ‘poverty’)
+Sháanséet	name	Craig
+√shaʼt	root	grab, catch, capture, hold
+shádaa	noun	funnel (< √shaʼt + -áa)
+g̱alsháatadi	noun	captive (< √shaʼt ‘grab, capture’ + át ‘thing’)
+aashát	noun	steelhead
+shaadí	noun	sprout
+shátx̱	noun	older sister of woman (cf. sháa ‘woman’, shát ‘wife’)
+shál	noun	spoon
+leineitshál	noun	horn spoon (< leineit + shál)
+yetsʼshál	noun	black horn spoon (< yétsʼ + shál)
+sháal	noun	funnel-shaped fish trap (cf. cháal)
+√sháash	root	wear out
+sháchk	noun	muskeg, swamp
+√sháchk	root	swampy (< sháchk ‘muskeg’)
+sháachʼ	noun	young herring
+sháachʼ	noun	kind of epiphyte and cliff plant
+asxʼaansháachʼi	noun	creeper bird (< aas + xʼaan + sháachʼ + -í)
+sháak	noun	timothy grass
+shákw	noun	strawberry (cf. shíkw, shúk)
+shaaḵ 	noun	driftwood, snag, drift log
+shaḵyátxʼi	noun	small pieces of driftwood in Raven story (< shaaḵ + ÿát)
+shaax̱	noun	gray currant
+waḵshaax̱	noun	gray-eyed person or animal (< waaḵ + shaax̱)
+√shaḵ	root	exhaust, breathless, hunt to exhaustion (cf. √saḵ)
+√sháaḵ	root	deny (with irrealis u-)
+sháḵʼw	noun	mythical wolf-like animal; variety of dog (> shúḵʼ)
+shé	interj	surprise; in haashé, dáa shé
+shé	noun	blood (cf. shí, sheiÿí, sheeÿí)
+sheiÿí	noun	blood (cf. shé, shí, sheeÿí)
+-shé	affix	in gushé ~ kwshé ‘maybe’ (< -shí)
+gushéilʼ	interj	I don’t know, irritated (< gushí ‘maybe’ + -lʼ unknown)
+shéiÿi	noun	Sitka spruce (cf. shée, shéeÿi)
+-sheit	affix	thing (< -sh + -eit)
+sheixw	noun	close-quarters bow and arrow (< sheexw)
+shéix̱ʼw	noun	red alder (cf. √lex̱ʼw, √sex̱ʼw, léix̱ʼw, léiḵʼw, shoox̱ʼ)
+-shí	affix	in gushí ~ kwshí ‘maybe’ (> -shé)
+√shiʰ	root	sing (cf. shí ‘song’, atshí ‘song, music’, atsheeÿí ‘singer’)
+shí	noun	song (cf. √shiʰ ‘sing’)
+atshí	noun	song, music (< √shiʰ ‘sing’; cf. shí ‘song’)
+atsheeÿí	noun	singer (< √shiʰ ‘sing’)
+atshiḵóok	noun	radio, record player, CD player (< atshí + ḵóok ‘box’)
+shée	interj	calling attention; in shéeshée ‘hey’, akshéedé ‘hey you’
+shée	noun	Sitka spruce (cf. shéiÿi, shéeÿi)
+Shée	name	Baranof Island (said to be from shée ‘Sitka spruce’)
+Shéey	name	Baranof Island (said to be from shéeyi ‘Sitka spruce’)
+√shiʰ	root	reach, touch; search; help; caress, stroke (cf. sheeÿ)
+√shi	root	hope
+sheeÿ	noun	right hand (cf. shiÿnáx̱, sheenáx̱, √shiʰ ‘reach’)
+shiÿnáx̱	noun	right (< sheeÿ + -náx̱; > sheenáx̱; cf. √shiʰ ‘reach’)
+sheenáx̱	noun	right (< shiÿnáx̱; cf. √shiʰ ‘reach’)
+sheeÿ	noun	limb; knot in wood
+shéeÿi	noun	Sitka spruce (cf. shée, shéiÿi)
+shéeÿuwáa	noun	Douglas fir (< shéeÿi ‘Sitka spruce’ + uwáa)
+shéen	noun	bailer, large spoon
+washéen	noun	machine, engine (< Eng. machine; via CJ?)
+mashéen	noun	machine, engine (< Eng. machine; via CJ?)
+√shitʼ	root	crowd, shove, pack tight
+√shisʼ	root	squeeze out (cf. √shéesht)
+√shísʼḵ	root	raw, uncooked (< shísʼḵ)
+shísʼḵ	noun	raw flesh, uncooked food (< √shisʼ ‘squeeze out’ + -ḵ ‘lacking’)
+√shéesh	root	outdo at feast
+√shéesht	root	correct mistake nicely (<? √shéesh + -t)
+√shéesht	root	squeeze out (cf. √shisʼ)
+shéesht	noun	lucky gambling stick
+keishísh	noun	beach alder
+√shish	root	sip
+sʼelasheesh	noun	flathead duck (< √shish)
+sheesh	noun	inconnue
+shéech	adj	female
+√shéech	root	effeminate (< shéech ‘female’)
+sheexw	noun	close-quarters bow and arrow (> sheixw, shoox)
+shíkw	noun	strawberry (> shúk; cf. shákw)
+tayashágu	small red sea anemone (< té + ÿá + shákw + -í)
+√shikʼw	root	cramp, shock; blather, talk too much (> √shukʼ, kashéekʼw)
+kashéekʼw	noun	cramps, electricity (< √shikʼw; > kashóokʼ)
+√shix̱ʼ	root	praise (> kashéex̱ʼ)
+kashéex̱ʼ	noun	praise, glory (< √shix̱ʼ)
+√shu	root	end, extend, hang (cf. shú, shoowú)
+shú	noun	end (cf. √shu, shoowú)
+shuká	noun	crest (< shú + ká)
+shkwá	noun	crest (< shuká)
+shuwee	noun	below, before (< shú + ÿee)
+ÿanshuká	noun	campsite, wilderness (< ÿán + shú + ká)
+shoowú	noun	part (cf. shú, √shu)
+-dooshú	affix	in numerals (< át wooshóo ‘ending there at it’)
+nashoowú	noun	clan relative (< naa + shoowú)
+√shuʰ	root	strongly affected, intoxicated, drunk
+kanashú	noun	drunkenness (< √shuʰ ‘drunk’)
+gishoo	noun	pig (< CJ koshó < Fr. le cochon)
+kʼinashóo	noun	pneumonia
+shóosʼi	noun	tobacco smoking; in shóosʼi hídi tobacco house (cf. √sʼusʼ)
+√shuch	root	bathe, sit in cold water
+daadashooch	noun	bathing (< √shuch ‘bathe’)
+shúk	noun	strawberry (< shíkw; cf. shákw)
+shóogaa	noun	sugar (< CJ shúga < Eng. sugar)
+shóogu	noun	same, initial (with chʼu)
+shoox	noun	close-quarters bow and arrow (< sheexw)
+sheishóox̱	noun	rattle (<? Tsim.)
+√shuḵ	root	laugh, smile, funny
+atshóoḵ	noun	laughter (< √shuḵ)
+shúḵʼ	noun	mythical wolf-like animal (< sháḵʼw)
+shoox̱ʼ	noun	robin (cf. √lex̱ʼw, √sex̱ʼw, léix̱ʼw, léiḵʼw, shéix̱ʼw)
+shoox̱ʼuwáa	noun	varied thrush (< shoox̱ʼ ‘robin’ + uwáa)
 
 xʼéesʼát	noun	shrimp (<? √xʼisʼ ‘tangled’; cf. sʼéexʼát ‘shrimp’)
