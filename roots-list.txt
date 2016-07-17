@@ -1864,8 +1864,8 @@ sʼísaa	noun	sail; cloth (< √sʼis ‘blown by wind’)
 kasʼéesjaa	noun	wind blowing things around (< ká + √sʼis + -ch + -áa)
 √sʼisʼ	root	squirt water; instruct privately; whistle breathily
 sʼeex	noun	lint (cf. tlʼeex ‘trash’, √sʼix ‘spoil’)
-√sʼix	root	spoil, start to rot (cf. √sʼixw, sʼeex ‘lint’, √tlʼix ‘trashy’)
-√sʼixw	root	sour (> √sʼux; cf. √sʼix ‘spoil’, √tlʼix ‘trashy’)
+√sʼix	root	spoil, start to rot (cf. √sʼixw, sʼeex ‘lint’, √tlʼix, √tsʼix)
+√sʼixw	root	sour (> √sʼux; cf. √sʼix ‘spoil’, √tlʼix ‘trashy’, √tsʼix)
 sʼeek	noun	black bear
 sʼíksh	noun	hellebore, skookum root (cf. sʼikshaldéen ‘Hudson Bay tea’)
 √sʼikw	root	crisp, toast, fry (> √sʼuk)
@@ -1891,7 +1891,7 @@ sʼaḵsʼúwaa	noun	bone chopper (< sʼaaḵ ‘bone’ + √sʼuʼw + -áa)
 √sʼuʼn	root	squint (cf. √tsʼuʼn)
 √sʼuʼn	root	make kissing noise
 sʼúdi	noun	lower foreleg
-√sʼutʼ	root	spit (cf. √tsʼutʼ)
+√sʼutʼ	root	spit (cf. √tsʼuʼt ‘close tightly, pucker’)
 sʼúsʼ	noun	harlequin duck
 √sʼusʼ	root	thread on stick for drying (cf. sʼóosʼ)
 sʼóosʼ	noun	stick for drying (cf. sʼóosʼ)
@@ -1904,6 +1904,42 @@ sʼóoxʼ	noun	blocking; in waḵkasʼóoxʼ ‘blocking view’, jikasʼóoxʼ 
 sʼóoḵ	noun	rib
 sʼuḵkasdúk	noun	solid-ribbed brown bear (< sʼooḵ ‘rib’ + kasdúk unknown)
 gisʼóoḵ	noun	aurora, northern lights
+√sʼux̱	root	move slightly, budge, dislocate (cf. √tsʼux̱)
 √sʼux̱ʼ	root	dried mucus (with waḵ- ‘eye’ + ka- + l-)
+√tsʼáa	root	smell good
+√tsʼan	root	shallow (cf. √dlan ‘deep’)
+√tsʼal	root	drip
+atsʼáts	noun	osprey, fishhawk, seahawk
+kaneiltsʼákw	noun	black currant
+tsʼáḵl	noun	black paint, ink
+√tsʼeʼn	root	cease; leave alone
+lyax̱datsʼéini	noun	trickster (< √tsʼeʼn ‘cease, leave alone’)
+√tsʼetʼ	root	cut carefully, flay, flense
+tsʼésx̱ʼw	noun	snail; whelk (< tsʼísx̱w; cf. tlʼélx̱ʼw)
+√tsʼex̱	root	crave, have predilection for, indulge (cf. tsʼéix̱i)
+tsʼéix̱i	noun	addict (cf. √tsʼex̱)
+tsʼatsʼée	noun	songbird (cf. tsʼítskw)
+kutsʼeen	noun	rat
+tsʼéendli	noun	forearm
+√tsʼitʼ	root	full of liquid; heavily loaded boat (cf. √tlʼitʼ)
+√tsʼísxwaa	root	sneeze (cf. √tsʼísaa, √tsʼíxaa)
+√tsʼísaa	root	sneeze (cf. √tsʼísxwaa, √tsʼíxaa)
+√tsʼíxaa	root	sneeze (cf. √tsʼísxwaa, √tsʼísaa)
+tsʼítskw	noun	songbird (cf. tsʼatsʼée)
+√tsʼix	root	damp, rotten (cf. √sʼix ‘spoil’, √sʼixw ‘sour’, √tlʼix)
+√tsʼik	root	whine, fuss, tantrum
+tsʼíktsʼík	noun	wagon, cart, car (< CJ tsʼíktsʼik)
+tsʼéekáx̱kʼw	noun	mountain blueberry, jacobberry
+√tsʼikʼ	root	pinch (cf. √tsʼikʼw, √tsʼígwaa)
+√tsʼikʼw	root	pinch (cf. √tsʼikʼ, √tsʼígwaa, tsʼéekʼu, tsʼíkʼwti)
+√tsʼígwaa	root	delicate, touchy issue (cf. √tsʼikʼ, √tsʼikʼw)
+tsʼéekʼu	noun	‘button’ of shell; umbo?, operculum? (cf. √tsʼikʼw)
+tsʼíkʼwti	noun	‘button’ of shell; umbo?, operculum? (cf. √tsʼikʼw)
+tsʼu	pcl	even, just, the same (cf. chʼu)
+√tsʼuʼn	root	squint, look through nearly closed eyes (cf. √sʼuʼn, √tlʼun)
+√tsʼuʼt	root	close tightly, pucker (cf. √sʼutʼ ‘spit’)
+√tsʼutsʼ	root	fish nibble, jerk on line
+tsʼóotsʼ	noun	fishing expert, fish feeler (cf. √tsʼutsʼ)
+√tsʼux̱	root	move slightly, budge, dislocate (cf. √sʼux̱)
 
 xʼéesʼát	noun	shrimp (<? √xʼisʼ ‘tangled’; cf. sʼéexʼát ‘shrimp’)
