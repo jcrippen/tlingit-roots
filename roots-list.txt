@@ -351,7 +351,7 @@ kichyaat	noun	tern
 shaayáal	noun	hawk
 tayáadzi	noun	honeycomb ice
 tʼíxʼyáadzi	noun	honeycomb ice
-chʼiyaash	noun	small canoe
+chʼiyáash	noun	small canoe
 Daasʼadiyáash	name	Dezeadeash Lake (also Dáasʼaadiyéshḵ, Dáasʼaakayáash)
 yáxwchʼ	noun	sea otter
 dziyáak	adv	earlier, previously; later
@@ -379,7 +379,6 @@ yétsʼ	noun	jet black (cf. √yesʼ ‘blacken, discolour’)
 ÿéisʼ	noun	dark; obsidian; bruise (< √yesʼ ‘blacken, discolour’)
 kayéisʼ	noun	dye (< √yesʼ ‘blacken, discolour’)
 daaÿéisʼ	noun	black furred weasel (< dáa ‘weasel’ + yéisʼ ‘dark’)
-chʼakʼÿéisʼ	noun	immature eagle (< chʼáakʼ ‘eagle’ + yéisʼ ‘dark’)
 iḵÿéisʼ	noun	iron (< eeḵ ‘copper’ + yéisʼ ‘dark’)
 g̱aÿéisʼ	noun	iron (< iḵyéisʼ ‘iron’)
 kooyéix	noun	camprobber
@@ -570,7 +569,6 @@ wóow	noun	lunch (< √wu ‘send, take along’)
 √wu	root	float
 √wu	root	dare (see √wuḵ)
 √wu	root	pale (orig. ‘white’)
-chʼáatwu	noun	epidermis (< chʼáat unknown cf. tlʼátk + √wu ‘pale’)
 taanwú	noun	umbilical cord
 lakʼéechʼwu	noun	surf scoter
 wóo	noun	father-in-law
@@ -1462,7 +1460,7 @@ tláxchʼ	noun	dead branch without needles or leaves
 √tlak	root	quieten, shush
 tlákw	adv	always in the past (cf. tlaagú, √tlakw, tlágu, tleix̱; √tsáakw)
 tlaagú	noun	legend, legendary; in chʼa tlaagú ‘amazing!’ (cf. tlákw, √tlakw)
-tlágu	adj	old, ancient (cf. tlákw, √tlakw, tlaagú)
+tlágu	adj	old, ancient (cf. tlákw, √tlakw, tlaagú, chʼáagu)
 √tlakw	root	investigate; tell legend; whisper with ḵu- (cf. tlákw, tlaagú)
 tláakw	adv	quickly; in anger
 tláaḵ	noun	sharp point of arrow, spear
@@ -1515,6 +1513,7 @@ lʼákwti	noun	dry fallen tree
 lʼáaḵw	noun	flat-bowed canoe (cf. √lʼaḵw, lʼáḵwti)
 lʼáḵwti	noun	old and worn out thing (cf. √lʼaḵw, lʼáaḵw)
 lʼáax̱ʼ	noun	greyish colour (in L78: 34; <?; cf. shalʼáax̱ʼ, lʼeix̱)
+lʼáx̱ʼkw	noun	dirt (< tlʼáx̱ʼkw)
 shalʼáax̱ʼ	noun	long beetle (in L78: 34; cf. lʼáax̱ʼ)
 √lʼéi	root	promiscuous, sexually aroused
 lʼé	noun	sediment (cf. lʼéiw)
@@ -1588,7 +1587,7 @@ tlʼéx̱	noun	usnea
 √tlʼeḵ	root	carry with pincers (< √tlʼiḵ)
 tlʼeiḵw	noun	finger (< tlʼeeḵ)
 tlʼéx̱ʼkw	noun	soil (cf. tlʼáx̱ʼkw, tlʼátk, √chʼex̱ʼw)
-√tlʼin	root	tie up hair or cloth (cf. tlʼéenaa, tlʼéinaa, √chʼin, chʼéen)
+√tlʼin	root	tie up hair or cloth (cf. tlʼéenaa, tlʼéinaa, √chʼiʼn, chʼéen)
 tlʼéenaa	noun	hair tie (< √tlʼin, cf. chʼéen)
 shakatlʼéen	skein of yarn, hank of beads (< √tlʼin)
 ḵʼalukatlʼéeni	noun	toebar
@@ -1614,6 +1613,7 @@ tlʼoog̱ú	noun	liver (cf. √tlʼuḵ, tlʼoog̱ú)
 tlʼóog̱u	noun	liver (cf. √tlʼuḵ, tlʼóog̱u)
 √tlʼuʼḵ	root	rot and smell, develop sore (cf. tlʼooḵ)
 tlʼooḵ	noun	open sore (cf. √tlʼuʼḵ)
+sá	pcl	wh-question particle (cf. sí ‘dubitative’)
 √saʰ	root	narrow, small in girth
 √sa	root	breathe, rest (cf. daséikw, x̱ʼaséikw)
 daséikw	noun	breath, air, life (< d- + √sa ‘breathe’ + -kw)
@@ -1658,6 +1658,7 @@ sáxʼ	noun	edible cambium of spruce or hemlock
 √saḵ	root	exhausted (cf. √shaḵ)
 sáḵs	noun	yew; bow
 √seʰ	root	near (cf. √leʰ ‘far, distant’)
+sé	pcl	dubitative (< sí ‘dubitative’)
 sé	noun	voice, neck
 seit	noun	necklace (< sé + át)
 saka.át	noun	necktie (< sé + ká + át)
@@ -1679,6 +1680,7 @@ séiḵʼw	noun	dark spot, stain (cf. √seḵʼw)
 kaséiḵʼw	noun	dye, color (< ká + √seḵʼw)
 kaséḵʼx̱u	noun	dye, color (< ká + √seḵʼw + -x̱ + -í)
 tukaséiḵʼu	noun	egg yolk (with kʼwátʼ; < tú + kaséiḵʼw)
+sí	pcl	dubitative (> sé ‘dubitative’; cf. sá ‘wh-question’)
 sée	noun	daughter; doll
 síkʼ	noun	daughter (vocative; < sée + -kʼ ‘diminutive’)
 jimasasée	noun	yellow warbler (< Dene)
@@ -1856,7 +1858,7 @@ sʼeenáa	noun	lamp (< *√sʼin unknown + -áa)
 √sʼit	root	wrap, screw, bind, bandage, braid
 kasʼéet	noun	screw (< √sʼit ‘wrap, screw’)
 choonkasʼéet	noun	payment for death (< choon + kasʼéet)
-shakasʼídi	noun	calyx (cf. shakasʼéet ‘braided bun’)
+shakasʼídi	noun	calyx (cf. shakasʼéet ‘braided bun’, chʼéeni)
 shakasʼéet	noun	braided bun of hair (< shá + ká + √sʼit ‘wrap’)
 sʼéetʼ	noun	whale like killerwhale (in L78: 43 cited from Swanton)
 √sʼis	root	blown by wind; sail; tire of something (cf. √chʼish ‘splash’)
@@ -1901,15 +1903,19 @@ sʼóosʼani	noun	pinecone (< √sʼusʼ; cf. sʼóosʼ)
 sʼook	noun	barnacle
 √sʼux	root	sour (< √sʼixw)
 √sʼuk	root	crisp, toast, fry (< √sʼikw)
-sʼóoxʼ	noun	blocking; in waḵkasʼóoxʼ ‘blocking view’, jikasʼóoxʼ ‘blocking’
+sʼóoxʼ	noun	blocking; in waḵkasʼóoxʼ, jikasʼóoxʼ (cf. chʼóokʼ)
+waḵkasʼóoxʼ	noun	blocking view (< waaḵ ‘eye’ + sʼóoxʼ ‘blocking’)
+jikasʼóoxʼ	noun	blocking reach (< jín ‘hand’ + ká + sʼóoxʼ ‘blocking’)
 sʼóoḵ	noun	rib
 sʼuḵkasdúk	noun	solid-ribbed brown bear (< sʼooḵ ‘rib’ + kasdúk unknown)
 gisʼóoḵ	noun	aurora, northern lights
 √sʼux̱	root	move slightly, budge, dislocate (cf. √tsʼux̱)
 √sʼux̱ʼ	root	dried mucus (with waḵ- ‘eye’ + ka- + l-)
+tsʼa	pcl	just (var. of chʼa)
 √tsʼáa	root	smell good
 √tsʼan	root	shallow (cf. √dlan ‘deep’)
 √tsʼal	root	drip
+tsʼas	pcl	just, only (< tsʼa + sí; cf. chʼas)
 atsʼáts	noun	osprey, fishhawk, seahawk
 kaneiltsʼákw	noun	black currant
 tsʼáḵl	noun	black paint, ink
@@ -2172,7 +2178,7 @@ chíx̱ʼ	noun	shadow, shade (< chéex̱ʼ; cf. √chix̱ʼ)
 dachóon	dirn	straight towards, forward (cf. √chuʼn, chooneit)
 √chuʼn	root	wounded (cf. dachóon, chooneit, √chuʼn ‘twist to split’)
 chooneit	noun	arrow (< *chuʰn ‘arrow’ + -eit; cf. √chuʼn)
-kindachooneit	noun	mallard (< kín + -dé + chooneit)
+kindachooneit	noun	mallard (< kín + -dé + chooneit; cf. chʼax̱ʼínx̱ʼ)
 chugwéil	noun	bag for arrowheads (< *chuʰn + gwéil; cf. chooneit)
 √chuʼn	root	twist to split (cf. √chuʼn ‘wound’)
 √chul	root	munch, roll around in mouth (cf. kanalchóolani)
@@ -2186,5 +2192,63 @@ kachóox	noun	clay shaped with hands (cf. √chux ‘rub, massage, knead’)
 √chux̱ʼ	root	fat? roll off (cf. leikachóox̱ʼu, √chóox̱ʼálʼ)
 √chóox̱ʼálʼ	root	shake, manhandle, push roughly (< √chux̱ʼ + -lʼ)
 leikachóox̱ʼu	noun	trachea (< lé ‘throat’ + ká + √chux̱ʼ ‘roll’ + -í)
+chʼa	pcl	just (cf. chʼu)
+chʼas	pcl	just, only (< chʼa + sí)
+chʼaan.eex̱í	noun	oil on wet ground (< chʼaan unknown + eex̱ ‘oil’ + í)
+chʼáatwu	noun	epidermis (< chʼáat unknown + √wú ‘pale’; cf. tlʼátk)
+√chʼalʼ	root	pale, spotted (cf. √chʼachʼ, chʼáalʼ ‘willow’, √gaxʼ, √kaxʼ)
+chʼáalʼ	noun	willow; pale (cf. √chʼalʼ ‘pale, spotted’)
+√chʼachʼ	root	spotted, polka-dotted (cf. √chʼachʼ, √gaxʼ, √kaxʼ)
+chʼáagu	adv	long ago (< chʼa + *tláagu; cf. jáag̱oo, tlákw, tlaagú, tlágu)
+chʼáakʼ	noun	bald eagle
+chʼakʼyéisʼ	noun	juvenile bald eagle (< chʼáakʼ + yéisʼ)
+√chʼakʼw	root	carve, incise (cf. kachʼákʼwaa)
+kachʼákʼwaa	noun	carving knife, chisel (< ká + √chʼakʼw + -áa)
+chʼákʼwaa	noun	hole-making tool for wood (< √chʼakʼw + -áa)
+chʼáakʼu	noun	in iḵtáanáx̱ chʼáakʼu ‘holes for snowshoe footfill’
+atkachʼáakʼu	noun	wood carver (< √chʼakʼw)
+chʼéiyi	noun	in kʼichʼéiyi ‘gizzard, crop of bird’
+kʼichʼéiÿi	noun	gizzard, crop (< kʼí ‘base’ + chʼéiyi unknown)
+kʼishantuchʼéiyi	noun	gizzard, crop (< kʼí + shantú + chʼéiyi)
+koochʼéitʼaa	noun	ball (< koochʼéetʼaa)
+wankachʼeiḵ	noun	little finger (< wankachʼeeḵ)
+chʼéix̱ʼi	noun	index finger, pointer (< chʼéex̱ʼi)
+√chʼex̱ʼ	root	point, poke (< √chʼix̱ʼ)
+chʼeix̱ʼ	noun	thimbleberry (< chʼeex̱ʼ)
+√chʼex̱ʼw	root	dirty; tiresome food (cf. chʼéix̱ʼw, tlʼáx̱ʼkw)
+chʼéix̱ʼw	noun	dirt, smut (cf. √chʼex̱ʼw, tlʼáx̱ʼkw, tlʼátk)
+x̱akwtayeechʼéix̱ʼw	noun	fingernail dirt (< x̱ákw + tá + ÿee + chʼéix̱ʼw)
+luchʼéix̱ʼw	noun	dirty nose (< lú + chʼéix̱ʼw)
+√chʼéix̱ʼu	root	dirty (< chʼéix̱ʼw ‘dirt’)
+√chʼéeÿáḵw	root	slow (< √chʼi unknown + -áḵw ‘lacking’)
+√chʼiʼn	root	tie up hair (cf. chʼéen, √tlʼin)
+chʼéen	noun	hair ribbon (cf. √chʼiʼn, √tlʼin, tlʼéenaa)
+chʼéeni	noun	calyx and stem of berry (< chʼéen, shakasʼídi)
+ḵʼaluchʼéeni	noun	philtrum (< ḵʼa- ‘mouth’ + lú ‘nose’ + chʼéen ‘ribbon’)
+lakʼichʼchʼéeni	noun	merganser crest, ponytail  (< lakʼíchʼ + chʼéen)
+chʼeet	noun	auklet or murrelet
+chʼeetg̱áa	noun	skate (<? chʼeet + -g̱áa)
+ḵʼeichʼeedí	noun	packrat (<? ḵʼa- + chʼeet + -í)
+tachʼeedí	noun	suckerfish (<? té or tá + chʼeet + -í)
+chʼéedaadáa	interj	 songbird call (cf. tsʼatsʼée)
+√chʼitʼ	root	lick from finger or stick
+tuḵx̱ʼachʼítʼaa	noun	stick for wiping anus (< tooḵ + x̱ʼé + √chʼitʼ + -áa)
+koochʼéetʼaa	noun	ball (< √chʼitʼ unknown)
+√chʼéetʼaa	root	play ball (< koochʼéetʼaa)
+√chʼish	root	splash (cf. √sʼis ‘blown by wind’)
+lakwchʼísh	noun	common scoter (< lakw unknown + √chʼish ‘splash’)
+wankachʼeeḵ	noun	little finger (< wán + ká + chʼeeḵ < tlʼeeḵ ‘finger’)
+chʼéex̱ʼi	noun	index finger, pointer (< √chʼix̱ʼ; > chʼéix̱ʼi)
+√chʼix̱ʼ	root	poke, point (> chʼéex̱ʼi, √chʼex̱ʼ)
+chʼeex̱ʼ	noun	thimbleberry (> chʼeex̱ʼ)
+chʼu	pcl	even, just, still, the same (cf. chʼa, tsʼu)
+kʼichʼóo	noun	gambling game, perhaps with chair dice (also gichʼóo)
+chʼuljíni	noun	vest (< chʼu + l.uljíni)
+chʼóotʼ	noun	clitoris
+chʼóokʼ	noun	outside edge in waḵchʼóokʼ, ganchʼóokʼ (cf. sʼóoxʼ)
+waḵchʼóokʼ	noun	corner of eye (< waaḵ ‘eye’ + chʼóokʼ ‘outside edge’)
+ganchʼóokʼ	noun	by fire (< gán ‘firewood’ + chʼóokʼ ‘outside edge’)
+chʼúḵlʼ	noun	surf smelt; sand lance
 
 xʼéesʼát	noun	shrimp (<? √xʼisʼ ‘tangled’; cf. sʼéexʼát ‘shrimp’)
+chʼax̱ʼínx̱ʼ	noun	mallard (cf. kindachooneit)
