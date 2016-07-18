@@ -1979,7 +1979,7 @@ shátx̱	noun	older sister of woman (cf. sháa ‘woman’, shát ‘wife’)
 shál	noun	spoon
 leineitshál	noun	horn spoon (< leineit + shál)
 yetsʼshál	noun	black horn spoon (< yétsʼ + shál)
-sháal	noun	funnel-shaped fish trap (cf. cháal)
+sháal	noun	funnel-shaped fish trap (cf. chaal)
 √sháash	root	wear out
 sháchk	noun	muskeg, swamp
 √sháchk	root	swampy (< sháchk ‘muskeg’)
@@ -2121,5 +2121,70 @@ koojúxaa	noun	wheel, wheelbarrow (< √jux + -áa)
 júḵk	noun	robin (cf. shoox̱ʼ)
 √jux̱ʼ	root	sling, fling (< √jix̱ʼw)
 júx̱ʼaa	noun	sling (< √jux̱ʼ)
+cha	interj	interrupting other speaker
+√cha	root	strain (cf. √dla ‘sediment settle’)
+chaa	noun	in-law, opposite clan by marriage (cf. chaaḵáa, cháa, chaan)
+chaaḵáa	noun	in-law, opposite clan by marriage (< chaa + ḵáa)
+cháa	adv	well spoken in tléil cháa x̱ʼeishtí ‘he’s crabby’ (cf. chaa)
+kacháwli	noun	sweetheart (cf. √chul, kanalchóolani ‘mistress’)
+√chán	root	stinky (< chán ‘stench, stink’)
+√chánx̱aa	root	pretend, imagine stink (< √chán + -x̱aa)
+chán	noun	stench, stink
+kalchaneit	noun	mountain ash (< ká + l- + √chán + -eit)
+ḵáakʼwchán	noun	baby boy (< ḵáa ‘man’ + -kʼ ‘dim.’ + chán ‘stink’)
+shawatkʼichán	noun	baby girl (< shaawát ‘girl’ + -kʼ ‘dim.’ + chán ‘stink’)
+dachx̱án	noun	grandchild (cf. x̱án ‘near’, chán ‘stench’)
+chx̱ánkʼ	interj	grandkid, addressing grandchild (< dachx̱án + -kʼ ‘dim.’)
+chaan	noun	mother in law (cf. chaa)
+chaadí	noun	section above tail of bird, especially Raven
+chál	noun	platform cache (cf. chíl)
+chalxóok	noun	air-dried salmon (< chál + √xuk)
+teetx̱ʼachálx̱i	noun	sponge (< √chál-x̱ unknown; cf. hinx̱ʼachálx̱i)
+hinx̱ʼachálx̱i	noun	sponge (< √chál-x̱ unknown; cf. teetx̱ʼachálx̱i)
+chaal	noun	square fish trap (cf. sháal)
+cháatl	noun	halibut
+√chalʼ	root	tired after eating, indulging, food coma
+cháasʼ	noun	humpy salmon, pink salmon
+cháash	noun	bough, limb of tree with foliage; brush, logging slash
+cháashga	noun	teacup (< Ru. чашка)
+√chaʼk	noun	pack, put away neatly; stack, pile up; pass away (euph.)
+cháax̱	noun	grebe
+kʼinchéiÿi	noun	rose hips
+√chetl	root	thaw, melt off
+√chech	root	walk spread-legged
+√chech	root	dust, clean surface
+chéix̱ʼ	noun	shadow, shade (< chéex̱ʼ)
+chéx̱ʼ	noun	shadow, shade (< chéix̱ʼ)
+√chex̱ʼ	noun	shadow move (< √chix̱ʼ; cf. chéix̱ʼ, chéx̱ʼ)
+chée	noun	kind of bird, marbled guillemot (in L37: 10/201)
+chíl	noun	platform cache (cf. chál)
+chilxóok	noun	air-dried salmon (< chíl + √xuk)
+√chish	root	obtain easily
+gunalchéesh	interj	thank you (< hél gunalchéesh < √chish ‘obtain easily’)
+cheech	noun	porpoise
+chichuwáa	noun	porpoise-like shark (< cheech + uwáa)
+chichwú	noun	beluga (< cheech + √wu)
+√chígaa	root	fierce
+chíg̱ayi	noun	hoof (<? √chiḵ unknown + aa + -í)
+chéex̱ʼ	noun	shadow, shade (> chéix̱ʼ, chíx̱ʼ; cf. √chix̱ʼ)
+chíx̱ʼ	noun	shadow, shade (< chéex̱ʼ; cf. √chix̱ʼ)
+√chix̱ʼ	root	shadow move (> √chex̱ʼ; cf. chéex̱ʼ, chíx̱ʼ)
+dachóon	dirn	straight towards, forward (cf. √chuʼn, chooneit)
+√chuʼn	root	wounded (cf. dachóon, chooneit, √chuʼn ‘twist to split’)
+chooneit	noun	arrow (< *chuʰn ‘arrow’ + -eit; cf. √chuʼn)
+kindachooneit	noun	mallard (< kín + -dé + chooneit)
+chugwéil	noun	bag for arrowheads (< *chuʰn + gwéil; cf. chooneit)
+√chuʼn	root	twist to split (cf. √chuʼn ‘wound’)
+√chul	root	munch, roll around in mouth (cf. kanalchóolani)
+kanalchóolani	noun	mistress (cf. √chul ‘munch’, kacháwli ‘sweetheart’)
+chush	pron	self, reflexive possessor
+√chux	root	rub, massage, knead, pat (cf. √chuʼk, √chuxʼ, kachóox)
+kachóox	noun	clay shaped with hands (cf. √chux ‘rub, massage, knead’)
+√chuʼk	root	rub to soften (cf. √chux, √chuxʼ)
+√chuxʼ	root	graze, touch or shake lightly (cf. √chux, √chuʼk)
+√chux̱	root	cadge, sponge off someone (with irrealis u-)
+√chux̱ʼ	root	fat? roll off (cf. leikachóox̱ʼu, √chóox̱ʼálʼ)
+√chóox̱ʼálʼ	root	shake, manhandle, push roughly (< √chux̱ʼ + -lʼ)
+leikachóox̱ʼu	noun	trachea (< lé ‘throat’ + ká + √chux̱ʼ ‘roll’ + -í)
 
 xʼéesʼát	noun	shrimp (<? √xʼisʼ ‘tangled’; cf. sʼéexʼát ‘shrimp’)
