@@ -28,7 +28,7 @@ kuhaawú	noun	beaver tail
 kahánti	noun	strips (< √han ‘cut into strips’)
 kuhaantí	noun	orphan
 -háan	affix	plural pronoun suffix
-ḵuháan	noun	dwellers (see ḵwáan)
+ḵuháan	noun	dwellers (> ḵwáan)
 háanís	noun	harness (< Eng.)
 hándít	noun	hundred (< CJ hándlət or Eng. hundred)
 √hat	root	carry heavy object
@@ -39,7 +39,7 @@ háat	noun	cover (< √hat ‘cover’)
 haat	noun	current, strong tide
 shkahaadí	interj	crazy
 √hátk	root	tremble due to nerve damage
-√hátkw	root	fast (see √sátkw ‘fast’)
+√hátkw	root	fast (> √sátkw ‘fast’)
 √haʼt	root	herd
 háatlʼ	noun	crap (< √hatlʼ ‘crap’; cf. √hasʼ ‘vomit’, háachʼ ‘shame’)
 √hatlʼ	noun	crap (cf. √hasʼ ‘vomit’, háachʼ ‘shame’)
@@ -54,7 +54,7 @@ háachʼ	noun	shame (cf. √hasʼ ‘vomit’, √hatlʼ ‘crap’)
 √hakw	root	encourage
 kaháakw	noun	fish eggs
 √haakʼú	root	pretend
-hé	det	this (mesioproximal)
+hé	det	this, mesioproximal
 héi	interj	delight, surprise
 heʼ	interj	yeah
 x̱aaheiwú	noun	gooseberry
@@ -76,8 +76,8 @@ heexʼ	noun	payment to shaman (< √hiʰ ‘pay shaman’ + -xʼ ‘plural’)
 √hée	root	evil
 ahée	interj	I wish!
 heeyáa	interj	impatience
-ḵukahín	noun	cranky (in ḵukahínt uwanúk ‘he got cranky’)
--dahéen	affix	times (numeral)
+ḵukahín	noun	cranky in ḵukahínt uwanúk ‘he got cranky’
+-dahéen	affix	times in numerals, e.g. twice, three times
 √hin	root	pl. fish swim
 √hin	root	believe
 √héen	root	mix with water
@@ -90,7 +90,7 @@ hít	noun	house, building
 √hich	root	spy on
 √hixw	root	bewitch
 héexu	noun	witchcraft
-√hik	root	full (solid mass)
+√hik	root	full of solid mass
 √hik	root	scamper, frisk (cf. √heʼk ‘move hyperactively’)
 aandaatkanahígi	noun	monkey	(< aan ‘town’ + daat ‘around’ + kanahík ‘frisk’)
 √hu	root	wade, swim on surface
@@ -113,7 +113,7 @@ húnx̱w	noun	male’s older brother
 hóochʼ	noun	finished, used up
 √huk	root	give shout
 hóhó	interj	emphasis with gunalchéesh ‘thank you’
-yeihó	interj	unknown exclamation (canoeing? hauling?)
+yeihó	interj	unknown exclamation, canoeing?, hauling?
 √.a	root	end move; grow; examine (cf. √.éiyáḵw ‘incapacitated’)
 √.a	root	sg. sit
 éinaa	noun	drying rack (< √.a ‘sg. sit’)
@@ -121,25 +121,25 @@ yeihó	interj	unknown exclamation (canoeing? hauling?)
 á	pron	it, third person nonhuman
 a-	pron	third person nonhuman object; fourth person human subject (mot.)
 a	pron	its, third person nonhuman possessor
--aa	affix	instrumental nominalization (cf. -áa)
--áa	affix	instrumental nominalization (cf. -aa)
-aa	pron	some/one of, partitive
-aa	pron	who (indef; wh-question)
+-aa	affix	instrumental nominalization (cf. -áa, aa ‘partitive’)
+-áa	affix	instrumental nominalization (cf. -aa, aa ‘partitive’)
+aa	pron	some/one of, partitive (cf. -áa, -aa, aa ‘who’, aadóo ‘who’)
+aa	pron	indefinite who in wh-question (cf. aa ‘partitive’, aadóo ‘who’)
 aa	interj	um, well, hesitation
 aaa	interj	um, well, hesitation
 keewa.áa	noun	up in air
 daḵla.á	noun	jackpine
-aadóo	pron	who (def; wh-question)
+aadóo	pron	definite who in wh-question (< aa ‘who’ + dóo unknown)
 gu.aa	pcl	hopefully
 ḵu.aa	pcl	however
 ḵu.a	pcl	however
 ḵwa	pcl	however
 áa	noun	lake
 naasa.áa	noun	tool case
-aaá	interj	yes
-aahá	interj	indeed (older form of aaá ‘yes’)
+aaá	interj	yes (< aahá ‘yes’)
+aahá	interj	indeed (> aaá ‘yes’)
 dix̱ʼkana.áaÿi	noun	moose’s hump (< díx̱ʼ ‘spine’)
-√.aʼw	root	strap
+√.aʼw	root	strap (cf. ÿa.áawu, shuka.áwli)
 ÿa.áawu	noun	strap (< √.aʼw ‘strap’)
 shuka.áwli	noun	line holding end of something in place (< √.aʼw ‘strap’)
 √.an	root	rinse in snow
@@ -277,7 +277,7 @@ eex̱	noun	oil
 íx̱tʼ	noun	shaman
 eeḵ	noun	copper
 éeḵ	noun	beach
-eeḵ	noun	top of foot (in iḵká)
+eeḵ	noun	top of foot in iḵká ‘top of foot’
 éex̱ʼ	noun	slough
 ó	interj	oh, understanding
 -ú	affix	at, locative predicate suffix
@@ -320,10 +320,10 @@ tooxsʼeit	noun	bugle, pipe (< √.uʼx ‘blow’)
 óoxʼ	noun	shoulderblade
 √.ukʼ	root	play with things (< √.uʰ ‘own, buy’ + -kʼ ‘diminutive’)
 oox̱	noun	tooth
-√ya	root	pack (carry on back)
+√ya	root	pack, carry on back
 yáanadi	noun	thing packed (< √ya ‘pack’)
-yá	det	this (proximal)
-yáakʼu	adv	right away (with chʼa)
+yá	det	this, proximal
+yáakʼu	adv	right away with chʼa
 yaa	noun	sea trout
 heeyáa	interj	impatience
 ayaheeyáa	noun	curlew
@@ -404,7 +404,7 @@ kayík	noun	extrasensory perception (cf. yéik ‘shaman’s spirit’)
 yoow	noun	stomach
 yóo	adv	thus, so, quotation (cf. yéi ‘thus’)
 tsʼayóokʼ	adv	immediately, suddenly, right away (cf. yóo ‘thus’)
-yú	det	that (distal)
+yú	det	that, distal
 yóotg̱aanyís	adv	just in case (cf. yú ‘that’, ÿís ‘for’)
 yóotg̱aantsá	adv	in some remote future (cf. yóotg̱aanyís ‘just in case’)
 yóoxgaa	noun	skirt (< Ru. юпка)
@@ -551,7 +551,7 @@ sawáak	noun	large dog, bulldog (< Ru. собака)
 jiniwaḵ	noun	teakettle (< Sug. cainiiguaq < Ru. чайник)
 waaḵ	noun	eye
 x̱aawaag̱í	noun	window (< x̱aaÿ ‘steambath’ + waaḵ ‘eye’)
-wé	det	there (mesiodistal)
+wé	det	there, that, mesiodistal
 tawéi	noun	wild (Dall) sheep
 wéinaa	noun	chalk (< √wu ‘pale’)
 yawéinaa	noun	face powder (< √wu ‘pale’)
@@ -869,7 +869,7 @@ deikée	dirn	out to sea (cf. dáak, dák)
 diginaa	noun	out to sea (< deikée + niÿaa)
 Deikeenaa	name	Haida (< deikée + naa)
 ixdáaknáx̱.á	noun	south side inside house toward beach (< éex + dáak)
-√dakw	root	render (fat)
+√dakw	root	render fat
 dakwtási	noun	fertilizer (< √dakw ‘render’ + -tási unknown)
 nadáakw	noun	table (< CJ lətáp < Fr. la table)
 -dáx̱	ppn	from, out of, ablative
@@ -1139,7 +1139,7 @@ tínx	noun	bearberry
 teet	noun	waves (< √tit ‘wave move’)
 teetx̱ʼachálx̱i	noun	sponge
 yaakwdaateedí	noun	wake of boat
-√títgwaa	root	rock easily, rapidly (< √teet ‘wave move’)
+√títgwaa	root	rock easily, rapidly (< √teet ‘wave move’ + -kw + -áa)
 √tit	root	caulk
 téet	noun	caulk
 √titʼ	root	tense up
@@ -1190,12 +1190,12 @@ kʼiyeetóodzi	noun	icicle (cf. kintóow, kintóodzi, katóodzi)
 √tuch	root	freshly caught (fish)
 tóoch	adj	fresh
 √tuchʼ	root	rub with hand, dab, roll up (cf. √dutlʼ, √duchʼ, √dusʼ, √tul)
-√tux	root	(insect) spring, hop (cf. √tix, √tixw)
+√tux	root	insect spring, hop (cf. √tix, √tixw)
 tóox	noun	sandflea, bedbug (< √tux; cf. tíx, wanatíx)
 jáajikatúxsi	noun	snowshoe frame (< √túxs unknown; <? Dene)
 tuxʼ-	affix	knee in yan tuxʼ uwatsúw ‘he knelt down’
 √tuk	root	explode
-√tuk	root	(brew) too strong, rancid; clean, pure (with negation)
+√tuk	root	brew too strong, rancid; clean, pure (with negation)
 √tux̱	root	spit
 leitóox̱	noun	throat (< lé ‘throat’ + √tux̱ ‘spit’)
 tooḵ	noun	needlefish
@@ -2163,9 +2163,9 @@ chilxóok	noun	air-dried salmon (< chíl + √xuk)
 gunalchéesh	interj	thank you (< hél gunalchéesh < √chish ‘obtain easily’)
 cheech	noun	porpoise
 chichuwáa	noun	porpoise-like shark (< cheech + uwáa)
-chichwú	noun	beluga (< cheech + √wu)
-√chígaa	root	fierce
-chíg̱ayi	noun	hoof (<? √chiḵ unknown + aa + -í)
+chichwú	noun	beluga (< cheech ‘porpoise’ + √wu ‘pale’)
+√chígaa	root	fierce (< √chik unknown + -áa)
+chíg̱ayi	noun	hoof (<? √chiḵ unknown + aa ‘partitive’ + -í)
 chéex̱ʼ	noun	shadow, shade (> chéix̱ʼ, chíx̱ʼ; cf. √chix̱ʼ)
 chíx̱ʼ	noun	shadow, shade (< chéex̱ʼ; cf. √chix̱ʼ)
 √chix̱ʼ	root	shadow move (> √chex̱ʼ; cf. chéex̱ʼ, chíx̱ʼ)
