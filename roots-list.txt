@@ -1130,13 +1130,12 @@ tin	ppn	with, instrumental postposition (< teen)
 latíni	noun	watcher (< √tin ‘see’)
 √tin	root	go away mad (with a-)
 ḵustín	adj	monstrous, giant
-√tin	root	have lots of things (< Eng.) in wudzitínxʼ ‘lots of makeup on’
-tináa	noun	copper shield (< √tin unknown)
+√tín	root	in wudzitínxʼ ‘lots of makeup on’ (< Eng. thing + -xʼ ‘plural’)
+tináa	noun	copper shield (< √tin unknown + -áa)
 tínx	noun	bearberry
-√tit	root	wave move
-teet	noun	waves (< √tit ‘wave move’)
-teetx̱ʼachálx̱i	noun	sponge
-yaakwdaateedí	noun	wake of boat
+√tit	root	wave move (cf. teet ‘wave’)
+teet	noun	waves (cf. √tit ‘wave move’)
+yaakwdaateedí	noun	wake of boat (< yaakw ‘boat’ + daa + teet ‘wave’ + -í)
 √títgwaa	root	rock easily, rapidly (< √teet ‘wave move’ + -kw + -áa)
 √tit	root	caulk
 téet	noun	caulk
@@ -2151,8 +2150,8 @@ chaan	noun	mother in law (cf. chaa)
 chaadí	noun	section above tail of bird, especially Raven
 chál	noun	platform cache (cf. chíl)
 chalxóok	noun	air-dried salmon (< chál + √xuk)
-teetx̱ʼachálx̱i	noun	sponge (< √chál-x̱ unknown; cf. hinx̱ʼachálx̱i)
-hinx̱ʼachálx̱i	noun	sponge (< √chál-x̱ unknown; cf. teetx̱ʼachálx̱i)
+teetx̱ʼachálx̱i	noun	sponge (< teet + x̱ʼé + √chal unknown; cf. hinx̱ʼachálx̱i)
+hinx̱ʼachálx̱i	noun	sponge (< héen + x̱ʼé + √chal unknown; cf. teetx̱ʼachálx̱i)
 chaal	noun	square fish trap (cf. sháal)
 cháatl	noun	halibut
 √chalʼ	root	tired after eating, indulging, food coma
