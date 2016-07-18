@@ -570,7 +570,6 @@ wóow	noun	lunch (< √wu ‘send, take along’)
 √wu	root	float
 √wu	root	dare (see √wuḵ)
 √wu	root	pale (orig. ‘white’)
-jánwu	noun	mountain goat
 chʼáatwu	noun	epidermis (< chʼáat unknown cf. tlʼátk + √wu ‘pale’)
 taanwú	noun	umbilical cord
 lakʼéechʼwu	noun	surf scoter
@@ -1145,7 +1144,7 @@ yaakwdaateedí	noun	wake of boat
 téet	noun	caulk
 √titʼ	root	tense up
 téetʼi	noun	vein (< √titʼ ‘tense up’)
-jaḵtawteetʼí	noun	murderer (<?  √titʼ ‘tense up’)
+jaḵtawteetʼí	noun	murderer (<? √jaḵ ‘kill’ + taw? + √titʼ ‘tense up’)
 √til	root	scarred
 teel	noun	scar
 √til	root	put on shoes (cf. téel ‘shoe’)
@@ -1423,7 +1422,7 @@ dleit	noun	snow (< √dla ‘settle’ + át ‘thing’)
 √dletʼ	root	plop (cf. √dletlʼ ‘hang slackly’)
 √dletlʼ	root	hang slackly (cf. √dletʼ ‘plop’)
 √dlexw	root	skin peel esp. with thumb (< √dlixw)
-√dlekw	root	startle, shock
+√dlekw	root	startle, shock (cf. √jech)
 √dleʼkw	root	pat, shake hand (cf. dleigú ‘lullaby’, √dléigu)
 √dléigu	root	pat, shake hand (see √dleʼkw)
 dleigú	noun	lullaby (cf. √dleʼkw, √dléigu)
@@ -2073,5 +2072,54 @@ atshóoḵ	noun	laughter (< √shuḵ)
 shúḵʼ	noun	mythical wolf-like animal (< sháḵʼw)
 shoox̱ʼ	noun	robin (cf. √lex̱ʼw, √sex̱ʼw, léix̱ʼw, léiḵʼw, shéix̱ʼw)
 shoox̱ʼuwáa	noun	varied thrush (< shoox̱ʼ ‘robin’ + uwáa)
+jáʼ	interj	honey, addressing spouse
+√jaʰ	root	advise, instruct, direct
+jánwu	noun	mountain goat (< ján unknown + -wu < √wu ‘pale’)
+gukkajaash	noun	earring (< gúk + ká + jaash unknown)
+jáaji	noun	snowshoe
+√jaḵ	root	kill (cf. √jáaḵw, jáḵwti ‘corpse’, jaḵtawteetʼí ‘murderer’)
+√jaḵw	root	settle, get in place; tidy; skillful
+kaajáḵw	noun	adept (< √jaḵw ‘skillful’)
+√jáaḵw	root	beat up (<? √jaḵ ‘kill’; cf. jáḵwti)
+jáḵwti	noun	corpse, murder victim (cf. √jáaḵw, √jaḵ)
+jáag̱oo	adv	in chʼa jáag̱oo ‘long ago, once upon a time’ (in L73: 10/135)
+-jeit	affix	thing (< -ch + -eit)
+√jel	root	grope, move hands; carry load
+√jeʼtl	root	spread apart
+waḵjéitl	noun	baggy eyes (< waaḵ ‘eye’ + √jeʼtl ‘spread apart’)
+√jech	root	surprise, astonish, amaze (cf. √dlekw)
+√jech	root	weigh down
+√jiʰ	root	think, suppose; wonder, curious
+√jèe	root	punish
+√jée	root	awful, terrible; ugly, gross, nasty
+√jiʼÿ	root	walk with long exaggerated steps (only in L78: 48)
+ji-	affix	incorporated and compounding form of jín ‘hand’
+jee	noun	possession (cf. jín ‘hand’, keijín ‘five’)
+jín	noun	hand, arm (cf. jee ‘possession’, keijín ‘five’)
+√jín	root	have hand, arm (< jín ‘hand, arm’)
+l.uljíni	noun	vest, lit. ‘armless’ (< √jín ‘have arm’)
+keijín	num	five (< kéi ‘up’ + jín ‘hand’)
+jís	ppn	for possession (< jee ‘possession’ + ÿís ‘for’)
+√jixw	root	spin, roll on axis (> √jux)
+koojíxwaa	noun	wheel, wheelbarrow (< √jixw + -áa)
+√jikʼ	root	carry over shoulder
+Jeeshḵweidí	name	clan name (< jeesh-ḵú + -eit + -í)
+√jiḵ	root	scale fish (> √jeḵ; cf. kajeeg̱í ‘scales’)
+kajeeg̱í	noun	scales of fish (> kajeig̱í; cf. √jiḵ ‘scale fish’)
+√jix̱ʼw	root	sling, fling (> √jux̱ʼ)
+jíx̱ʼwaa	noun	sling (< √jix̱ʼw)
+√jeḵ	root	scale fish (< √jiḵ; cf. kajeig̱í ‘scales’)
+kajeig̱í	noun	scales of fish (< kajeeg̱í; cf. √jeḵ ‘scale fish’)
+√juʼw	root	dissheveled, messy
+√jun	root	dream (cf. joon)
+joon	noun	dream (cf. √jun)
+junḵóoxʼ	adv	in dreams (< joon ‘dream’ + ḵú ‘areal’ + -xʼ ‘loc.’)
+júk	interj	get, scat, scram, go away (cf. chúk)
+gijook	noun	golden eagle, mountain hawk
+√jux	root	spin, roll on axis (< √jixw)
+koojúxaa	noun	wheel, wheelbarrow (< √jux + -áa)
+júḵk	noun	robin (cf. shoox̱ʼ)
+√jux̱ʼ	root	sling, fling (< √jix̱ʼw)
+júx̱ʼaa	noun	sling (< √jux̱ʼ)
 
 xʼéesʼát	noun	shrimp (<? √xʼisʼ ‘tangled’; cf. sʼéexʼát ‘shrimp’)
