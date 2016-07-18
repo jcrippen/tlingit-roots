@@ -547,7 +547,7 @@ wásh	noun	mush, oatmeal (< Eng.)
 wásh	noun	cheek (cf. √wash ‘yawn’)
 √wash	root	yawn (cf. wásh ‘cheek’)
 sawáak	noun	large dog, bulldog (< Ru. собака)
-jiniwaḵ	noun	teakettle (< Sug. cainiiguaq < Ru. чайник)
+jeeniwáḵ	noun	teakettle (< Sug. cainiiguaq < Ru. чайник)
 waaḵ	noun	eye
 x̱aawaag̱í	noun	window (< x̱aaÿ ‘steambath’ + waaḵ ‘eye’)
 wé	det	there, that, mesiodistal
@@ -1382,9 +1382,9 @@ lílákʼw	noun	grandparent (cf. léelkʼw, áali, √.aʼl)
 √lik	root	have defect (only in L73: 08/55)
 √lik	root	dazzle, glare (cf. √likw ‘dazzle, glare’)
 √likw	root	dazzle, glare (cf. √lik ‘dazzle, glare’)
-√lixʼw	root	urinate (cf. √luxʼ ‘urinate’, lóoxʼ ‘urine’)
-√luxʼ	root	urinate (cf. √lixʼw ‘urinate’, lóoxʼ ‘urine’)
-lóoxʼ	noun	urine (cf. √luxʼ ‘urinate’)
+√lixʼw	root	urinate (> √luxʼ; cf. lóoxʼ ‘urine’)
+√luxʼ	root	urinate (< √lixʼw’; cf. lóoxʼ ‘urine’)
+lóoxʼ	noun	urine (< *liˀxʼw; cf. √luxʼ ‘urinate’)
 kalóoxʼshani	noun	bladder (cf. √luxʼ ‘urinate’)
 √likʼw	root	slurp meat out of shellfish
 lú	noun	nose, point, tip
@@ -2084,6 +2084,7 @@ jánwu	noun	mountain goat (< ján unknown + -wu < √wu ‘pale’)
 gukkajaash	noun	earring (< gúk + ká + jaash unknown)
 jáaji	noun	snowshoe
 √jaḵ	root	kill (cf. √jáaḵw, jáḵwti ‘corpse’, jaḵtawteetʼí ‘murderer’)
+jaaḵ	noun	corpse, murder victim (cf. √jaḵ, jáḵwti)
 √jaḵw	root	settle, get in place; tidy; skillful
 kaajáḵw	noun	adept (< √jaḵw ‘skillful’)
 √jáaḵw	root	beat up (<? √jaḵ ‘kill’; cf. jáḵwti)
@@ -2095,11 +2096,13 @@ jáag̱oo	adv	in chʼa jáag̱oo ‘long ago, once upon a time’ (in L73: 10/13
 waḵjéitl	noun	baggy eyes (< waaḵ ‘eye’ + √jeʼtl ‘spread apart’)
 √jech	root	surprise, astonish, amaze (cf. √dlekw)
 √jech	root	weigh down
+jéigít	noun	jacket (< Eng. jacket)
 √jiʰ	root	think, suppose; wonder, curious
 √jèe	root	punish
 √jée	root	awful, terrible; ugly, gross, nasty
 √jiʼÿ	root	walk with long exaggerated steps (only in L78: 48)
 ji-	affix	incorporated and compounding form of jín ‘hand’
+jikag̱ayéisʼ	noun	handcuffs (< jín ‘hand’ + ká + g̱ayéisʼ ‘iron’)
 jee	noun	possession (cf. jín ‘hand’, keijín ‘five’)
 jín	noun	hand, arm (cf. jee ‘possession’, keijín ‘five’)
 √jín	root	have hand, arm (< jín ‘hand, arm’)
@@ -2111,7 +2114,10 @@ koojíxwaa	noun	wheel, wheelbarrow (< √jixw + -áa)
 √jikʼ	root	carry over shoulder
 Jeeshḵweidí	name	clan name (< jeesh-ḵú + -eit + -í)
 √jiḵ	root	scale fish (> √jeḵ; cf. kajeeg̱í ‘scales’)
+jeeg̱í	noun	kidney of fish
 kajeeg̱í	noun	scales of fish (> kajeig̱í; cf. √jiḵ ‘scale fish’)
+jig̱ei	noun	crook of arm, embrace (< jín + g̱ei)
+jikóol	noun	back of hand (< jín + kóol)
 √jix̱ʼw	root	sling, fling (> √jux̱ʼ)
 jíx̱ʼwaa	noun	sling (< √jix̱ʼw)
 √jeḵ	root	scale fish (< √jiḵ; cf. kajeig̱í ‘scales’)
@@ -2152,10 +2158,13 @@ cháatl	noun	halibut
 √chalʼ	root	tired after eating, indulging, food coma
 cháasʼ	noun	humpy salmon, pink salmon
 cháash	noun	bough, limb of tree with foliage; brush, logging slash
+chashhít	noun	temporary brush house (< cháash + hít)
 cháashga	noun	teacup (< Ru. чашка)
 √chaʼk	noun	pack, put away neatly; stack, pile up; pass away (euph.)
+chág̱ayi	noun	antler (< cháḵ unknown + -aa + -í)
 cháax̱	noun	grebe
 kʼinchéiÿi	noun	rose hips
+chéin	noun	chain (< Eng. chain)
 √chetl	root	thaw, melt off
 √chech	root	walk spread-legged
 √chech	root	dust, clean surface
@@ -2171,12 +2180,13 @@ cheech	noun	porpoise
 chichuwáa	noun	porpoise-like shark (< cheech + uwáa)
 chichwú	noun	beluga (< cheech ‘porpoise’ + √wu ‘pale’)
 √chígaa	root	fierce (< √chik unknown + -áa)
-chíg̱ayi	noun	hoof (<? √chiḵ unknown + aa ‘partitive’ + -í)
+chíg̱ayi	noun	hoof, forefoot (<? √chiḵ unknown + -aa + -í)
 chéex̱ʼ	noun	shadow, shade (> chéix̱ʼ, chíx̱ʼ; cf. √chix̱ʼ)
 chíx̱ʼ	noun	shadow, shade (< chéex̱ʼ; cf. √chix̱ʼ)
 √chix̱ʼ	root	shadow move (> √chex̱ʼ; cf. chéex̱ʼ, chíx̱ʼ)
 dachóon	dirn	straight towards, forward (cf. √chuʼn, chooneit)
-√chuʼn	root	wounded (cf. dachóon, chooneit, √chuʼn ‘twist to split’)
+√chuʼn	root	wounded (cf. dachóon, choon, chooneit, √chuʼn ‘twist to split’)
+choon	noun	wound (cf. √chuʼn, chooneit)
 chooneit	noun	arrow (< *chuʰn ‘arrow’ + -eit; cf. √chuʼn)
 kindachooneit	noun	mallard (< kín + -dé + chooneit; cf. chʼax̱ʼínx̱ʼ)
 chugwéil	noun	bag for arrowheads (< *chuʰn + gwéil; cf. chooneit)
@@ -2186,6 +2196,7 @@ kanalchóolani	noun	mistress (cf. √chul ‘munch’, kacháwli ‘sweetheart�
 chush	pron	self, reflexive possessor
 √chux	root	rub, massage, knead, pat (cf. √chuʼk, √chuxʼ, kachóox)
 kachóox	noun	clay shaped with hands (cf. √chux ‘rub, massage, knead’)
+chookán	noun	grass
 √chuʼk	root	rub to soften (cf. √chux, √chuxʼ)
 √chuxʼ	root	graze, touch or shake lightly (cf. √chux, √chuʼk)
 √chux̱	root	cadge, sponge off someone (with irrealis u-)
