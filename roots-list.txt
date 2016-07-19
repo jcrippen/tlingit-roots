@@ -366,8 +366,8 @@ koonaayei	noun	chipmunk
 atskʼiyé	noun	kind of duck species
 √yeʼn	root	twirl, wave, wag
 yéin	noun	sea cucumber
-√yel	root	lie, deceive
-yéil	noun	raven
+√yel	root	lie, deceive (cf. yéil ‘raven’)
+yéil	noun	raven (< *yaˀyaɬ; cf. √yel ‘lie, deceive’)
 √yelʼ	root	calm, peaceful
 kayéilʼ	noun	peace
 yéilʼ	noun	elderberry
@@ -1543,6 +1543,7 @@ lʼílʼ	noun	feces (cf. √lʼilʼ)
 kakalʼéek	noun	nit (< √lʼik)
 √lʼik	root	wink (cf. √lʼixw, √lʼikw)
 √lʼixw	root	close eyes (> √lʼux; cf. √lʼik, √lʼikw)
+kadalʼíxwaa	noun	ice fog (<? ká + d- + √lʼixw + -áa)
 √lʼikw	root	blink (> √lʼuk; cf. √lʼik, √lʼixw)
 xeitllʼíkgu	noun	lightning (< xeitl + √lʼikw + -í)
 √lʼixʼ	root	break 
@@ -2359,6 +2360,7 @@ xixchʼitléig̱u	noun	neigoonberry (< xíxchʼ ‘frog’ + tléiḵw ‘berry�
 xóow	noun	steambath (cf. √xu ‘steam’, xwéix̱ ‘steambath’)
 xwéix̱	noun	steambath (cf. √xu ‘steam’, xóow ‘steambath’)
 kaxwéix̱	noun	highbush cranberry (< √xu ‘steam’)
+shantuxʼisʼkaxwéix̱i	noun	ink of octopus (< shantú + xʼísʼ + kaxwéix̱)
 √xu	root	weigh down with rocks
 xóow	noun	rockpile, rock weight (cf. √xu, xoon, √xun, ÿanxoon)
 sítʼwanxóowu	noun	moraine on side of glacier (< sʼít + wán + xóow + -í)
@@ -2382,6 +2384,43 @@ xóoshtʼ	noun	burnt stuff (√xuʼsh + -tʼ)
 xook	adj	dry (cf. √xuk, √xak)
 gantuxoogú	noun	dry inner firewood (< gán ‘firewood’ + tú + xook)
 kaxook	noun	powder, in sakwnéin kaxook ‘flour’, éilʼ kaxook ‘salt’ (< xook)
+xwáa	noun	young man (plural with =ÿán)
+xwáaÿi	noun	clan brother, esp. younger
+xwáaxʼu	noun	sidekicks, lackeys, henchmen (< xwáa + -xʼ, rounding <? *ʷ)
+√xwaʼn	root	frosty; silvered (cf. kaxwaan, x̱akaxwaan)
+kaxwaan	noun	frost (cf. √xwaʼn, x̱akaxwaan)
+x̱akaxwaan	noun	silver fox (< x̱aaw + kaxwaan or √xwaʼn)
+x̱ʼadaatlaxwáni	noun	white whiskers (< x̱ʼé + daa + -t + l- + √xwaʼn + -í)
+sʼixwaadáa	noun	kind of basket
+xwaasdáa	noun	canvas (<? √xwàast unknown)
+√xwaʼts	root	paint black (cf. √xuʼts ‘scorch’, √xuʼsh ‘singe’, shalxwáts)
+shalxwáts	noun	redbreasted merganser, sawbill (cf. √xwaʼts)
+√xwasʼ	root	suspend, hang; resemble (cf. √xaʼt)
+√xwach	root	limber, tan hide (> xwájaa; cf. √xwáchk)
+xwájaa	noun	skin scraper (< √xwach + -áa) 
+jinkaxwájaa	noun	kind of owl (< jín + ká + xwájaa)
+√xwáchk	root	paralyzed (<? √xwach + -k repetitive)
+xwéi	interj	whew, tired, exhausted
+√xwéi	root	tease, kid, mock, call names
+daaxwéiyi	noun	reproach, source of shame (< daa + √xwéi + -í)
+√xweʼn	root	dish, spoon, shovel out (cf. xwéinaa, xwénaa, kaxwénaa)
+xwéinaa	noun	ladle (< √xweʼn + -áa; cf. xwénaa)
+xwénaa	noun	ladle (< √xweʼn + -áa; cf. xwéinaa)
+kaxwénaa	noun	brail net, dipnet
+√xwen	root	almost cry (cf. √xwen ‘blossom’)
+√xwen	root	blossom, flower (cf. ḵʼeikaxwéin ‘flower’, √xwen ‘almost cry’)
+ḵʼeikaxwéin	noun	blossom, flower (cf. √xwéin ‘blossom’)
+tsʼaxweil	noun	crow (<? *tsʼaxu + *yeʰl; cf. yéil ‘raven’)
+√xwetl	root	itch (cf. kaxweitl ‘rash’, lukaxweitl ‘urge to sneeze’)
+kaxweitl	noun	rash, itchy open sore (cf. √xwetl ‘itch’)
+lukaxweitl	noun	tickling in nose, urge to sneeze (< lú + kaxweitl)
+√xweʼtl	root	tired, fatigued (cf. xweitl ‘fatigue’)
+xweitl	noun	fatigue, tiredness (cf. √xweʼtl ‘tired’; not *xwéitl?)
+√xwèix̱k	root	silent, still (<? √xwex̱ + -k repetitive; cf. xwéx̱jaa)
+xwéx̱jaa	noun	rustling, quiet sound from unseen entity (< *√xwex̱; cf. √xwèix̱k)
+kaxwéix̱jaa	noun	rustling (< *√xwex̱; cf. xwéx̱jaa)
+yeilxwéix̱i	noun	whirlwind (< yéil ‘raven’ + *√xwex̱ or √xu + -x̱)
+√xwex̱ʼ	root	emaciated
 
 xʼéesʼát	noun	shrimp (<? √xʼisʼ ‘tangled’; cf. sʼéexʼát ‘shrimp’)
 chʼax̱ʼínx̱ʼ	noun	mallard (cf. kindachooneit)
