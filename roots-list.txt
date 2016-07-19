@@ -142,6 +142,7 @@ dix̱ʼkana.áaÿi	noun	moose’s hump (< díx̱ʼ ‘spine’)
 √.aʼw	root	strap (cf. ÿa.áawu, shuka.áwli)
 ÿa.áawu	noun	strap (< √.aʼw ‘strap’)
 shuka.áwli	noun	line holding end of something in place (< √.aʼw ‘strap’)
+-án	affix	restore, go back to ordinary state, used with verbs
 √.an	root	rinse in snow
 √.an	root	rest
 aan	noun	town, land
@@ -535,7 +536,7 @@ wát	noun	mouth of river, delta
 wáadishgaa	noun	priest (< Ru. батюшка)
 √wal	root	have hole (cf. wool)
 √walʼ	root	break, fracture (cf. √wutʼ ‘split along grain’, √wulʼ ‘peel’)
-x̱ʼasʼkalawálʼ	noun	jawbreaker
+x̱ʼasʼkalawálʼ	noun	jawbreaker (< x̱ʼasʼ ‘jaw’ + ká + l- + √walʼ ‘break’)
 √was	root	dry roast
 wáasadi	noun	dry roasted fish
 Kíswás	noun	Christmas (< CJ kísmas < Eng. Christmas)
@@ -675,7 +676,7 @@ náaḵw	noun	octopus
 √ne	root	work; knit; play with hands; direct, impel
 né	noun	hair seaweed
 yaa.aa.uné	noun	oldsquaw duck
-tsʼanéi	noun	round split cedar basket (<? Tsim.)
+tsʼanéi	noun	round split cedar basket (<? C.Tsim.)
 dasdané	noun	suckerfish (cf. Kaska dasdanja)
 ḵʼaakanéi	noun	deep dish for grease
 néi	interj	hey, look
@@ -853,6 +854,7 @@ shkaldálʼx̱.át	noun	typewriter (< √dalʼ ‘imprint’)
 daádzi	noun	flint, fire-striking stone; testicles
 xóotsdáadzi	noun	Lapland longspur (< dáadzi ‘testicles’)
 √dasʼ	root	wear through; snare (cf. √dalʼ ‘imprint’)
+dáasʼaa	noun	snare (< √dasʼ + -áa)
 √dasʼ	root	hail
 kadásʼ	noun	hail (< √dasʼ ‘hail’)
 kʼoodásʼ	noun	shirt (cf. √dalʼ ‘imprint’, √dasʼ ‘wear through’)
@@ -1039,9 +1041,9 @@ taská	noun	inguinal region (<? tás + ká)
 kadádzaaÿeit	noun	berry knocking basket (< √tats + ÿeit)
 sʼagwáattáasʼi	noun	violet (< sʼagwáat ‘hemlock bark’ + táasʼi unkn.)
 √taxʼ	root	bite, chew
-táaxʼi	noun	chewed up thing (< √taxʼ ‘bite, chew’)
-táaxʼaa	noun	mosquito (< √taxʼ ‘bite, chew’)
-kakatáxʼaa	noun	pliers (< √taxʼ ‘bite, chew’)
+táaxʼi	noun	chewed up thing (< √taxʼ ‘bite, chew’ + -í)
+táaxʼaa	noun	mosquito (< √taxʼ ‘bite, chew’ + -áa)
+kakatáxʼaa	noun	pliers (< ká + √taxʼ ‘bite, chew’ + -áa)
 táxʼx̱	noun	dentalium (cf. táxʼx̱i)
 táxʼx̱i	noun	dentalium (cf. táxʼx̱)
 x̱ʼeitákw	noun	heel
@@ -1203,6 +1205,7 @@ lututúḵlʼi	noun	nose cartilage (< lú ‘nose’ + tú ‘inside’ + túḵ
 √tux̱ʼ	root	rumble, growl (stomach)
 shtóox̱ʼ	noun	ankle (< shutóox̱ʼ)
 shutóox̱ʼ	noun	ankle
+-tʼ	affix	repetitive suffix on verbs, usually involving destruction
 √tʼaʰ	root	hot
 tʼaaÿ	noun	hotsprings; heat; perspiration (cf. √tʼaʰ ‘hot’)
 √tʼaʰ	root	ripe (<? √tʼaʰ ‘hot’)
@@ -1490,6 +1493,8 @@ tléiḵw	noun	berry (cf. √tleḵw ‘grab one at a time’)
 √tluxʼ	root	pull or roll self; carry clutched
 tlóox̱	noun	bullhead, sculpin (cf. tlóox̱ʼ)
 tlóox̱ʼ	noun	bullhead, sculpin (cf. tlóox̱)
+-lʼ	affix	repetitive suffix on verbs (cf. -álʼ)
+-álʼ	affix	repetitive suffix on verbs (cf. -lʼ)
 √lʼaʰ	root	suck (cf. lʼaa ‘breast’)
 lʼaa	noun	breast (cf. √lʼaʰ ‘suck’)
 lʼaatux̱áni	noun	milk (< lʼaa ‘breast’ + tú ‘inside’ + x̱án unknown + -í)
@@ -2045,6 +2050,7 @@ sheesh	noun	inconnue
 shéech	adj	female
 √shéech	root	effeminate (< shéech ‘female’)
 sheexw	noun	close-quarters bow and arrow (> sheixw, shoox)
+sheexú	noun	spleen
 shíkw	noun	strawberry (> shúk; cf. shákw)
 tayashágu	small red sea anemone (< té + ÿá + shákw + -í)
 √shikʼw	root	cramp, shock; blather, talk too much (> √shukʼ, kashéekʼw)
@@ -2071,7 +2077,7 @@ shúk	noun	strawberry (< shíkw; cf. shákw)
 shóogaa	noun	sugar (< CJ shúga < Eng. sugar)
 shóogu	noun	same, initial (with chʼu)
 shoox	noun	close-quarters bow and arrow (< sheexw)
-sheishóox̱	noun	rattle (<? Tsim.)
+sheishóox̱	noun	rattle (<? C.Tsim.)
 √shuḵ	root	laugh, smile, funny
 atshóoḵ	noun	laughter (< √shuḵ)
 shúḵʼ	noun	mythical wolf-like animal (< sháḵʼw)
@@ -2200,7 +2206,7 @@ chookán	noun	grass
 √chuxʼ	root	graze, touch or shake lightly (cf. √chux, √chuʼk)
 √chux̱	root	cadge, sponge off someone (with irrealis u-)
 √chux̱ʼ	root	fat? roll off (cf. leikachóox̱ʼu, √chóox̱ʼálʼ)
-√chóox̱ʼálʼ	root	shake, manhandle, push roughly (< √chux̱ʼ + -lʼ)
+√chóox̱ʼálʼ	root	shake, manhandle, push roughly (< √chux̱ʼ + -álʼ)
 leikachóox̱ʼu	noun	trachea (< lé ‘throat’ + ká + √chux̱ʼ ‘roll’ + -í)
 chʼa	pcl	just (cf. chʼu)
 chʼas	pcl	just, only (< chʼa + sí)
@@ -2259,6 +2265,123 @@ chʼóokʼ	noun	outside edge in waḵchʼóokʼ, ganchʼóokʼ (cf. sʼóoxʼ)
 waḵchʼóokʼ	noun	corner of eye (< waaḵ ‘eye’ + chʼóokʼ ‘outside edge’)
 ganchʼóokʼ	noun	by fire (< gán ‘firewood’ + chʼóokʼ ‘outside edge’)
 chʼúḵlʼ	noun	surf smelt; sand lance
+√xa	root	pour
+xán	noun	baleen; plastic (> xén)
+Tsʼootsxán	name	Tsimshian (< *tsʼumtsxan < C.Tsim. *tsʼəmtsxan)
+xáanaa	noun	evening (cf. xee ‘dusk’)
+√xaʼt	root	pull, tighten; fasten, extend; shape, resemble (cf. √xwasʼ)
+xaadáa	noun	veil; netting, cheesecloth (< √xaʼt + -áa)
+√xatʼ	root	pull with rope, drag; suspend
+xátʼaa	noun	sled (< √xatʼ + -áa)
+yuwashuxáatʼi	noun	apron (< yoow + ÿá + shú + √xatʼ + -í)
+xáatl	noun	iceberg
+xaas	noun	wood bison; cattle, oxen
+xaasyádi	noun	donkey (< xaas + ÿát + -í)
+xaasdugutéel	noun	leather shoes (< xaas + doogú + téel)
+√xasʼ	root	scrape, slime fish (cf. xáasʼ ‘fish skin’)
+xáasʼ	noun	fish skin
+xáasʼ	noun	clear sky (< xáatsʼ)
+xáatsʼ	noun	clear sky (> xáasʼ; cf. √xatsʼ)
+√xatsʼ	root	sky become clear (cf. xáatsʼ ‘clear sky’)
+√xash	root	cut, saw (cf. xáshaa, atxáshti)
+xáshaa	noun	saw (< √xash + -áa)
+atxáshti	noun	cut leather (< √xash ‘cut, saw’)
+√xach	root	despair of, give up on
+√xak	root	bare of flesh, dessicated; dry weather (cf. xáak, ḵuxaak, √xuk)
+xáak	noun	empty shell of mollusk, mollusc (cf. √xak ‘bare of flesh’)
+ḵuxaak	noun	dry weather (< ḵu- + √xak)
+√xáak	root	fragrant
+√xakw	root	grind, whip up (cf. kaxágwaa ‘pestle’, xákwlʼi ‘soapberry’)
+kaxágwaa	noun	pestle (< ká + √xakw + -áa)
+xákwlʼi	noun	soapberry (< √xakw + -lʼ + -í)
+xákw	noun	sandbar (<? √xakw ‘grind, whip up’, √xak ‘dessicated’)
+tudaxákw	noun	basket with rattle in lid (<? √xakw ‘grind’, √xak ‘dry’)
+shakaxaagú	noun	skull (< shá + ká + √xak + -í)
+xei	noun	dusk (< xee)
+xeiÿí	noun	mountain shadow (< xeeÿí)
+√xeʼn	root	scab; white fungus on fish (cf. xein)
+xein	noun	old dying salmon (cf. √xeʼn)
+xén	noun	baleen; plastic (< xán)
+naaxein	noun	Chilkat blanket
+√xeʼt	root	wind knocked out (cf. xeitká ‘sternum, chest’)
+xeitká	noun	sternum, chest
+xéidu	noun	comb
+xeitl	noun	thunderbird, thunder
+xeitldáasʼayi	noun	rainbow (< xeitl + dáasʼaa)
+xeitlteyí	noun	puffball (< xeitl + té + -í)
+xeitltáaxʼayi	noun	horsefly (< xeitl + táaxʼaa)
+√xes	root	catch bird with box trap
+xeisáa	noun	bird trap (< √xes + -áa)
+√xekʼw	root	draw in fluid and air, slurp
+xee	noun	dusk (> xee)
+xeeÿí	noun	mountain shadow (> xeiÿí; < xee ‘dusk’)
+√xiʼn	root	frown
+xéen	noun	blowfly, bluebottle, housefly
+√xit	root	furrow, plow, scratch, write, paint
+xéet	noun	furrow; paddle for making furrows
+wankashxéet	noun	starry flounder (< wán + kashxéet)
+kashxéet	noun	print (< ka- + sh- √xit)
+kooxídaa	noun	pencil (< √xit)
+Tlʼanaxéedáḵw	name	legendary Property Woman, Wealth Woman
+√xitʼ	root	sweep; scrape cambium
+xítʼaa	noun	broom; bark scraper (< √xitʼ + -áa)
+kaxítʼaa	noun	brush (< ká + √xitʼ + -áa)
+√xitl	root	drift, move out of control, rub, fog move
+√xiʼtl	root	fish with herring rake
+xídlaa	noun	herring rake (< √xiʼtl + -áa)
+xítlaa	noun	herring rake (< xídlaa)
+xéetl	noun	herring rake (cf. √xiʼtl, xídlaa; rare)
+√xiʼtl	root	hem (< √x̱iʼtl)
+√xilʼ	root	rub off; trouble
+kaxéelʼ	noun	trouble (< ká + √xilʼ)
+kaxílʼaa	noun	eraser (< ká + √xilʼ + -áa)
+kooxéelʼaa	noun	tangled up mess (< √xilʼ; cf. √xisʼ)
+xéelʼi	noun	crowberry, mossberry (cf. xéetlʼi)
+xéetlʼi	noun	crowberry, mossberry (cf. xéelʼi)
+√xisʼ	root	dive in arc (cf. xéesʼ, xéesʼi)
+xéesʼi	noun	bow of boat, cutwater (cf. √xisʼ ‘dive’)
+xéesʼ	noun	shin (cf. √xisʼ ‘dive’)
+xéesʼ	noun	nit, louse egg
+√xisʼ	root	tangle (cf. √xʼisʼ)
+gux̱shaxéesʼi	noun	rattail plant (< √xisʼ ‘tangle’)
+kaxéesʼ	noun	wire (< √xisʼ ‘tangle’)
+√xiʼch	root	use all one’s strength
+daakaxéeji	noun	barrel hoop with kaast ‘barrel’ (< √xich unknown)
+tukaxéeji	noun	drum frame (< √xich unknown; cf. daakaxéeji)
+xeejáa	noun	trigger of trap (< √xich unknown + -áa)
+√xix	root	fall, move through space; deplete; run (cf. xíxchʼ ‘frog’)
+√xeexán	root	go back to normal (< √xix + -án ‘restore’)
+xíxchʼ	noun	frog (cf. √xix ‘fall’)
+xixchʼikóoxu	noun	celery (< xíxchʼ ‘frog’ + kóox ‘rice’)
+xixchʼikaÿaaní	noun	watercress (< xíxchʼ ‘frog’ + kaÿaaní ‘leaf’)
+xixchʼitléig̱u	noun	neigoonberry (< xíxchʼ ‘frog’ + tléiḵw ‘berry’)
+√xu	root	steam
+xóow	noun	steambath (cf. √xu ‘steam’, xwéix̱ ‘steambath’)
+xwéix̱	noun	steambath (cf. √xu ‘steam’, xóow ‘steambath’)
+kaxwéix̱	noun	highbush cranberry (< √xu ‘steam’)
+√xu	root	weigh down with rocks
+xóow	noun	rockpile, rock weight (cf. √xu, xoon, √xun, ÿanxoon)
+sítʼwanxóowu	noun	moraine on side of glacier (< sʼít + wán + xóow + -í)
+sitʼkaxóowu	noun	moraine on end of glacier (< sʼít + ká + xóow + -í)
+xú	noun	pubic hair (cf. x̱aaw ‘fur, hair’)
+√xun	root	plural move faces; prep for trip (cf. √.a)
+ÿanxoon	noun	driftlog pile (cf. √xu, √xun)
+√xun	root	lose weight, be(come) thin
+xóon	noun	north wind
+xunká	noun	north wind birds (< xóon + ká)
+√xul	root	copulate, intercourse, have sex
+xóots	noun	brown bear, grizzly bear (cf. √xuts ‘overpower’)
+sitʼxóodzi	noun	glacier bear (< sítʼ ‘glacier’ + xóots ‘brown bear’)
+hintakxóodzi	noun	polar bear (< héen ‘water’ + táak + xóots ‘brown bear’)
+√xuts	root	overpower (cf. xóots ‘brown bear’)
+√xuʼts	noun	scorch, burn black (cf. √xwaʼts, √xuʼsh)
+xoodzí	noun	partly burnt wood (< √xuʼts)
+√xuʼsh	root	singe, scorch (cf. √xuʼts, √xwaʼts)
+xóoshtʼ	noun	burnt stuff (√xuʼsh + -tʼ)
+√xuk	root	dry (cf. xook, √xak)
+xook	adj	dry (cf. √xuk, √xak)
+gantuxoogú	noun	dry inner firewood (< gán ‘firewood’ + tú + xook)
+kaxook	noun	powder, in sakwnéin kaxook ‘flour’, éilʼ kaxook ‘salt’ (< xook)
 
 xʼéesʼát	noun	shrimp (<? √xʼisʼ ‘tangled’; cf. sʼéexʼát ‘shrimp’)
 chʼax̱ʼínx̱ʼ	noun	mallard (cf. kindachooneit)
