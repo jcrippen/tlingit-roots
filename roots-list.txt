@@ -118,7 +118,8 @@ yeihó	interj	unknown exclamation, canoeing?, hauling?
 √.a	root	sg. sit
 éinaa	noun	drying rack (< √.a ‘sg. sit’)
 √.a	root	delay
-á	pron	it, third person nonhuman
+á	pron	it, third person nonhuman; there, location
+á	pcl	focus particle (< á ‘it, third person nonhuman’)
 a-	pron	third person nonhuman object; fourth person human subject (mot.)
 a	pron	its, third person nonhuman possessor
 -aa	affix	instrumental nominalization (cf. -áa, aa ‘partitive’)
@@ -424,6 +425,7 @@ shaÿéinaa	noun	anchor
 ig̱aÿáak	noun	beach below town
 g̱unaÿáa	adv	different
 g̱uwanáa	adv	different (< g̱unaÿáa)
+tliÿaa	noun	next, further over
 diÿáa	dirn	across, through
 niÿaa	noun	direction of; blocking, covering (< *niŋaʰ)
 ÿinaa	noun	direction of; blocking, covering (metathesis of niÿaa)
@@ -719,7 +721,7 @@ tag̱anís	noun	pole, sapling (< taag̱án ‘poker’ + ÿís ‘for’)
 nis-	affix	in nisdaat ‘last night’ (<? niÿís + taat ‘night’)
 néesʼ	noun	sea urchin
 √néesʼ	root	eat sea urchins (< néesʼ)
-neech	noun	shoreline, beach
+neech	noun	shoreline, beach; worthless
 neechxʼ	adv	gratis, free, for nothing (< neech ‘shoreline’ + -xʼ ‘loc’)
 nichká	noun	nowhere in particular (< neech ‘shoreline’ + ká ‘hsfc.’)
 nichka.ádi	noun	useless thing (< nichká + át ‘thing’)
@@ -869,7 +871,9 @@ dák	dirn	out to sea (cf. dáak, deikée)
 deikée	dirn	out to sea (cf. dáak, dák)
 diginaa	noun	out to sea (< deikée + niÿaa)
 Deikeenaa	name	Haida (< deikée + naa)
-ixdáaknáx̱.á	noun	south side inside house toward beach (< éex + dáak)
+ixdáak	noun	close to door, entrance (< éex + dáak)
+dáakdaa	noun	doctor (< Eng.; cf. dáaktaa)
+dáaktaa	noun	doctor (< Eng.; cf. dáakdaa)
 √dakw	root	render fat
 dakwtási	noun	fertilizer (< √dakw ‘render’ + -tási unknown)
 nadáakw	noun	table (< CJ lətáp < Fr. la table)
@@ -905,7 +909,8 @@ de	adv	now, already (cf. dei ‘now, already’)
 dei	adv	now, already (cf. de ‘now, already’)
 déi	interj	now (cf. dei ‘now, already’)
 dé	interj	now (cf. dei ‘now, already’)
-dei-	affix	out to sea (in deikée, cf. dáak)
+dei-	affix	out to sea (in deikée, < dáak ‘out to sea’)
+-dé	ppn	toward, way of, direction of, allative (< dei ‘road, trail’)
 ḵashde	pcl	had thought (< x̱ach + de ‘now’, see x̱ach)
 x̱ashde	pcl	had thought (< x̱ach + de ‘now’, see x̱ach)
 shákdé	pcl	perhaps (<? shí ‘dubitative’ + gí ‘yes/no’ + de ‘now’)
@@ -1031,7 +1036,6 @@ taat	noun	night (cf. tatgé ‘yesterday’, nisdaat ‘lastnight’, ÿeedát �
 nisdaat	noun	last night (< nis- + taat ‘night’)
 taatÿeen	noun	middle of night (< taat ‘night’ + ÿeen ‘during’)
 tsʼootaat	noun	morning (<? tsʼu- + taat ‘night’)
-tatgé	noun	yesterday (<? taat ‘night’)
 táal	noun	flat open basket; flat thing (adj.)
 tuḵʼatáal	noun	pants, trousers (< tóoḵ ‘butt’ + x̱ʼé ‘mouth’ + táal)
 Taal	name	component of names referring to Tahltan
@@ -2471,6 +2475,54 @@ x̱ʼagáaxʼ	noun	prayer (< x̱ʼé + √gaxʼ)
 √gaxʼw	root	riddle (cf. gáaxʼu ‘riddle’)
 gáaxʼu	noun	riddle (< √gaxʼw + -í)
 √gaḵ	root	surprise visit
+√geʰ	root	big (> √géikʼ, √géinkʼ)
+√géikʼ	root	small (< √geʰ ‘big’ + -kʼ ‘diminutive’)
+√géinkʼ	root	small (< √geʰ ‘big’ + -kʼ ‘diminutive’)
+√ge	root	stingy, refuse to give/share
+√ge	root	intelligent, smart, wise; understand
+géi	noun	against, opposing
+géide	ppn	wrong, against, opposing (< géi ‘against’ + -dé ‘toward’)
+kagé	adv	face to face, meeting (< ká + géi ‘against’)
+kagéináx̱	adv	quietly (< ká + géi ‘against’ + -náx̱)
+dagiÿigé	noun	middle (< dáak + ÿá + géi ‘against’)
+dageeÿgé	noun	middle (< dáak + ÿá + géi ‘against’)
+digeeÿgé	noun	middle (< dáak + ÿá + géi ‘against’)
+dageeÿgé	noun	middle (< dáak + ÿá + géi ‘against’)
+dageengé	noun	middle (< dáak + ÿá + géi ‘against’)
+chʼakugéiÿi	adv	randomly, aimlessly (< chʼa + géi ‘against’)
+chʼanichkugéiÿi	adv	aimlessly (< chʼa + neech ‘worthless’ + géi ‘against’)
+jiyagéi	noun	screwing up work (< jín + ÿá + géi ‘against’)
+jigeeygéi	noun	wrong place for someone (< jín + dagiÿigé)
+ganyageit	noun	smoke spreader (< gán + ÿá + géi + -eit)
+ganigeit	noun	smoke spreader (< gán + ÿá + géi + -eit)
+tatgé	noun	yesterday (< taat ‘night’ + géi ‘against’)
+tatgí	noun	yesterday (< taat ‘night’ + géi ‘against’)
+tliÿaatgé	noun	day before yesterday (< tliÿaa ‘next’ + tatgé)
+aankageit	noun	in public, in front of town (< aan + ká + géi?)
+gé	pcl	yes-no question (< gí)
+ágé	pcl	focused yes-no question (< á + gé)
+ásgé	pcl	dubitative focused yes-no question (< á + sí + gé)
+ásgíwé	pcl	dubitative focused yes-no question (< á + sí + gí + wé)
+shgé	pcl	dubitative (< sh? + gé)
+chʼagé	interj	oh yeah, right (< chʼa + gé)
+kusʼoolgéi	noun	willow grouse
+koogéinaa	noun	shoulder sash (< √gen unknown; cf. √giʼn ‘wrinkle’)
+√geʼÿ	root	pay back (> √geiÿáḵw ‘claim payment’)
+atgéiw	noun	treasure, precious thing (< √geʼÿ)
+√geiÿáḵw	root	claim payment (< √geʼÿ + -áḵw ‘lacking’)
+√get	root	walk quietly, stalk, tipetoe
+kʼaaganeit	noun	trap for sticklebacks (< kʼaagán + -eit)
+kʼaaganáageit	noun	trap for sticklebacks (< kʼaagán + geit?)
+géidi	noun	braided seal intestine (cf. tuwulagéil)
+tuwulagéil	noun	braided seal intestine
+√getl	root	frail, delicate, vulnerable
+géis	interj	come here, dog call, animal call
+gés	interj	come here, dog call, animal call
+√géis	root	entice, call dog, call animal (< géis ‘dog call’)
+√gekw	root	roe, egg sack be loose (> kadagéigu)
+kadagéigu	noun	loose roe (< √gekw)
+√geʼḵ	root	come to harm, die; harmful, objectionable, poisonous; restrain
+dzagéiḵ	noun	weakling (< √geʼḵ)
 
 xʼéesʼát	noun	shrimp (<? √xʼisʼ ‘tangled’; cf. sʼéexʼát ‘shrimp’)
 chʼax̱ʼínx̱ʼ	noun	mallard (cf. kindachooneit)
