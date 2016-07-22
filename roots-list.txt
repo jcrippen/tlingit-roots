@@ -404,6 +404,7 @@ kayík	noun	extrasensory perception (cf. yéik ‘shaman’s spirit’)
 √yu	root	adopt
 yoow	noun	stomach
 yóo	adv	thus, so, quotation (cf. yéi ‘thus’)
+yoo	adv	alternating, back and forth, up and down, to and fro
 tsʼayóokʼ	adv	immediately, suddenly, right away (cf. yóo ‘thus’)
 yú	det	that, distal
 yóotg̱aanyís	adv	just in case (cf. yú ‘that’, ÿís ‘for’)
@@ -944,6 +945,7 @@ dís	noun	moon, month (cf. √diʼs)
 √diʼs	root	moon be visible; month change (cf. dís ‘moon’)
 √dich	root	rub eyes (cf. √duch ‘rub eyes’)
 deegáa	noun	dipnet (< √dik ‘dipnet’)
+shadeegí	noun	reticulum (in Leer NDB)
 √dik	root	dip, fish with dipnet (cf. deegáa ‘dipnet’)
 √dixʼ	root	plug, cork (cf. √dikʼ ‘constipate’)
 x̱ʼadéexʼi	noun	plug, cork (< x̱ʼé ‘mouth’ + √dixʼ ‘plug’)
@@ -2524,6 +2526,21 @@ gés	interj	come here, dog call, animal call
 kadagéigu	noun	loose roe (< √gekw)
 √geʼḵ	root	come to harm, die; harmful, objectionable, poisonous; restrain
 dzagéiḵ	noun	weakling (< √geʼḵ)
+géewaa	noun	beer (< Ru. пиво)
+√giʼn	root	wrinkle
+geení	noun	tail flipper
+√git	root	animate move rapidly, fall; act thus (> √gídákw)
+yookoosgítk	noun	antics, actions (< yoo + ká + u- + s- + √git + -k)
+√gídákw	root	show off (< √git + -kw ‘repetitive’)
+géelʼ	noun	stamen of skunk cabbage; fish eggs soaked in water
+√giʼts	root	rashy, hives (cf. geets ‘rash’)
+geets	noun	rash (cf. √giʼts ‘rashy, hives’)
+√gish	root	soak (cf. geesh ‘kelp’, √kel ‘soak’)
+geesh	noun	kelp (cf. √gish ‘soak’)
+Gichx̱áan	name	Ketchikan
+géek	noun	stern of boat
+tsʼagéegi	noun	fish quickly cut for dogs (< *√gik unknown)
+
 
 xʼéesʼát	noun	shrimp (<? √xʼisʼ ‘tangled’; cf. sʼéexʼát ‘shrimp’)
 chʼax̱ʼínx̱ʼ	noun	mallard (cf. kindachooneit)
