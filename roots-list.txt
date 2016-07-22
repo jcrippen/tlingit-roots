@@ -54,7 +54,7 @@ háachʼ	noun	shame (cf. √hasʼ ‘vomit’, √hatlʼ ‘crap’)
 √hakw	root	encourage
 kaháakw	noun	fish eggs
 √haakʼú	root	pretend
-hé	det	this, mesioproximal
+hé	det	this, over here, mesioproximal deictic determiner
 héi	interj	delight, surprise
 heʼ	interj	yeah
 x̱aaheiwú	noun	gooseberry
@@ -125,12 +125,12 @@ a	pron	its, third person nonhuman possessor
 -aa	affix	instrumental nominalization (cf. -áa, aa ‘partitive’)
 -áa	affix	instrumental nominalization (cf. -aa, aa ‘partitive’)
 aa	pron	some/one of, partitive (cf. -áa, -aa, aa ‘who’, aadóo ‘who’)
-aa	pron	indefinite who in wh-question (cf. aa ‘partitive’, aadóo ‘who’)
+aa	pron	indefinite who wh-question (cf. aa ‘partitive’, aadóo ‘who’)
 aa	interj	um, well, hesitation
 aaa	interj	um, well, hesitation
 keewa.áa	noun	up in air
 daḵla.á	noun	jackpine
-aadóo	pron	definite who in wh-question (< aa ‘who’ + dóo unknown)
+aadóo	pron	definite who wh-question (< aa ‘who’ + dóo unknown)
 gu.aa	pcl	hopefully
 ḵu.aa	pcl	however
 ḵu.a	pcl	however
@@ -182,6 +182,8 @@ niÿa.áatʼani	noun	lid, cover
 √.as	root	lonesome
 aas	noun	tree
 aasgutú	noun	forest (< aas ‘tree’ + gú ‘base’ + tú ‘inside’)
+asgutú	noun	forest (< aas ‘tree’ + gú ‘base’ + tú ‘inside’)
+aasyádi	noun	sapling (< aas ‘tree’ + yát ‘child’)
 asyádi	noun	sapling (< aas ‘tree’ + yát ‘child’)
 √.àas	root	be(come) tree
 asxʼaansháachʼi	noun	green bird
@@ -257,6 +259,10 @@ eeÿ	noun	rapids
 éenyee	noun	armpit
 éenee	noun	armpit
 ít	noun	after, following
+-.ít	affix	unknown element in daa.ít ‘joint’ (cf. ít ‘after’, eetí ‘place’)
+daa.ít	noun	joint, bone articulation (< daa ‘around’ + -.ít unknown; rare)
+daa.itx̱oo	noun	within joint (< daa.ít ‘joint’ + x̱oo ‘among’)
+daa.ittú	noun	inside joint (< daa.ít ‘joint’ + tú ‘inside’)
 eetí	noun	room, place of, remains of (< eet + -í, cf. ee, ít)
 ḵaankak.eetxʼ	noun	in public
 √.éet	root	not fit, change proportion
@@ -287,7 +293,7 @@ eeḵ	noun	top of foot in iḵká ‘top of foot’
 √.uʰ	root	own, buy
 óowu	noun	property (< √.uʰ ‘own, buy’)
 duwuweit	noun	wealth, possessions (< √.uʰ ‘own, buy’; cf. -weit)
-duweiyí		noun	freedom of slave (in duweiyít wududli.óo < √.uʰ)
+duweiyí		noun	freedom of slave in duweiyít wududli.óo (< √.uʰ)
 at.óow	noun	clan property (< √.uʰ ‘own, buy’)
 u-	pron	third person human
 u-	affix	irrealis
@@ -314,7 +320,7 @@ yaka.óotʼ	noun	button (< √.utʼ ‘adhere by suction’)
 óosh	pcl	hypothetical
 úxkʼ	interj	how tiny! (cf. óoskʼ ‘cute!’)
 √.uʼx	root	blow
-óox	noun	gas (in óoxh shawlihík ‘he’s filled with gas’, < √.uʼx ‘blow’)
+óox	noun	gas in óoxh shawlihík ‘he’s filled with gas’ (< √.uʼx ‘blow’)
 óoxjaa	noun	wind (< √.uʼx ‘blow’)
 tooxsʼeit	noun	bugle, pipe (< √.uʼx ‘blow’)
 √.uk	root	pl. slide; boil
@@ -324,7 +330,7 @@ tooxsʼeit	noun	bugle, pipe (< √.uʼx ‘blow’)
 oox̱	noun	tooth
 √ya	root	pack, carry on back
 yáanadi	noun	thing packed (< √ya ‘pack’)
-yá	det	this, proximal
+yá	det	this, here, proximal deictic determiner
 yáakʼu	adv	right away with chʼa
 yaa	noun	sea trout
 heeyáa	interj	impatience
@@ -406,7 +412,7 @@ yoow	noun	stomach
 yóo	adv	thus, so, quotation (cf. yéi ‘thus’)
 yoo	adv	alternating, back and forth, up and down, to and fro
 tsʼayóokʼ	adv	immediately, suddenly, right away (cf. yóo ‘thus’)
-yú	det	that, distal
+yú	det	that, over there, distal deictic determiner
 yóotg̱aanyís	adv	just in case (cf. yú ‘that’, ÿís ‘for’)
 yóotg̱aantsá	adv	in some remote future (cf. yóotg̱aanyís ‘just in case’)
 yóoxgaa	noun	skirt (< Ru. юпка)
@@ -450,7 +456,7 @@ kichÿaat	noun	tern (< kích + ÿaat)
 √ÿatʼ	root	long (cf. √ÿatlʼ ‘short’, √ÿachʼ ‘too short’)
 √ÿatlʼ	root	short (cf. √ÿachʼ ‘too short’, √ÿatʼ ‘long’)
 √ÿachʼ	root	too short (cf. √ÿatlʼ ‘short’, √ÿatʼ ‘long’)
-ÿáts	noun	child (in =kʼiÿátskʼu ‘small’, see =kʼátskʼu)
+ÿáts	noun	child in =kʼiÿátskʼu ‘small’ (cf. =kʼátskʼu)
 =kʼiÿátskʼu	affix	small (< kʼi + ÿáts ‘child’ + -kʼ ‘dimin.’)
 =kʼátskʼu	affix	small (< kʼiÿátskʼu)
 √ÿasʼ	root	smooth
@@ -464,7 +470,7 @@ lḵukanÿáaxʼ	adv	for nothing, for no purpose
 √ÿáakw	root	deny
 √ÿaḵw	root	liken, make simile; bequeath
 √ÿaax̱áḵw	root	make plan (< √ÿaḵw + -x̱? + -áḵw ‘lacking’)
-ÿaax̱	noun	edge? (in tʼáaÿaax̱ ‘board for table’, héen x̱ʼaÿaax̱ ‘shoreline’)
+ÿaax̱	noun	edge? in tʼáaÿaax̱ ‘board for table’, héen x̱ʼaÿaax̱ ‘shoreline’
 ÿé	noun	place, way, manner, circumstance, time (cf. yéi ‘thus’)
 √ÿéi	root	strange, weird (cf. √yàa ‘strange’)
 ÿeit	noun	thing below (< ÿee + át)
@@ -516,8 +522,9 @@ shanaax̱kaÿéeḵ	noun	scarf (< √ÿiḵ ‘pull’)
 ÿéeḵ	noun	foremost or sternmost place in canoe (cf. √ÿiḵ ‘pull’; > ÿéiḵ)
 ÿéiḵ	noun	foremost or sternmost place in canoe (< ÿéeḵ)
 saÿeeḵ	noun	next day (cf. seig̱án ‘tomorrow’, ÿee ‘time’)
-wáa	pron	how (wh-question)
-wánwaa	noun	sailor (< Eng. man-o-war or CJ manawaa)
+wáa	pron	how wh-question (< máa ‘how’)
+máa	pron	how wh-question (only in Teslin, Carcross, Tagish)
+wánwaa	noun	sailor (< Eng. man-o-war or CJ mánəwa)
 Wanwaasháa	name	woman of Kaagwaantaan clan (< wánwaa + sháa ‘woman’)
 x̱ʼeisʼawáa	noun	ptarmigan; pigeon
 wán	noun	edge
@@ -555,7 +562,7 @@ sawáak	noun	large dog, bulldog (< Ru. собака)
 jeeniwáḵ	noun	teakettle (< Sug. cainiiguaq < Ru. чайник)
 waaḵ	noun	eye
 x̱aawaag̱í	noun	window (< x̱aaÿ ‘steambath’ + waaḵ ‘eye’)
-wé	det	there, that, mesiodistal
+wé	det	that, there, mesiodistal deictic determiner
 tawéi	noun	wild (Dall) sheep
 wéinaa	noun	chalk (< √wu ‘pale’)
 yawéinaa	noun	face powder (< √wu ‘pale’)
@@ -601,6 +608,8 @@ wúg̱aa	noun	skin scraper
 √máamaa	root	call ‘mama’
 máadushgaa	noun	priest’s wife (< Ru. матюшка)
 √bélt	root	spell (< Eng. spelled)
+n-	affix	n-conjugation prefix, aspect marker, lateral direction
+na-	affix	n-conjugation prefix, aspect marker, lateral direction
 -n	ppn	with, instrumental postposition (cf. een, teen)
 -n	affix	stem variation suffix, causes ablaut of a→éi and u→wéi
 √naʰ	root	damp; drink; rub with tallow
@@ -812,12 +821,12 @@ noox̱ú	noun	colon (cf. ḵʼanoox̱)
 ḵʼanoox̱	noun	labret; whiskers of fish (cf. noox̱ú)
 √da	root	flow
 √da	root	accustomed; watch over
-daa	noun	around, surrounding
+daa	noun	around, surrounding (cf. daa ‘what wh-question’)
 daakeit	noun	container (< daa ‘around’ + ká + át; see -keit)
 kaldaag̱ákw	adv	naked (< daa ‘around’ + -ḵ ‘lacking’ + -ákw?)
 kaldaag̱éináx̱	adv	slowly, carefully (<? daa ‘around’)
-daa	pron	what (wh-question)
-daat	pron	what (wh-question; < daa ‘what’ + -t)
+daa	pron	what wh-question (cf. daa ‘around’)
+daat	pron	what wh-question (< daa ‘what’ + -t)
 dáa	noun	weasel (cf. kóoshdaa ‘land otter’)
 dáa	pcl	let it be so; (cf. dáashéiwéixʼ ‘be quiet, that’s enough’)
 kóoshdaa	noun	land otter (cf. dáa ‘weasel’)
@@ -895,16 +904,16 @@ shuḵdáḵ	noun	kind of shark; kind of beetle (cf. shax̱dáḵ)
 dáaḵ	dirn	inland, away from open (cf. dáḵ, deiḵ)
 dáḵ	dirn	inland, away from open (cf. dáaḵ, deiḵ)
 deiḵ	dirn	inland, away from open (cf. dáaḵ, dáḵ)
-daaḵw	pron	which (wh-question; < daaḵu)
-daaḵu	pron	which (wh-question; < daa or daat + ḵu)
-daax̱ʼwaa	pron	which one (wh-question; < daaḵw + aa)
-daaḵw.aa	pron	which one (wh-question; < daaḵw + aa)
-daaḵwaa	pron	which one (wh-question; < daaḵw + aa) 
-daag̱waa	pron	which one (wh-question; < daaḵw + aa) 
-daaḵwei	pron	which one (wh-question; < daaḵw + aa)
-daaḵw.át	pron	what kind (wh-question; < daaḵw + át)
-daaḵwát	pron	what kind (wh-question; < daaḵw + át)
-daaḵweit	pron	what kind (wh-question; < daaḵw + át)
+daaḵw	pron	which wh-question (< daaḵu)
+daaḵu	pron	which wh-question (< daa or daat + ḵu)
+daax̱ʼwaa	pron	which one wh-question (< daaḵw + aa)
+daaḵw.aa	pron	which one wh-question (< daaḵw + aa)
+daaḵwaa	pron	which one wh-question (< daaḵw + aa) 
+daag̱waa	pron	which one wh-question (< daaḵw + aa) 
+daaḵwei	pron	which one wh-question (< daaḵw + aa)
+daaḵw.át	pron	what kind wh-question (< daaḵw + át)
+daaḵwát	pron	what kind wh-question (< daaḵw + át)
+daaḵweit	pron	what kind wh-question (< daaḵw + át)
 dei	noun	road, trail, path
 de	adv	now, already (cf. dei ‘now, already’)
 dei	adv	now, already (cf. de ‘now, already’)
@@ -996,6 +1005,8 @@ dákwli	noun	fish cleaned and hung to dry (also kadúkli, kaldúkl, etc.)
 kadóoxʼ	noun	knot (< √duxʼ)
 √duḵ	root	wet, slushy snow
 dúḵ	noun	cottonwood, poplar; canoe made of cottonwood
+-t	ppn	at, to, around, punctual postposition
+-t	affix	repeatedly striking, ictive repetitive suffix (cf. -t ‘punct.’)
 tá	noun	head of bay (cf. táak ‘inside surface’)
 takeit	noun	headband of wood (tá ‘head’ + ká ‘hsfc’ + át ‘thing’)
 -datáan	affix	facing direction (< tá ‘head’); in ÿindatáan, kindatáan, etc.
@@ -1219,9 +1230,10 @@ tʼaaÿ	noun	hotsprings; heat; perspiration (cf. √tʼaʰ ‘hot’)
 kanatʼá	noun	blueberry (< √tʼaʰ ‘ripe’)
 √tʼaʰ	root	warp, bend by steam or heat (cf. √tʼak ‘dent’)
 tʼá	noun	king salmon
--tʼaa	affix	one (in demonstratives; < -t + aa ‘partitive’)
--tʼát	affix	thing (in demonstratives; < -t + át ‘thing’)
+-tʼaa	affix	one in demonstratives (< -t + aa ‘partitive’)
+-tʼát	affix	thing in demonstratives (< -t + át ‘thing’)
 tʼáa	noun	board (cf. √tʼaʼÿ ‘shiplap’)
+tʼáaÿaax̱	noun	board for table (< tʼáa ‘board’ + ÿaax̱ ‘edge?’)
 √tʼaʼÿ	root	shiplap, layer with boards, skirt house (cf. tʼáa ‘board’)
 tʼáak	noun	behind, back from, landward of (cf. tʼéik, √tʼeʰ)
 tʼaaw	noun	feather
@@ -2430,6 +2442,8 @@ xwéx̱jaa	noun	rustling, quiet sound from unseen entity (< *√xwex̱; cf. √x
 kaxwéix̱jaa	noun	rustling (< *√xwex̱; cf. xwéx̱jaa)
 yeilxwéix̱i	noun	whirlwind (< yéil ‘raven’ + *√xwex̱ or √xu + -x̱)
 √xwex̱ʼ	root	emaciated
+g-	affix	g-conjugation prefix, aspect marker, upward direction
+ga-	affix	g-conjugation prefix, aspect marker, upward direction
 √ga	root	tide slack; delay
 √ga	root	distribute, put away goods
 √gàa	root	still, quiet, negative only (cf. √gaʼÿ, √gaw, √gaʼw)
@@ -2505,7 +2519,7 @@ aankageit	noun	in public, in front of town (< aan + ká + géi?)
 gé	pcl	yes-no question (< gí)
 ágé	pcl	focused yes-no question (< á + gé)
 ásgé	pcl	dubitative focused yes-no question (< á + sí + gé)
-ásgíwé	pcl	dubitative focused yes-no question (< á + sí + gí + wé)
+ásgéwé	pcl	dubitative focused yes-no question (< á + sí + gé + wé)
 shgé	pcl	dubitative (< sh? + gé)
 chʼagé	interj	oh yeah, right (< chʼa + gé)
 kusʼoolgéi	noun	willow grouse
@@ -2527,6 +2541,15 @@ kadagéigu	noun	loose roe (< √gekw)
 √geʼḵ	root	come to harm, die; harmful, objectionable, poisonous; restrain
 dzagéiḵ	noun	weakling (< √geʼḵ)
 géewaa	noun	beer (< Ru. пиво)
+gí	pcl	yes-no question (< gí)
+ágí	pcl	focused yes-no question (< á + gí)
+ásgí	pcl	dubitative focused yes-no question (< á + sí + gí)
+ásgíwé	pcl	dubitative focused yes-no question (< á + sí + gí + wé)
+ákwé	pcl	focused yes-no question (< á + gí + wé)
+ák.wé	pcl	focused yes-no question (< á + gí + wé)
+ákyá	pcl	focused yes-no question (< á + gí + yá)
+ákyú	pcl	focused yes-no question (< á + gí + yú)
+ákhé	pcl	focused yes-no question (< á + gí + hé)
 √giʼn	root	wrinkle
 geení	noun	tail flipper
 √git	root	animate move rapidly, fall; act thus (> √gídákw)
@@ -2540,7 +2563,13 @@ geesh	noun	kelp (cf. √gish ‘soak’)
 Gichx̱áan	name	Ketchikan
 géek	noun	stern of boat
 tsʼagéegi	noun	fish quickly cut for dogs (< *√gik unknown)
-
+√gu	root	poke, stab; boats or sea mammals go in group or pod
+daa.itnagóowu	noun	actions, behavior (< daa.ít + n- + √gu ‘poke’ + -í)
+gú	noun	base (rare; cf. goowú ‘stump’, aasgutú ‘forest’)
+goowú	noun	stump (cf. gú ‘base’)
+goo	pron	where wh-question
+goot	pron	where wh-question (< goo ‘where’ + -t ‘punctual’)
+gootʼaa	pron	whereabouts (< goo ‘where’ + -tʼaa ‘one’)
 
 xʼéesʼát	noun	shrimp (<? √xʼisʼ ‘tangled’; cf. sʼéexʼát ‘shrimp’)
 chʼax̱ʼínx̱ʼ	noun	mallard (cf. kindachooneit)
