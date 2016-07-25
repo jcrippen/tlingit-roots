@@ -431,7 +431,9 @@ uwáa	adj	resembling, ersatz
 √ÿa	root	lower
 shaÿéinaa	noun	anchor
 ÿaÿéinaa	noun	whetstone
-ÿá	noun	face, vertical surface
+ÿ-	affix	vertical surface, face, incorporated form of ÿá (< ÿá; cf. ÿa-)
+ÿa-	affix	vertical surface, face, incorporated form of ÿá (< ÿá; cf. ÿ-)
+ÿá	noun	face, vertical surface (> ÿa-, ÿ-)
 ÿáag̱aa	ppn	through (time)
 ig̱aÿáak	noun	beach below town
 g̱unaÿáa	adv	different
@@ -526,6 +528,7 @@ shanaax̱kaÿéeḵ	noun	scarf (< √ÿiḵ ‘pull’)
 ÿéeḵ	noun	foremost or sternmost place in canoe (cf. √ÿiḵ ‘pull’; > ÿéiḵ)
 ÿéiḵ	noun	foremost or sternmost place in canoe (< ÿéeḵ)
 saÿeeḵ	noun	next day (cf. seig̱án ‘tomorrow’, ÿee ‘time’)
+ÿu-	affix	perfective prefix in verbs (< *ŋu-; cf. wu-, m-)
 wáa	pron	how wh-question (< máa ‘how’)
 máa	pron	how wh-question (only in Teslin, Carcross, Tagish)
 wánwaa	noun	sailor (< Eng. man-o-war or CJ mánəwa)
@@ -580,6 +583,7 @@ wéisʼ	noun	louse; gland
 wéiksh	noun	ulu
 wéix̱ʼ	noun	bullhead
 wínk	noun	milk (< Eng.)
+wu-	affix	perfective prefix in verbs (< *ŋu-; cf. ÿu-, m-)
 √wu	root	send, take along
 wóow	noun	lunch (< √wu ‘send, take along’)
 √wu	root	float
@@ -609,6 +613,7 @@ lawúx̱	noun	young seagull, grey
 √wuḵ	root	scrape skin
 wúg̱aa	noun	skin scraper
 √wux̱ʼ	root	wide
+m-	affix	perfective prefix in verbs (< *ŋu-; cf. ÿu-, wu-)
 √máamaa	root	call ‘mama’
 máadushgaa	noun	priest’s wife (< Ru. матюшка)
 √bélt	root	spell (< Eng. spelled)
@@ -713,7 +718,7 @@ gaanneilí	noun	smokehole covering (cf. gaanyéili)
 √nelʼ	root	lug, carry bulky object against self (cf. √na ‘carry bundles’)
 néilʼ	noun	cedar bark basket (<? √nelʼ ‘lug’)
 kanéist	noun	cross (< Ru. крест)
-√néist	root	in x̱akanéist ‘cross fox’; cf. x̱akaxwaan, x̱altʼoochʼ, x̱ax̱ʼaan
+x̱akanéist	noun	cross fox (< kanéist; cf. x̱akaxwaan, x̱altʼoochʼ, x̱ax̱ʼaan)
 shanéitsaa	noun	Easter bread (< Ru. пшеница ‘wheat’; cf. Ru. кулич)
 tlax̱aneisʼ	noun	kingfisher (< √naʰ ‘damp’; cf. neisʼ)
 √neʼḵ	root	slushy
@@ -765,7 +770,7 @@ g̱anúgún	aux	contingent habitual (< √nikw ‘aux’ + g̱a-…-ín ‘conti
 g̱anígín	aux	contingent habitual (< √nikw ‘aux’ + g̱a-…-ín ‘contingent’)
 √nikw	root	feel; wind blow
 néekw	noun	breeze (< √nikw ‘feel; wind blow’)
-√nikw	root	act, with ḵu- (perh. same as √nikw ‘feel; wind blow’)
+√nikw	root	act, with ḵu- areal (perh. same as √nikw ‘feel; wind blow’)
 √neekw	root	lack confidence, doubt
 √néekw	root	be annoyed, bothered (perh. same as √néekw ‘sick’)
 √néekw	root	sick (< néekw ‘sickness’)
@@ -1054,7 +1059,7 @@ taat	noun	night (cf. tatgé ‘yesterday’, nisdaat ‘lastnight’, ÿeedát �
 nisdaat	noun	last night (< nis- + taat ‘night’)
 taatÿeen	noun	middle of night (< taat ‘night’ + ÿeen ‘during’)
 tsʼootaat	noun	morning (<? tsʼu- + taat ‘night’)
-táal	noun	flat open basket; flat thing (adj.)
+táal	noun	flat open basket; flat thing (cf. kaat ‘straining basket’)
 tuḵʼatáal	noun	pants, trousers (< tóoḵ ‘butt’ + x̱ʼé ‘mouth’ + táal)
 Taal	name	component of names referring to Tahltan
 √tált	root	dissuade, discourage
@@ -1325,8 +1330,9 @@ katʼóot	noun	nearly, part way, just short; waist
 tʼóosʼ	noun	roasted thing (< √tʼusʼ)
 datʼóosʼi	noun	baker (< √tʼusʼ)
 √tʼuch	root	sting (cf. √tʼuʼk ‘shoot with arrow’, tʼóokʼ ‘nettles’)
-√tʼuchʼ	root	char, blacken (cf. tʼoochʼ)
+√tʼuchʼ	root	char, blacken (cf. tʼoochʼ, x̱altʼoochʼ)
 tʼoochʼ	noun	charcoal, black (cf. √tʼuchʼ)
+x̱altʼoochʼ	noun	black fox (< x̱aaw ‘fur’ + l- + tʼoochʼ ‘charcoal’)
 Duktʼootlʼ	name	Strong Man (< dook ‘skin’ + tʼootlʼ cf. tʼoochʼ)
 √tʼuʼk	root	shoot with arrow (cf. √tʼuch ‘sting’, tʼóokʼ ‘nettles’)
 tʼúgwaa	noun	bow and arrow
@@ -1444,6 +1450,7 @@ anaax̱adléi	noun	myth (only in L73: 08/94)
 √dlénaa	root	play touching game (cf. √dlénx̱aa)
 dleit	noun	snow (< √dla ‘settle’ + át ‘thing’)
 √dlèit	root	snowy (< dleit ‘snow’)
+x̱aldleit	noun	white fox (< x̱aaw ‘fur’ + l- + √dlèit)
 √dletʼ	root	plop (cf. √dletlʼ ‘hang slackly’)
 √dletlʼ	root	hang slackly (cf. √dletʼ ‘plop’)
 √dlexw	root	skin peel esp. with thumb (< √dlixw)
@@ -1490,7 +1497,7 @@ tlaagú	noun	legend, legendary; in chʼa tlaagú ‘amazing!’ (cf. tlákw, √
 tlágu	adj	old, ancient (cf. tlákw, √tlakw, tlaagú, chʼáagu)
 √tlakw	root	investigate; tell legend; whisper with ḵu- (cf. tlákw, tlaagú)
 tláakw	adv	quickly; in anger
-tláaḵ	noun	sharp point of arrow, spear
+tláaḵ	noun	sharp point of arrow, spear (cf. kát ‘spear head’)
 lʼutʼtláaḵ	noun	snake, serpent (< lʼóotʼ ‘tongue’ + tláaḵ ‘spearpoint’)
 tláx̱	adv	very, extremely
 √tlax̱	root	mouldy, moldy (cf. tlaax̱ ‘mould’)
@@ -1683,7 +1690,7 @@ sáagi	noun	place for lying in wait
 -sákw	adj	future, to be
 kaságu	noun	beam of house (cf. kasúgu)
 sagweit	noun	kind of deadfall trap (< sákw unknown + -eit; cf. seen)
-sáxʼ	noun	edible cambium of spruce or hemlock
+sáxʼ	noun	edible cambium of spruce or hemlock (cf. káx̱i)
 √saḵ	root	exhausted (cf. √shaḵ)
 sáḵs	noun	yew; bow
 √seʰ	root	near (cf. √leʰ ‘far, distant’)
@@ -1832,7 +1839,7 @@ tsú	pcl	also (cf. tsu)
 tsóokʼ	adv	some more (< tsú + -kʼ ‘diminutive’)
 tsu	pcl	again (cf. tsú)
 √tsuʼw	root	push end of long thing forward; move household
-katsóowaa	noun	dibble stick (< √tsʼuw ‘push end forward’)
+katsóowaa	noun	dibble/digging stick (< √tsʼuw ‘push end forward’)
 tsóox̱	noun	corral (cf. √tsuʼx̱ ‘dam’)
 sʼa-	noun	eyebrow in compounds (< sʼi- < sʼee)
 √sʼa	root	claim thing to be destroyed (cf. sʼáayadi)
@@ -2233,7 +2240,6 @@ kanalchóolani	noun	mistress (cf. √chul ‘munch’, kacháwli ‘sweetheart�
 chush	pron	self, reflexive possessor
 √chux	root	rub, massage, knead, pat (cf. √chuʼk, √chuxʼ, kachóox)
 kachóox	noun	clay shaped with hands (cf. √chux ‘rub, massage, knead’)
-chookán	noun	grass
 √chuʼk	root	rub to soften (cf. √chux, √chuxʼ)
 √chuxʼ	root	graze, touch or shake lightly (cf. √chux, √chuʼk)
 √chux̱	root	cadge, sponge off someone (with irrealis u-)
@@ -2452,8 +2458,10 @@ xwéx̱jaa	noun	rustling, quiet sound from unseen entity (< *√xwex̱; cf. √x
 kaxwéix̱jaa	noun	rustling (< *√xwex̱; cf. xwéx̱jaa)
 yeilxwéix̱i	noun	whirlwind (< yéil ‘raven’ + *√xwex̱ or √xu + -x̱)
 √xwex̱ʼ	root	emaciated
-g-	affix	g-conjugation prefix, aspect marker, upward direction
-ga-	affix	g-conjugation prefix, aspect marker, upward direction
+g-	affix	g-conjugation prefix, aspect marker, upward direction (cf. ga-)
+ga-	affix	g-conjugation prefix, aspect marker, upward direction (cf. g-)
+g-	affix	comparative prefix in verbs (cf. ga-)
+ga-	affix	comparative prefix in verbs (cf. g-, ka-)
 √ga	root	tide slack; delay
 √ga	root	distribute, put away goods
 √gàa	root	still, quiet, negative only (cf. √gaʼÿ, √gaw, √gaʼw)
@@ -2463,6 +2471,7 @@ sdagáa	pcl	pretending (<? sí + da- unknown + gáa)
 √gaw	root	loud, noisy (cf. gaaw, √gaʼw, √gaʼÿ, √gàa)
 gaaw	noun	drum, bell, noise, clock, hour, time (cf. √gaw)
 gaawáḵ	noun	saskatoonberry, serviceberry (< gaaw ‘noise’ + -áḵ ‘lacking’)
+shgáaw	noun	scow (< Eng. scow; cf. shkáaw)
 √gan	root	burn; bright, lit; sun shine (cf. gán, kagán, kagánaa, g̱agaan)
 gán	noun	firewood (cf. √gan)
 kagán	noun	light (cf. √gan)
@@ -2498,7 +2507,7 @@ gáak	adv	protruding (< gáak ‘outside’)
 gági	adv	outside, out in the open, out of shadow (cf. gáak, gáx-)
 √gaxʼ	root	annoy by noise; pray (> x̱ʼagáaxʼ ‘prayer’)
 x̱ʼagáaxʼ	noun	prayer (< x̱ʼé + √gaxʼ)
-√gaxʼ	root	spotted (cf. √chʼalʼ, √chʼachʼ, √gaxʼ, √kaxʼ)
+√gaxʼ	root	spotted (cf. √chʼalʼ, √chʼachʼ, √kaxʼ)
 √gaxʼw	root	riddle (cf. gáaxʼu ‘riddle’)
 gáaxʼu	noun	riddle (< √gaxʼw + -í)
 √gaḵ	root	surprise visit
@@ -2710,6 +2719,64 @@ aatagwéixʼi	noun	pond lily (< áa + tá + *√gwexʼ unknown + -í)
 gwîns	noun	beans (< Eng. beans)
 gwít	noun	dime (< CJ bit < Eng. bit ‘1/8th Spanish dollar; dime’; cf. gút)
 gwíjín	noun	pigeon (< Eng. pigeon)
+-k	affix	obsolete locative suffix frozen in nouns (cf. táak, sháak)
+-k	affix	repetitive suffix on verbs (cf. -kw)
+k-	affix	horizontal surface, incorporated form of ká (< ká; cf. ka-)
+ka-	affix	horizontal surface, incorporated form of ká (< ká; cf. k-)
+k-	affix	comparative prefix in verbs (cf. g-, ga-, k-)
+ka-	affix	comparative prefix in verbs (cf. g-, ga-, k-)
+k-	affix	small round object qualifier prefix in verbs (< ká; cf. ka-)
+ka-	affix	small round object qualifier prefix in verbs (< ká; cf. k-)
+ká	noun	horizontal surface, top of, flat of (> ka-, k-)
+káaxʼ	ppn	according to; on (< ká + -xʼ)
+x̱ʼakooká	noun	answering (< x̱ʼé + koo unknown + ká)
+keeká	noun	across from, other side, facing (cf. ká, kée, shakée, deikée)
+káa	noun	car, automobile (< Eng. car)
+√kàa	root	lazy (with irrealis)
+√kàa	root	make gestures
+√kaÿàa	root	try, attempt (< √kàa ‘make gestures’; cf. √.aḵw)
+√kaʼÿ	root	measure, weigh (cf. kaaÿ, káaÿ ‘measure’)
+kaaÿ	noun	measure, measuring device (cf. √kaʼÿ ‘measure’)
+káaÿ	noun	measure, measuring device (cf. √kaʼÿ ‘measure’)
+shkáaw	noun	scow (< Eng. scow; cf. shgáaw)
+√kan	root	dance in return
+kánaa	noun	flag, dance staff (< √kan ‘dance in return’)
+chookán	noun	grass (cf. PD *kʸən ‘tundra’)
+keekán	noun	vantage point, observation point (cf. keeká, kaakán)
+kaakán	noun	vantage point, observation point (> ḵukaakán; cf. keekán)
+ḵukaakán	noun	vantage point, observation point (< ḵu- + kaakán)
+g̱uwakaan	noun	deer (cf. ḵuwakaan)
+ḵuwakaan	noun	deer (cf. g̱uwakaan)
+káani	noun	sibling-in-law
+kát	noun	spear head (cf. tláaḵ ‘sharp point of spear’)
+-kát	affix	in dakádin ‘facing’, ldakát ‘all’, chʼa kʼeekát ‘at least’
+kaat	noun	flat basket for straining (cf. táal ‘flat open basket’)
+jinkaat	num	ten (<? jín ‘hand’ + kaat ‘flat basket’)
+tsʼawkaat	noun	spider (cf. tsʼankwaat)
+káatʼ	noun	dibble stick, digging stick, clam-digging stick (cf. katsóowaa)
+káalkʼw	noun	woman’s brother’s child (cf. kálkʼw, kéilkʼ)
+kálkʼw	noun	woman’s brother’s child (vocative; cf. káalkʼw)
+káts	noun	lime, calcined shell; white bird excreta (cf. ḵʼalkátsḵ)
+ḵʼalkátsḵ	noun	yellowneck clam
+káast	noun	barrel
+√kasʼ	noun	gather algae (cf. káasʼ ‘algae’)
+káasʼ	noun	algae (cf. √kasʼ ‘gather algae’)
+√kak	root	thick
+káak	noun	mother’s brother
+kaak	noun	flesh on inside of skin
+káakʼ	noun	forehead
+√kaxʼ	root	spotted; usually with -x̱ (cf. káaxʼ, √gaxʼ, √chʼalʼ, √chʼachʼ)
+káaxʼ	noun	spruce grouse, chicken (cf. √kaxʼ ‘spotted’)
+x̱askáaxʼ	noun	cross fox (< x̱aaw ‘fur’ + √kaxʼ ‘spots’; cf. x̱akanéist)
+√kaʼx̱	root	sap run, cambium be juicy (cf. káx̱i ‘sap’)
+káx̱i	noun	sap (cf. √kaʼx̱, sáxʼ ‘cambium’)
+kax̱ÿee	noun	ceiling (< kax̱ unknown + ÿee ‘below’; cf. lʼag̱akáx̱ ‘west wind’)
+lʼag̱akáx̱	noun	west wind (cf. kax̱ÿee ‘ceiling’
+tsʼéekáx̱kʼw	noun	bog blueberry, Vaccinium uliginosum (< √kax̱ unknown)
+káx̱.aa	noun	heart of the matter, final object (< ká + -x̱ + aa)
+
+-kw	affix	repetitive suffix on verbs (cf. -k)
+tsʼankwaat	noun	spider (cf. tsʼawkaat)
 
 xʼéesʼát	noun	shrimp (<? √xʼisʼ ‘tangled’; cf. sʼéexʼát ‘shrimp’)
 chʼax̱ʼínx̱ʼ	noun	mallard (cf. kindachooneit)
