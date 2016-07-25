@@ -1751,7 +1751,7 @@ súnjaa	noun	bubble (< √suʼn)
 √suʼs	root	lull to sleep (cf. √siʼs)
 wasóos	noun	cattle (< waswóos < CJ musmús)
 kasúgu	noun	beam of house (cf. kaságu)
-sooḵ	noun	wide grass (cf. suḵtéitlʼ)
+sooḵ	noun	wide grass (cf. suḵtéitlʼ, sooḵgwéil)
 dzaaÿí	noun	thick hair of beard, whiskers, nose (cf. √dzaʼÿ)
 √dzaʼÿ	root	grow beard (cf. dzaaÿí)
 dzánti	noun	flounder
@@ -2604,6 +2604,7 @@ aasx̱ʼagúnlʼi	noun	burl, lump on tree (< aas + x̱ʼé + gúnlʼ + -í)
 gúnx̱aa	noun	abalone (< √gun unknown + -x̱ + -áa)
 √gut	root	singular animate go (imperative stem -gú)
 kátgoot	noun	diarrhea (< √gut ‘sg. go’)
+gút	noun	dime (< CJ bit < Eng. bit ‘1/8th Spanish dollar; dime’; cf. gwít)
 √goodán	root	return to walking (< √gut + -án ‘restore’)
 gootskʼí	noun	in shéix̱ʼw gootskʼí ‘top of hill in fall w yellow grass’
 √gulʼ	root	one-eyed, wink
@@ -2691,8 +2692,24 @@ taagwásʼ	noun	sunray skate (cf. tagwásʼ)
 √gwaʼsh	root	hop on one leg (cf. √kʼwash)
 √gwach	root	quick-roast, quick-fry (> gwáchx̱i ‘quick-roasted’)
 gwáchx̱i	noun	quick-roasted, quick-fried food (< √gwach + -x̱)
-sgwách	pcl	after all, at that point, contrary to expectations
+sgwách	pcl	after all, at that point; contrary to expectations
+deisgwách	pcl	pretty soon, in a while, already (< dé + sgwách)
 lugwáachʼ	noun	rhinocerous auklet (< lú + gwáachʼ unknown; cf. lugóochʼ)
+gwéin	noun	rattle (only in L78: 59)
+gwéinli	noun	hoof (<? *√gwa, *√gwen unknown; cf. gwéinlani, gwéinlʼi)
+gwéinlani	noun	hoof (<? *√gwa, *√gwen unknown; cf. gwéinli, gwéinlʼi)
+gwéinlʼi	noun	hoof (<? *√gwa, *√gwen unknown; cf. gwéinli, gwéinlani)
+√gwéinsh	root	tinker with
+gwéil	noun	bag, sack
+dzasgwéil	noun	babiche bag; handbag (< dzaas + gwéil)
+daakagwéili	noun	bag or sack for containing something
+sooḵgwéil	noun	burlap sack, gunnysack (< sooḵ + gwéil)
+gwéiji	noun	in wa.é tlein gwéijích ‘you old thing you’ (only in L78: 59)
+sgwéijín	noun	gin formerly sold in square bottles (< Eng. square gin)
+aatagwéixʼi	noun	pond lily (< áa + tá + *√gwexʼ unknown + -í)
+gwîns	noun	beans (< Eng. beans)
+gwít	noun	dime (< CJ bit < Eng. bit ‘1/8th Spanish dollar; dime’; cf. gút)
+gwíjín	noun	pigeon (< Eng. pigeon)
 
 xʼéesʼát	noun	shrimp (<? √xʼisʼ ‘tangled’; cf. sʼéexʼát ‘shrimp’)
 chʼax̱ʼínx̱ʼ	noun	mallard (cf. kindachooneit)
