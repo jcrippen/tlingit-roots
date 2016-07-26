@@ -2937,7 +2937,9 @@ kwáashkʼ	noun	humpback salmon, pink salmon (< Eyak kaˑškʼ)
 kwéiÿ	noun	marker, sign
 eechkakwéiÿi	noun	fixed buoy (< eech ‘reef’ + kwéiÿ ‘marker’ + -í)
 aankwéiÿi	noun	flag (< aan ‘town’ + kwéiÿ ‘marker’ + -í)
-kwéḵ	noun	felon, finger abscess, whitlow
+sʼeekwéiÿi	noun	wrinkles on brow (< sʼée ‘eyebrow’ + kwéiÿ ‘marker’)
+jintakkwéiÿi	noun	lines on palm (< jín ‘hand’ + táak + kwéiÿ ‘marker’)
+kwéḵ	noun	felon, whitlow, paronychia, finger abscess or infection
 
 xʼéesʼát	noun	shrimp (<? √xʼisʼ ‘tangled’; cf. sʼéexʼát ‘shrimp’)
 chʼax̱ʼínx̱ʼ	noun	mallard (cf. kindachooneit)
