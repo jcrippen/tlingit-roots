@@ -2103,6 +2103,9 @@ kashéex̱ʼ	noun	praise, glory (< √shix̱ʼ)
 shú	noun	end (cf. √shu, shoowú)
 shuká	noun	crest (< shú + ká)
 shkwá	noun	crest (< shuká)
+shukát	adv	before, preceding in time (< shú + ká + -t)
+shukwát	adv	before, preceding in time (< shúkát)
+shkwát	adv	before, preceding in time (< shúkát)
 shuwee	noun	below, before (< shú + ÿee)
 ÿanshuká	noun	campsite, wilderness (< ÿán + shú + ká)
 shoowú	noun	part (cf. shú, √shu)
@@ -2916,10 +2919,25 @@ kóox̱ʼ	noun	dry Indian celery stalk
 shadakóox̱ʼ	noun	hat ring (< shá + daa + kóox̱ʼ)
 -kw	affix	repetitive suffix on verbs (cf. -k)
 √kwan	root	plural wade, swim on surface
-kwáan	noun	smallpox (<? Eng. quarantine, perhaps < CJ *kwántin < Eng.)
-√kwaʼt	root	blacken with smoke
+kwaan	noun	smallpox (<? Eng. quarantine, perhaps < CJ *kwántin < Eng.)
+√kwaʼt	root	blacken with smoke (cf. kwáat)
+kwáat	noun	soot, smudge, smut from smoke (cf. √kwaʼt)
 tsʼankwaat	noun	spider (cf. tsʼawkaat)
-kwás	noun	aged urine; outhouse, toilet
+kwáata	noun	quarter (< Eng. quarter)
+kwáataa	noun	quarter (< Eng. quarter)
+kwáada	noun	quarter (< Eng. quarter)
+kwáadaa	noun	quarter (< Eng. quarter)
+kwátlʼi	noun	term that Raven calls Deer, pal?, dear? (cf. kóotlʼ)
+kwás	noun	aged urine; outhouse, toilet (cf. kakwaas)
+kakwaas	noun	smell of urine (cf. kwás)
+kwáash	noun	genital area, pubic area, pubis, vulva, crotch (cf. kʼwáash)
+kwáashkʼ	noun	humpback salmon, pink salmon (< Eyak kaˑškʼ)
+√kwach	root	handle in handfuls, armloads
+√kweʼÿ	root	mark, place sign (cf. kwéiÿ)
+kwéiÿ	noun	marker, sign
+eechkakwéiÿi	noun	fixed buoy (< eech ‘reef’ + kwéiÿ ‘marker’ + -í)
+aankwéiÿi	noun	flag (< aan ‘town’ + kwéiÿ ‘marker’ + -í)
+kwéḵ	noun	felon, finger abscess, whitlow
 
 xʼéesʼát	noun	shrimp (<? √xʼisʼ ‘tangled’; cf. sʼéexʼát ‘shrimp’)
 chʼax̱ʼínx̱ʼ	noun	mallard (cf. kindachooneit)
