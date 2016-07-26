@@ -311,7 +311,9 @@ Ana.óot	name	Aleut people, Alutiiq people
 √.uʼt	root	remove splinter
 √.utʼ	root	adhere by suction
 óotʼ	noun	sucker (< √.utʼ ‘adhere by suction’)
-yaka.óotʼ	noun	button (< √.utʼ ‘adhere by suction’)
+ÿaka.óotʼ	noun	button (< √.utʼ ‘adhere by suction’)
+ḵaaÿakóotʼi	noun	button (< yaka.óotʼ)
+ḵaakóotʼi	noun	button (< ḵaaÿakóotʼi)
 óotʼ	noun	rock trap
 √.utl	root	boil fish
 útlx̱i	noun	boiled fish (< √.utl ‘boil fish’)
@@ -840,7 +842,7 @@ daa	pron	what wh-question (cf. daa ‘around’)
 daat	pron	what wh-question (< daa ‘what’ + -t)
 dáa	noun	weasel (cf. kóoshdaa ‘land otter’)
 dáa	pcl	let it be so; (cf. dáashéiwéixʼ ‘be quiet, that’s enough’)
-kóoshdaa	noun	land otter (cf. dáa ‘weasel’)
+kóoshdaa	noun	land otter (< kóosh- unknown + daa; cf. dáa ‘weasel’)
 √daʼÿ	root	exclaim, scold
 daaw	noun	broad kelp
 daawáa	noun	Indian chess (<? √daʼÿ or √da)
@@ -1042,6 +1044,7 @@ seig̱atáanaa	noun	berrying basket (< sé ‘throat’ + √tan ‘handle’)
 náax̱.ag̱ataan	noun	stakes driven into bottom of stream (< √tan ‘handle’)
 tundatáan	noun	thought (< tu- ‘mind’ + √tan ‘handle’)
 yoox̱ʼatánk	noun	speech (< x̱ʼa- ‘mouth’ + √tan ‘handle’)
+kootánaa	noun	paddle for stirring fish while rendering (< √tan + -áa)
 √tan	root	fish jump
 √tan	root	hook squid or octopus
 táanaa	noun	octopus spear (< √tan ‘hook squid or octopus’)
@@ -1051,7 +1054,7 @@ séewkooshtaneit	noun	swallow (< séew ‘rain’ + √tan ‘habituated’)
 √tánu	root	gripe, complain, mutter
 sʼigeiditaan	noun	bat (< sʼigeidí ‘beaver’ + taan unknown)
 taan	noun	sea lion
-taan	noun	people of a house group (mostly in clan names)
+taan	noun	people of a house group in clan names
 ḵutaan	noun	summer
 taanú	noun	umbilical cord (cf. taanwú, táani)
 taanwú	noun	umbilical cord (cf. taanú, táani)
@@ -1615,7 +1618,7 @@ tlʼénx̱i	noun	shabby, messy (cf. lʼénx̱i, lʼúx̱ʼti, √tlʼéin, tlʼ�
 tlʼéinaa	noun	hair tie (< tlʼéenaa)
 tlʼéinaa	noun	three-pronged stick for barbecuing salmon
 √tlʼetʼ	root	grasp tightly, climb
-kootlʼéitʼaa	noun	small white seagull (< √tlʼetʼ; cf. koochʼéitʼaa)
+kootlʼéitʼaa	noun	pigeon guillemot (< √tlʼetʼ; cf. koochʼéitʼaa)
 tlʼéili	noun	milt; fish guts
 tlʼétlʼ	noun	moonfish, blowfish
 tlʼéxwti	noun	ill-fitting, ugly (cf. tlʼénx̱i, lʼénx̱i, lʼúx̱ʼti)
@@ -2163,7 +2166,7 @@ Jeeshḵweidí	name	clan name (< jeesh-ḵú + -eit + -í)
 jeeg̱í	noun	kidney of fish
 kajeeg̱í	noun	scales of fish (> kajeig̱í; cf. √jiḵ ‘scale fish’)
 jig̱ei	noun	crook of arm, embrace (< jín + g̱ei)
-jikóol	noun	back of hand (< jín + kóol)
+jikóol	noun	back of hand (< jín + -kóol)
 √jix̱ʼw	root	sling, fling (> √jux̱ʼ)
 jíx̱ʼwaa	noun	sling (< √jix̱ʼw)
 √jeḵ	root	scale fish (< √jiḵ; cf. kajeig̱í ‘scales’)
@@ -2281,7 +2284,7 @@ luchʼéix̱ʼw	noun	dirty nose (< lú + chʼéix̱ʼw)
 chʼéen	noun	hair ribbon (cf. √chʼiʼn, √tlʼin, tlʼéenaa)
 chʼéeni	noun	calyx and stem of berry (< chʼéen, shakasʼídi)
 ḵʼaluchʼéeni	noun	philtrum (< ḵʼa- ‘mouth’ + lú ‘nose’ + chʼéen ‘ribbon’)
-lakʼichʼchʼéeni	noun	merganser crest, ponytail  (< lakʼíchʼ + chʼéen)
+lakʼichʼchʼéeni	noun	merganser crest, ponytail  (< lakʼichʼ- + chʼéen)
 chʼeet	noun	auklet or murrelet
 chʼeetg̱áa	noun	skate (<? chʼeet + -g̱áa)
 ḵʼeichʼeedí	noun	packrat (<? ḵʼa- + chʼeet + -í)
@@ -2419,7 +2422,7 @@ hintakxóodzi	noun	polar bear (< héen ‘water’ + táak + xóots ‘brown bea
 xoodzí	noun	partly burnt wood (< √xuʼts)
 √xuʼsh	root	singe, scorch (cf. √xuʼts, √xwaʼts)
 xóoshtʼ	noun	burnt stuff (√xuʼsh + -tʼ)
-√xuk	root	dry (cf. xook, √xak)
+√xuk	root	dry (cf. xook, √xak, √kux)
 xook	adj	dry (cf. √xuk, √xak)
 gantuxoogú	noun	dry inner firewood (< gán ‘firewood’ + tú + xook)
 kaxook	noun	powder, in sakwnéin kaxook ‘flour’, éilʼ kaxook ‘salt’ (< xook)
@@ -2429,7 +2432,7 @@ xwáaxʼu	noun	sidekicks, lackeys, henchmen (< xwáa + -xʼ, rounding <? *ʷ)
 √xwaʼn	root	frosty; silvered (cf. kaxwaan, x̱akaxwaan)
 kaxwaan	noun	frost (cf. √xwaʼn, x̱akaxwaan)
 x̱akaxwaan	noun	silver fox (< x̱aaw + kaxwaan or √xwaʼn)
-x̱ʼadaatlaxwáni	noun	white whiskers (< x̱ʼé + daa + -t + l- + √xwaʼn + -í)
+x̱ʼadaatlaxwáni	noun	white whFritillaria camschatcensisiskers (< x̱ʼé + daa + -t + l- + √xwaʼn + -í)
 sʼixwaadáa	noun	kind of basket
 xwaasdáa	noun	canvas (<? √xwàast unknown)
 √xwaʼts	root	paint black (cf. √xuʼts ‘scorch’, √xuʼsh ‘singe’, shalxwáts)
@@ -2732,7 +2735,8 @@ k-	affix	small round object qualifier prefix in verbs (< ká; cf. ka-)
 ka-	affix	small round object qualifier prefix in verbs (< ká; cf. k-)
 ká	noun	horizontal surface, top of, flat of (> ka-, k-)
 káaxʼ	ppn	according to; on (< ká + -xʼ)
-x̱ʼakooká	noun	answering (< x̱ʼé + koo unknown + ká)
+kooká	noun	motivation, reason, meaning (< koo- unknown + ká)
+x̱ʼakooká	noun	answering (< x̱ʼé + kooká)
 keeká	noun	across from, other side, facing (< keek + ká)
 káa	noun	car, automobile (< Eng. car)
 √kàa	root	lazy (with irrealis)
@@ -2851,19 +2855,71 @@ kookítsʼaa	noun	seesaw, teeter-totter (< √kítsʼaa)
 kéech	noun	dead fish odor, stench of rot, smell of decay (cf. √kiʼch)
 atkíji	noun	stink of excrement (< √kiʼch; cf. kéech)
 kích	noun	halibut bait (< √kiʼch)
-kichdéin	adv	stenchily, smelly (< √kiʼch + -déin)
+kichdéin	adv	smelly, stinking (< √kiʼch + -déin)
 kích	noun	tinder, firestarter
 kíji	noun	wing
 kich-	affix	in kichx̱.anagaat ‘rainbow’
 √kik	root	shake, shake out
 kík	noun	alongside, next to, side of (cf. kígi, keek)
 kígi	noun	one of a pair, half of a symmetrical object (cf. kík, keek)
+diskígi	noun	half moon (< dís + kígi)
 keek	noun	alongside, next to, side of (cf. kík, kéekʼ, kéilkʼ, keeká)
 kiksyáan	noun	baby killerwhale
 keegí	noun	afterbirth, placenta (<? keek)
-
+√kuʰ	root	know; say proverbially
+atwuskú	noun	knowledge (< √kuʰ ‘know’)
+atwuskóowu	noun	witness, knower, intelligent person (< √kuʰ ‘know’)
+yaa.atnaskwéini	noun	learner, student (< √kuʰ ‘know’)
+yax̱.atg̱wakú	noun	saying, proverb (< √kuʰ ‘say proverbially’)
+yax̱.atduakú	noun	saying, proverb (< √kuʰ ‘say proverbially’)
+√ku	root	spit liquid; hold liquid in mouth
+kú	noun	fish’s tail (cf. koowú)
+koowú	noun	fish’s or bird’s tail (cf. kú)
+dawaakú	noun	tobacco (< Eng. tobacco; cf. tuwaakú)
+tuwaakú	noun	tobacco (< Eng. tobacco)
+koo-	affix	in kooká ‘motivation, reason’ and x̱ʼakooká ‘answering’
+kóow	noun	lady-slipper, slipper limpet, Crepidula species (cf. koow)
+koow	noun	lady-slipper, slipper limpet, Crepidula species (cf. kóow)
+kóon	noun	hem, bottom edge of garment
+kóon	noun	flicker woodpecker, Colaptes auratus
+kóonaayei	noun	northwestern chipmunk (< Dene)
+kút	noun	nest, den (cf. kúdi)
+kúdi	noun	nest, den (< kút + -í) 
+kool	noun	navel; whirlpool with haat ‘current’
+-kóol	affix	in jikóol ‘back of hand’
+ḵʼalukakúltʼi	noun	hole in rawhide for thong (< ḵʼa- + lú + √kúltʼ unknown)
+√kutl	root	fluff up, puff up (cf. √kutlʼ)
+√kutlʼ	root	fart quietly; puff up, fluff up (cf. √kutl, √kuchʼ)
+kóotlʼ	noun	noiseless fart (cf. √kutlʼ, kóochʼ)
+√kus	root	dog alert; dog dream
+√koodzí	root	amazing, wonderful
+kootskʼí	interj	oh my (cf. √koodzí ‘amazing’)
+kóosh-	affix	in kóoshdaa ‘land otter’
+kakúshtʼi	noun	pocket of pitch, pitchy bud of tree
+√kuchʼ	root	fart quietly (cf. √kutl, √kutlʼ)
+kóochʼ	noun	noiseless fart (cf. √kuchʼ, kóotlʼ)
+√kuchʼ	root	curly (cf. √kutl, √kutlʼ)
+kakóochʼi	noun	fiddlehead of fern (< ká + √kuchʼ ‘curly’)
+√kux	root	dry; thirsty; bail out boat (cf. √xuk, kóox)
+kóox	noun	rice; Kamchatka lily, Fritillaria camschatcensis (<? √kux ‘dry’)
+√kuḵ	root	pile fall; bubble and boil; fish rush in mass
+tekakúḵxʼ	noun	rockslide (< té + ká + √kuḵ)
+kúḵjaa	noun	drip with bubbles (< √kuḵ)
+kúḵdlaa	noun	large bubbles from whale (< √kuḵ)
+kóoḵ	noun	pit; underground cache, cellar
+lakʼichʼkóog̱u	noun	pit below occipital bun (< lakʼichʼ- + kóoḵ + -í)
+ÿeekóog̱u	noun	grave (< ÿee ‘below’ + kóoḵ ‘pit’)
+lʼálkóog̱u	noun	depression with jackpine in it (< lʼál + kóoḵ + -í)
+Kooḵhittaan	name	Raven clan in Teslin (kóoḵ ‘pit’ + hít ‘house’ + taan)
+kooḵtáak	noun	cave (< kóoḵ ‘pit’ + táak ‘inside surface’)
+kóox̱ʼ	noun	dry Indian celery stalk
+shadakóox̱ʼ	noun	hat ring (< shá + daa + kóox̱ʼ)
 -kw	affix	repetitive suffix on verbs (cf. -k)
+√kwan	root	plural wade, swim on surface
+kwáan	noun	smallpox (<? Eng. quarantine, perhaps < CJ *kwántin < Eng.)
+√kwaʼt	root	blacken with smoke
 tsʼankwaat	noun	spider (cf. tsʼawkaat)
+kwás	noun	aged urine; outhouse, toilet
 
 xʼéesʼát	noun	shrimp (<? √xʼisʼ ‘tangled’; cf. sʼéexʼát ‘shrimp’)
 chʼax̱ʼínx̱ʼ	noun	mallard (cf. kindachooneit)
