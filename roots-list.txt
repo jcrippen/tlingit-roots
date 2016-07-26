@@ -85,7 +85,8 @@ héen	noun	fresh water; river
 tleḵwkahínti	noun	watermelon berries (< tléiḵw ‘berry’ + héen ‘water’)
 héengé	interj	you see? (< iyatéen gé ‘do you see?’)
 hít	noun	house, building
-√hits	root	singe fur
+daakahídi	noun	building, house (< daa + ká + hít + -í; cf. daakéedi)
+√hits	root	singe fur (> √kits ‘singe fur’)
 √hisʼ	root	borrow
 √hich	root	spy on
 √hixw	root	bewitch
@@ -480,7 +481,7 @@ lḵukanÿáaxʼ	adv	for nothing, for no purpose
 ÿé	noun	place, way, manner, circumstance, time (cf. yéi ‘thus’)
 √ÿéi	root	strange, weird (cf. √yàa ‘strange’)
 ÿeit	noun	thing below (< ÿee + át)
--ÿeit	affix	thing (< –ÿi + át; cf. -weit, -neit, -deit, -teit, -jeit)
+-ÿeit	affix	thing (< –ÿi + -eit; cf. -weit, -neit, -deit, -teit, -jeit)
 ÿeiḵ	noun	beach (< éeḵ ‘beach’)
 -ÿí	affix	possessive, suffix on possessed nouns (cf. -í)
 ÿee	noun	below
@@ -575,7 +576,7 @@ wéinaa	noun	chalk (< √wu ‘pale’)
 yawéinaa	noun	face powder (< √wu ‘pale’)
 ÿéinaa	noun	white sand (< √wu ‘pale’)
 Jiskʼuwéinayi	name	Alkali Flats above Warm Bay
--weit	affix	thing (< -wu + át; cf. -ÿeit, -neit, -deit, -teit, -jeit)
+-weit	affix	thing (< -wu + -eit; cf. -ÿeit, -neit, -deit, -teit, -jeit)
 √weʼt	root	menstruate
 wéitadi	noun	menstruant
 Naawéiján	name	Norwegian (< Eng.)
@@ -708,7 +709,7 @@ tʼukanéiÿi	noun	baby (< tʼook ‘cradleboard’ + √neʼÿ ‘fiddle, twidd
 tsʼeig̱eenéi	noun	magpie (cf. tsʼeig̱eenée)
 tsʼeig̱eenée	noun	magpie (cf. tsʼeig̱eenéi)
 sakwnéin	noun	flour, bread (< CJ saplél < unknown)
--neit	affix	thing (< -ni + át; cf. -weit, -ÿeit, -deit, -teit, -jeit)
+-neit	affix	thing (< -n + -eit; cf. -weit, -ÿeit, -deit, -teit, -jeit)
 √net	root	tremble
 nakwnéit	noun	priest, pastor (< CJ ləplét < Fr. le prêtre)
 wuknéit	noun	priest (< nakwnéit)
@@ -886,10 +887,11 @@ dáxw	noun	lowbush cranberry (cf. dúx)
 dákwl	noun	fish split and hung to dry
 √dak	root	bake in pit (cf. √dakw ‘render’)
 √dak	root	croak like frog
-dáak	dirn	out to sea (cf. dák, deikée)
-dák	dirn	out to sea (cf. dáak, deikée)
-deikée	dirn	out to sea (cf. dáak, dák)
+dáak	dirn	out to sea (> dák, deikée, diginaa)
+dák	dirn	out to sea (< dáak; cf. deikée)
+deikée	dirn	out to sea (< dáak + kée; cf. dák)
 diginaa	noun	out to sea (< deikée + niÿaa)
+daginaa	noun	out to see (< diginaa)
 Deikeenaa	name	Haida (< deikée + naa)
 ixdáak	noun	close to door, entrance (< éex + dáak)
 dáakdaa	noun	doctor (< Eng.; cf. dáaktaa)
@@ -940,7 +942,7 @@ tlʼaag̱eendéi	noun	leech
 táatlʼeeshdéi	noun	blackbird
 déin	noun	area, vicinity (cf. -déin)
 -déin	affix	adverbial suffix (< déin ‘area, vicinity’)
--deit	affix	thing (< -di + át; cf. -weit, -ÿeit, -neit, -teit, -jeit)
+-deit	affix	thing (< -d + -eit; cf. -weit, -ÿeit, -neit, -teit, -jeit)
 √del	root	protect, guard
 déili	noun	harbour (< √del ‘protect, guard’)
 déisaa	noun	clam juice for seasoning (< *√des unknown)
@@ -1127,7 +1129,7 @@ téitlʼ	noun	animal fat (< √tetlʼ; cf. taaÿ ‘fat’, téelʼ ‘dog salmo
 suḵtéitlʼ	noun	goosetongue (< sooḵ ‘wide grass’ + téitlʼ ‘fat’)
 √tesʼ	root	flabby, limp
 téisʼ	noun	flab (< √tesʼ ‘limp, flabby’)
--teit	affix	thing (< -t + -i + át; cf. -ÿeit, -weit, -deit, -neit, -jeit)
+-teit	affix	thing (< -t + -eit; cf. -ÿeit, -weit, -deit, -neit, -jeit)
 √tex̱	root	moisture condense (cf. √tax̱ ‘moisture condense’)
 ḵukatéx̱	noun	dew (< √tex̱ ‘moisture condense’)
 √tex̱	root	smell acrid
@@ -1203,7 +1205,7 @@ tú	noun	self; in PPs like tóo < tú + -xʼ (cf. dú)
 √tu	root	clever
 tú.á	interj	smart move, good one (sarcastic?)
 toow	noun	tallow (< *tuʰm)
-kintóow	noun	icicle (cf. kintóodzi)
+kintóow	noun	icicle (< kín + tóow unknown; cf. kintóodzi)
 tóotʼ	noun	wood waste from chopping tree? (L78: 26)
 √tul	root	drill; spin; roll up (cf. √duchʼ, √dutlʼ, √dusʼ, √tuʼl)
 túlaa	noun	drill (< √tul ‘drill, spin’)
@@ -2555,6 +2557,7 @@ tuwulagéil	noun	braided seal intestine
 géis	interj	come here, dog call, animal call
 gés	interj	come here, dog call, animal call
 √géis	root	entice, call dog, call animal (< géis ‘dog call’)
+géxtlʼ	noun	pumice (cf. kéxwk, √kéxwk)
 √gekw	root	roe, egg sack be loose (> kadagéigu)
 kadagéigu	noun	loose roe (< √gekw)
 √geʼḵ	root	come to harm, die; harmful, objectionable, poisonous; restrain
@@ -2730,7 +2733,7 @@ ka-	affix	small round object qualifier prefix in verbs (< ká; cf. k-)
 ká	noun	horizontal surface, top of, flat of (> ka-, k-)
 káaxʼ	ppn	according to; on (< ká + -xʼ)
 x̱ʼakooká	noun	answering (< x̱ʼé + koo unknown + ká)
-keeká	noun	across from, other side, facing (cf. ká, kée, shakée, deikée)
+keeká	noun	across from, other side, facing (< keek + ká)
 káa	noun	car, automobile (< Eng. car)
 √kàa	root	lazy (with irrealis)
 √kàa	root	make gestures
@@ -2742,7 +2745,7 @@ shkáaw	noun	scow (< Eng. scow; cf. shgáaw)
 √kan	root	dance in return
 kánaa	noun	flag, dance staff (< √kan ‘dance in return’)
 chookán	noun	grass (cf. PD *kʸən ‘tundra’)
-keekán	noun	vantage point, observation point (cf. keeká, kaakán)
+keekán	noun	vantage point, observation point (< keek + -kán unknown)
 kaakán	noun	vantage point, observation point (> ḵukaakán; cf. keekán)
 ḵukaakán	noun	vantage point, observation point (< ḵu- + kaakán)
 g̱uwakaan	noun	deer (cf. ḵuwakaan)
@@ -2774,6 +2777,90 @@ kax̱ÿee	noun	ceiling (< kax̱ unknown + ÿee ‘below’; cf. lʼag̱akáx̱ �
 lʼag̱akáx̱	noun	west wind (cf. kax̱ÿee ‘ceiling’
 tsʼéekáx̱kʼw	noun	bog blueberry, Vaccinium uliginosum (< √kax̱ unknown)
 káx̱.aa	noun	heart of the matter, final object (< ká + -x̱ + aa)
+√ke	root	caught in throat
+√ke	root	track, trail; unravel, undo (> kakéin, kakéwkti; cf. √kelʼ)
+kakéin	noun	yarn (< √ke)
+x̱ʼakaskéin	noun	unfinished basket (< x̱ʼé + √ke)
+dakéigwaa	noun	undoer in kasʼéet dakéigwaa ‘wrench’ (< √ke)
+x̱ʼakakéix̱i	noun	chain (< √ke)
+kakékwti	noun	unraveled part at hem (< √ke)
+-keit	affix	thing (< -k + -eit, ká + át)
+wooshkéit	noun	racing (<? woosh + ká + √.at)
+sekookéiÿaa	noun	sash (<? √ke; cf. koogéinaa)
+kéitʼu	noun	stone pick, axe (cf. Haida kitʼáaw)
+√kel	root	callous
+√kel	root	soak
+kéilkʼ	noun	man’s sister’s child (cf. káalkʼw)
+kélkʼ	noun	man’s sister’s child (vocative; cf. kéilkʼw)
+keitl	noun	dog (< *√kal ‘bark’; cf. kéidladi ‘seagull’)
+kéidladi	noun	seagull (cf. kéitl.adi, kéiladi)
+kéitl.adi	noun	seagull (cf. kéidladi, kéiladi)
+kéiladi	noun	seagull (cf. kéidladi, kéitl.adi)
+√kelʼ	root	take apart, untie (cf. √ke)
+√kelʼ	root	plural run away
+√kelʼ	root	burn to ashes (> kéilʼ, kélʼtʼ ‘ashes’)
+kéilʼ	noun	ashes (< √kelʼ ‘burn to ashes’; cf. kélʼtʼ)
+kélʼtʼ	noun	ashes (< √kelʼ ‘burn to ashes’; cf. kéilʼ)
+√kets	root	become alert; goad, urge to do wrong
+√kets	root	loosely piled up snow (> kakétskw; cf. √kéxwk)
+kakétskw	noun	light dry snow (< √kets)
+√kesh	root	spawn
+keish-	affix	in keishtéel ‘moccasins’
+keishtéel	noun	moccasins
+√kéxwk	root	light, insubstantial, fluffy; porous (cf. kéxwk, kakéxwk, √kets)
+√kéxwt	root	light, insubstantial, fluffy; porous (cf. √kéxwt)
+kéxwk	noun	pumice, also té kéxwk with té ‘stone’ (cf. √kéxwk, géxtlʼ)
+kakéxwk	noun	light dry snow (cf. √kéxwk, kakéxwk)
+keigú	noun	lungs
+kéigán	noun	snowy owl
+√kexʼw	root	crane neck, rubberneck
+√kekʼw	root	thunder
+kéekʼ	noun	younger sibling of same sex (cf. kík, keek, kéilkʼ)
+kíkʼ	noun	younger sibling of same sex (vocative; cf. kéekʼ)
+x̱ux̱kéekʼ	noun	husband’s younger brother (< x̱úx̱ + kéekʼ)
+shatkéekʼ	noun	wife’s younger sister (< shát + kéekʼ)
+kée	dirn	up, above (cf. dikée, kín, kéi, kei=)
+dikée	dirn	up, above (< di- unknown + kée)
+kéi	dirn	up, above (cf. kée)
+kei=	adv	up, upward adverb with verbs (cf. kée, kéi, kéi=)
+kéi=	adv	up, upward adverb with verbs (cf. kée, kéi, kei=)
+kín	dirn	up, above (cf. kée, dikée, kéi, kei=)
+keeÿ	noun	knee
+lkeeÿiÿáag̱aa	adv	longer than necessary (< l + keeÿi unknown + ÿá + -g̱áa)
+√kiʼn	root	bothered by noise (> √kéenaa; cf. √kit ‘snore’)
+√kéenaa	root	noisy (< √kiʼn + -áa)
+√kit	root	snore (cf. √kiʼn ‘bothered by noise’, kéet ‘killerwhale’)
+kéet	noun	killerwhale (cf. √kit ‘snore’)
+daakéedi	noun	building, house (< daakahídi)
+daakídi	noun	building, house (< daakahídi)
+√kitʼ	root	jammed, stuck (> kítʼaa, kookítʼaa)
+kítʼaa	noun	peavy, prybar (< √kitʼ + -áa)
+kookítʼaa	noun	shovel (< √kitʼ + -áa)
+kéel	noun	auklet or murrelet (cf. sakéel)
+sakéel	noun	animal e.g. dog with white spot at base of neck (cf. kéel)
+√kis	root	inform (>? kées ‘bracelet’)
+kées	noun	bracelet (<? √kis ‘inform’, originally identity marker?)
+√kits	root	singe fur (< √hits ‘singe fur’)
+√kitsʼ	root	tip, rock, totter (> kookítsʼaa, √kítsʼaa)
+√kítsʼaa	root	play on seesaw, teeter-totter (> kookítsʼaa)
+kookítsʼaa	noun	seesaw, teeter-totter (< √kítsʼaa)
+√kisʼ	root	extinguish, put out flame
+√kich	root	gasp breathelessly; sob, cry
+√kich	root	housewarming
+√kiʼch	root	putrefy, rot in sun (cf. kéech)
+kéech	noun	dead fish odor, stench of rot, smell of decay (cf. √kiʼch)
+atkíji	noun	stink of excrement (< √kiʼch; cf. kéech)
+kích	noun	halibut bait (< √kiʼch)
+kichdéin	adv	stenchily, smelly (< √kiʼch + -déin)
+kích	noun	tinder, firestarter
+kíji	noun	wing
+kich-	affix	in kichx̱.anagaat ‘rainbow’
+√kik	root	shake, shake out
+kík	noun	alongside, next to, side of (cf. kígi, keek)
+kígi	noun	one of a pair, half of a symmetrical object (cf. kík, keek)
+keek	noun	alongside, next to, side of (cf. kík, kéekʼ, kéilkʼ, keeká)
+kiksyáan	noun	baby killerwhale
+keegí	noun	afterbirth, placenta (<? keek)
 
 -kw	affix	repetitive suffix on verbs (cf. -k)
 tsʼankwaat	noun	spider (cf. tsʼawkaat)
