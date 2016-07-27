@@ -3,25 +3,38 @@
 This is a collection of documented roots and other parts of speech in the
 Tlingit language, meant for reference and linguistic research. The structure of
 the file is very simple so that it can be easily parsed by text processing
-tools. The contents are derived from Leer’s stem and verb documentation.
+tools. The contents are mostly derived from Leer’s stem and verb documentation,
+with additions from various sources like Edwards 2009, later Leer materials,
+and other researchers inclduing my own fieldwork.
 
+* Naish & Story 1963: http://www.uaf.edu/anla/item.xml?id=TL959NS1963g
 * Leer 1973: http://www.uaf.edu/anla/item.xml?id=TL962L1973g
+* Leer 1975: http://www.uaf.edu/anla/item.xml?id=TL962L1975i
 * Leer 1976: http://www.uaf.edu/anla/item.xml?id=TL962L1975n
 * Leer 1978: http://www.uaf.edu/anla/item.xml?id=TL962L1975m
+* Leer 1978: http://www.uaf.edu/anla/item.xml?id=TL962L1978c
+* Leer 1978: http://www.uaf.edu/anla/item.xml?id=TL962L1978g
+* Leer 1978: http://www.uaf.edu/anla/item.xml?id=TL962L1978i
+* Leer 1978: http://www.uaf.edu/anla/item.xml?id=TL962L2000
+* Leer 2001: http://www.uaf.edu/anla/item.xml?id=TL962L2001
+* Edwards 2009: http://www.uaf.edu/anla/item.xml?id=TL005E2009
 
 This collection is meant to be exhaustive for verb roots, but not for nouns.
-Compounding and other nominal morphology make the noun inventory potentially
-far larger than the verb root inventory. Most if not all monomorphemic nouns
-are represented, but only a selection of interesting nouns of other kinds
-are included.
+Verbal derivation is relatively limited but nominal derivation through
+compounding and other morphology makes the noun inventory practically infinite.
+Most if not all monomorphemic nouns and borrowings are represented, but only
+a selection of interesting compounds and other nouns are included.
 
-The coverage of other parts of speech aims to be exhaustive. Particular
-emphasis is given to interjections, directionals, underived adjectives,
-underived adverbs, postpositions, pronouns, determiners, and demonstratives.
+The coverage of other parts of speech aims to be exhaustive but this is not
+achieved at present. Particular attention has been paid to interjections,
+directionals, underived adjectives, and underived adverbs. Other parts of
+speech that need more representation are postpositions and postpositional
+phrases, determiners, demonstratives, pronouns, and verb morphemes.
 
 Names are included mostly to illustrate otherwise rare lexical items. The
-majority of included names are ethnonyms, clan names, and place names.
-Personal names are generally limited to legendary and mythical figures.
+vast majority of included names are ethnonyms, clan names, and place names.
+Personal names are generally limited to legendary and mythical figures, to
+avoid issues with clan ownership.
 
 ## File structure
 
@@ -31,7 +44,7 @@ that [newlines](https://en.wikipedia.org/wiki/Newline) are represented by
 U+000A Line Feed.) Each entry line is divided into three columns, and these
 columns are separated by tabs (U+0009 Character Tabulation).
 
-* `column1 → column2 ⇥ column3`
+* `column1 → column2 → column3`
 
 The first column, `column1` above, is the entry datum. This is a single word
 without any spaces, possibly preceded by a `√` root sign (U+221A Square Root)
