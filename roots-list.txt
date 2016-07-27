@@ -1597,7 +1597,7 @@ lʼóotʼ	noun	tongue
 lʼook	noun	coho salmon, silver salmon
 √lʼuxʼ	root	gulp, drink up
 √lʼux̱ʼ	root	spray milt, spawn; cloud water
-lʼóox̱'	noun	milt
+lʼóox̱ʼ	noun	milt; cloudy or milky water
 lʼúx̱ʼti	noun	worn (cf. lʼénx̱i, tlʼénx̱i, √tlʼéin)
 tlʼa-	affix	in tlʼag̱áa ‘lots’ (cf. chʼa)
 tlʼag̱áa	adv	lots (< tlʼa- unknown + -g̱áa ‘adessive’)
@@ -2984,7 +2984,68 @@ dákdesaxʼaak	noun	mackerel (< dáak + -dé + s- + √xʼak ‘fish swim’)
 xʼáaxʼ	noun	crabapple, apple
 √xʼaḵw	root	come to end, die out; forget
 √xʼaḵw	root	situate comfortably
-
+xʼéig̱aa	adv	truely, really; directly (< xʼéi- unknown + -g̱áa)
+√xʼet	root	hunting in asxʼeit woogoot ‘he went hunting’ (cf. √xʼit)
+xʼéitaa	noun	cutthroat trout (cf. x̱ʼwáatʼ)
+xʼéixʼu	noun	gill of fish
+xʼéix̱	noun	spider crab
+√xʼin	root	grimace, scrunch up face, flinch
+√xʼit	root	uproot, pull out by roots
+xʼéetadi	noun	uprooted stump (< √xʼit)
+xʼéedadi	noun	uprooted stump (< √xʼit)
+√xʼit	root	hunting in asxʼeet woogoot ‘he went hunting’ (cf. √xʼet)
+√xʼis	root	swell up (cf. xʼees ‘boil, furuncle’)
+xʼees	noun	boil, furuncle, folliculitis (cf. √xʼis ‘swell up’)
+√xʼisʼ	root	tangled, matted (cf. xʼéesʼi ‘matted hair’)
+xʼéesʼi	noun	matted hair, dreadlocks (cf. √xʼisʼ ‘tangled, matted’)
+aasdaaxʼéesʼi	noun	witch's broom, tangled nest of branches
+jiklixʼéesʼ	noun	wrist (< jín + ká + l- + √xʼisʼ ‘tangled’)
+yaxʼéesʼ	noun	hair hanging over eyes (< ÿá ‘face’ + √xʼisʼ ‘tangled’)
+x̱axʼísʼ	noun	lion (< x̱aaw ‘fur’ + √xʼisʼ ‘tangled, matted’)
+suḵxʼéesʼi	noun	tangled grass roots (< sooḵ + xʼéesʼi)
+xʼisʼshantú	noun	center of octopus, squid, devilfish tentacles
 xʼéesʼát	noun	shrimp (<? √xʼisʼ ‘tangled’; cf. sʼéexʼát ‘shrimp’)
+√xʼish	root	skin, remove skin from (> xʼíshaa)
+xʼíshaa	noun	skinning knife (< √xʼish ‘skin’)
+xʼeesháa	noun	bucket (< *√xʼish unknown)
+inxʼeesháa	noun	bottle, jug (< ín ‘obsidian, glass’ + xʼeesháa ‘bucket’)
+xʼéeshaa	noun	great-grandmother (obscure; in L78: 65)
+√xʼixʼ	root	bite small bits, nip
+√xʼu	root	wear blanket, cape (cf. xʼóow)
+xʼóow	noun	blanket (cf. √xʼu)
+eesháanxʼóow	noun	south wind (< eesháan + xʼóow)
+√xʼu	root	drive in nail or peg, hammer home (cf. kaxʼóo, kaxʼwéisʼ)
+kaxʼóo	noun	peg (cf. √xʼu ‘drive nail, peg’, kaxʼwéisʼ ‘peg’)
+kaxʼwéisʼ	noun	peg (cf. √xʼu ‘drive nail, peg’, kaxʼóo ‘peg’)
+xʼoon	pron	how much wh-question (> xʼun)
+xʼun	pron	how much wh-question (< xʼoon)
+daaxʼoon	num	four
+√xʼutʼ	root	glide
+√xʼutʼ	root	scratch, incise
+√xʼutʼ	root	link index fingers and pull as test of strength (cf. xʼóotʼaa)
+xʼóotʼaa	noun	index fingers, pullers (< √xʼutʼ + -áa)
+√xʼulʼ	root	riptide, skookumchuck, seethe; rampage, boisterous (cf. xʼóolʼ)
+xʼóolʼ	noun	boiling tide, riptide, skookumchuck, whirlpool; commotion
+√xʼulʼ	root	pluck, pull hair or feathers
+daalaxʼúlʼaa	noun	hair puller, hair scraper
+xʼúsʼ	noun	club (< xʼwásʼ)
+shaxʼúsʼ	noun	club for hitting on the head (< shá ‘head’ + xʼúsʼ)
+haaÿeexʼúsʼi	noun	coral (< haa ‘our’ + ÿee ‘below’ + xʼúsʼ ‘club’ + -í)
+√xʼuk	root	steam, steamy
+xʼúkjaa	noun	steam (< √xʼuk ‘steam’ + -ch + -áa)
+xʼóogaa	noun	steamer, basket for steaming (< √xʼuk + -áa)
+xʼúxʼ	noun	membrane; paper, letter, book
+aanx̱ʼaÿeexʼúxʼu	noun	town newspaper (< aan + x̱ʼé + ÿee + xʼúxʼ + -í)
+xʼwán	noun	boot
+√xʼwánjáḵw	root	take off boot (< xʼwán ‘boot’ + -ch + -áḵw ‘lacking’)
+lʼeexʼwán	noun	sock (< lʼée ‘blanket’ + xʼwán ‘boots’)
+xʼwantu.át	noun	liner of boot (< xʼwán ‘boot’ + tú + át)
+xʼwán	pcl	urgent imperative
+xʼwásʼ	noun	club (> xʼúsʼ)
+√xʼwásʼḵ	root	numb, loss of circulation (< *√xʼwasʼ + -ḵ ‘lacking’)
+hintakxʼwásʼg̱i	noun	bufflehead duck (< héen + táak + √xʼwásʼḵ + -í)
+xʼwéil	noun	post of fish trap
+xʼweiḵ	noun	winterberry, sorrel berry, but plant is unidentified
+
 chʼax̱ʼínx̱ʼ	noun	mallard (cf. kindachooneit)
 shax̱ʼéegwálʼ	noun	hair clip, barrette
