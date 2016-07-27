@@ -10,17 +10,18 @@
 √ha	root	become located
 √ha	root	(un)obvious (neg. only)
 háʼ	interj	surprise
-haaⁿ	dirn	here, hither
-shkʼaandé	interj	gimme (< shkʼé haaⁿ-dé)
-haa	pron	our, us, first person plural possessor or object
+haa	dirn	here, hither (cf. haa ‘our, us’)
+haandé	ppn	here, hither (< haa ‘here’ + -dé ‘toward’)
+haa	pron	our, us, first person plural possessor, object (cf. haa ‘here’)
 haa	interj	well then (< haaw)
-ha.é	interj	sheesh, oh you (<? wa.é)
-haahá	interj	annoyance
-haahée	interj	gimme (< haaⁿ)
+ha.é	interj	sheesh, oh you, bad pun, dumb joke (<? wa.é)
+haahá	interj	yes, indeed (cf. aaá, aahá); annoyance, irritation
+haahée	interj	gimme, give it here, let me see (< haa + hée unknown; > shkʼáay)
+haayée	interj	gimme, give it here, let me see (< haahée)
 tuháaÿi	noun	nail (<? tú ‘inside’ + √ha ‘become located’)
 haaw	noun	hemlock branch
 haaw	interj	well then (< *haam)
-hawháw	interj	astonishment
+hawháw	interj	astonishment (< haaw)
 kuhaawú	noun	beaver tail
 √han	root	sg. stand
 √han	root	adopt, raise
@@ -116,9 +117,9 @@ hóochʼ	noun	finished, used up
 hóhó	interj	emphasis with gunalchéesh ‘thank you’
 yeihó	interj	unknown exclamation, canoeing?, hauling?
 √.a	root	end move; grow; examine (cf. √.éiyáḵw ‘incapacitated’)
-√.a	root	sg. sit
+√.a	root	sg. sit (<? √.a ‘end move, grow’)
 éinaa	noun	drying rack (< √.a ‘sg. sit’)
-√.a	root	delay
+√.a	root	delay (<? √.a ‘end move, grow’)
 á	pron	it, third person nonhuman; there, location
 á	pcl	focus particle (< á ‘it, third person nonhuman’)
 a-	pron	third person nonhuman object; fourth person human subject (mot.)
@@ -142,8 +143,8 @@ gu.aal	pcl	hopefully (< gu.aa ‘hopefully’ + l ‘negative’; but not negati
 ḵwaa	pcl	however (< ḵu.aa)
 áa	noun	lake
 naasa.áa	noun	tool case
-aaá	interj	yes (< aahá ‘yes’)
-aahá	interj	indeed (> aaá ‘yes’)
+aaá	interj	yes (< *ʔaʰa < *ʔaːha; cf. aahá ‘yes’, haahá ‘annoyance’)
+aahá	interj	indeed (< *ʔaːha; cf. aaá ‘yes’, haahá ‘annoyance’)
 dix̱ʼkana.áaÿi	noun	moose’s hump (< díx̱ʼ ‘spine’)
 √.aʼw	root	strap (cf. ÿa.áawu, shuka.áwli)
 ÿa.áawu	noun	strap (< √.aʼw ‘strap’)
@@ -226,7 +227,7 @@ ma.é	pron	you, second person singular
 √.éin	root	starving
 éin	noun	starvation (< √.éin ‘starving’)
 -eit	affix	thing (< -i + át ‘thing’; cf. -ÿeit, -weit, -neit, -deit, -jeit)
-yaana.eit	noun	indian celery
+yaana.eit	noun	indian celery (< √.a ‘end move, grow’)
 éili	noun	grandparent (< áali ‘grandparent’)
 √.elʼ	root	salt
 éilʼ	noun	salt, saltwater (< √.elʼ ‘salt’)
@@ -1570,7 +1571,7 @@ lʼeix̱	noun	aluminum, grey rock (cf. lʼáax̱ʼ)
 lʼeix̱	noun	dance (cf. √lʼex̱)
 hinyiklʼéx̱i	water ouzel (< héen + ÿík + √lʼex̱ ‘dance’)
 lʼax̱keit	noun	mask (< lʼeix̱ ‘dance’ + -keit)
-alʼeix̱í	noun	dancer; sandhopper (< √lʼex̱)
+alʼeix̱í	noun	dancer; sandhopper, sand flea (< √lʼex̱)
 lʼée	noun	potlatch blanket
 lʼeet	noun	tail
 lʼílʼ	noun	feces (cf. √lʼilʼ)
@@ -2508,7 +2509,7 @@ tayigáasʼi	noun	piling (< taÿee + gáasʼ + -í)
 gásʼli	noun	spreader for making a frame
 gáxni	noun	cutting of hair for mourning
 gáx-	affix	forward, outside (cf. gáak, gági)
-gáxde	ppn	forward, out (< gáx- + -dé)
+gáxde	ppn	forward, out (< gáx- + -dé ‘toward’)
 gáaxw	noun	duck
 gáak	noun	outside, out in the open, out of shadow (cf. gáx-, gági)
 gáak	adv	protruding (< gáak ‘outside’)
@@ -2554,7 +2555,7 @@ koogéinaa	noun	shoulder sash (< √gen unknown; cf. √giʼn ‘wrinkle’)
 √geʼÿ	root	pay back (> √geiÿáḵw ‘claim payment’)
 atgéiw	noun	treasure, precious thing (< √geʼÿ)
 √geiÿáḵw	root	claim payment (< √geʼÿ + -áḵw ‘lacking’)
-√get	root	walk quietly, stalk, tipetoe
+√get	root	walk softly, walk quietly, stalk, tipetoe (cf. √kʼet)
 kʼaaganeit	noun	trap for sticklebacks (< kʼaagán + -eit)
 kʼaaganáageit	noun	trap for sticklebacks (< kʼaagán + geit?)
 géidi	noun	braided seal intestine (cf. tuwulagéil)
@@ -2984,7 +2985,7 @@ dákdesaxʼaak	noun	mackerel (< dáak + -dé + s- + √xʼak ‘fish swim’)
 xʼáaxʼ	noun	crabapple, apple
 √xʼaḵw	root	come to end, die out; forget
 √xʼaḵw	root	situate comfortably
-xʼéig̱aa	adv	truely, really; directly (< xʼéi- unknown + -g̱áa)
+xʼéig̱aa	adv	truely, really; directly (< xʼéi- unknown + -g̱áa; cf. √kʼéi)
 √xʼet	root	hunting in asxʼeit woogoot ‘he went hunting’ (cf. √xʼit)
 xʼéitaa	noun	cutthroat trout (cf. x̱ʼwáatʼ)
 xʼéixʼu	noun	gill of fish
@@ -3046,6 +3047,41 @@ xʼwásʼ	noun	club (> xʼúsʼ)
 hintakxʼwásʼg̱i	noun	bufflehead duck (< héen + táak + √xʼwásʼḵ + -í)
 xʼwéil	noun	post of fish trap
 xʼweiḵ	noun	winterberry, sorrel berry, but plant is unidentified
+√kʼa	root	too small, insufficient
+ÿax̱akʼáawu	noun	crosspiece of canoe, thwart
+tsʼakʼáawásh	noun	necktie-style dry fish
+√kʼan	root	hate; shoo away
+chʼakʼát	adv	at least (< chʼa just + kʼát unknown; cf. chʼa kʼeekát)
+√kʼatlʼ	root	silent, speechless
+kʼáatlʼ	noun	silence, quiet, calm; quiet person
+kʼátlʼgináx̱	adv	silently, without words (< √kʼatlʼ + -k + -í + -náx̱)
+√kʼáasʼ	root	missing tooth (cf. √kʼatsʼ ‘sharp, pointy’)
+√kʼatsʼ	root	sharp, pointy (cf. √kʼáasʼ ‘missing tooth’)
+kʼátsʼi	noun	sharp point; gill bone (< √kʼatsʼ)
+ÿakʼátsʼi	noun	sharpness (< ÿá + √kʼatsʼ + -í)
+shakʼátsʼ	noun	double-ended dagger (< shá + √kʼatsʼ)
+x̱alakʼáchʼ	porcupine (< x̱aaw ‘fur’ + l- + *√kʼachʼ; cf. √kʼatsʼ ‘pointy’)
+kʼaagán	noun	stickleback (cf. √kʼatsʼ ‘pointy’, √xʼak ‘rough’)
+kʼákw	noun	kind of owl
+√kʼakʼw	root	prowl, sneak
+kʼáax̱ʼi	noun	congealed blood along spine of fish
+√kʼéi	root	good (> kʼé; cf. xʼéi-)
+kʼé	noun	good, goodness (< √kʼéi ‘good’)
+kʼé	adv	how about, good if, used with imperatives
+l.ushkʼé	noun	bad, badness, evil, sin (< l ‘neg.’ + u- + sh- + √kʼéi)
+l.ooshkʼé	noun	bad, badness, evil, sin (< l ‘neg.’ + u- + sh- + √kʼéi)
+ḵukʼé	noun	good weather (< ḵu- ‘areal’ + √kʼéi)
+aakʼé	adj	good (< aa ‘partitive’ + kʼé ‘good’)
+atkʼé	noun	good thing (< át ‘thing’ + kʼé ‘good’)
+shkʼé	interj	how about that, look at that, what if
+shkʼáay	interj	gimme, give it here, let me see (< shkʼé + haahée)
+shkʼaandé	interj	gimme, give it here, let me see (< shkʼé + haandé)
+√kʼen	root	jump; dive into water; skip work or school
+kookʼénaa	noun	sandhopper, sand flea
+√kʼet	root	take out stored possessions, move stored goods; tip over box
+√kʼet	root	walk softly, walk silently, stalk, tiptoe (cf. √get)
+-kʼeit	affix	thing (< -kʼ + -eit)
+kʼeit	noun	berry bush sprouts (< kʼí ‘stem’ + át ‘thing’)
 
 chʼax̱ʼínx̱ʼ	noun	mallard (cf. kindachooneit)
-shax̱ʼéegwálʼ	noun	hair clip, barrette
+shax̱ʼéegwálʼ	noun	hair clip, barrette (< shá + √x̱ʼik + -álʼ)
