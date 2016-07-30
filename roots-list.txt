@@ -241,6 +241,7 @@ yaana.eit	noun	indian celery (< √.a ‘end move, grow’)
 √.eʼk	root	paralyzed by shock
 √.éikw	root	whistle
 akoo.éikw	noun	whistle (< √.éikw ‘whistle’)
+eix̱	noun	oil, grease (< eex̱)
 éix̱ʼ	noun	slough
 i-	affix	classifier prefix, I-component [i] (< *ŋi-; cf. ÿa-, ya-)
 -i	affix	relative clause, suffix on relativized verbs (cf. -í)
@@ -291,7 +292,8 @@ eech	noun	rock, reef
 éechʼ	noun	boulder, round stone
 éex	dirn	downriver, south
 √.ixʼ	root	call, shout
-eex̱	noun	oil
+eex̱	noun	oil (> eix̱)
+sʼaḵtu.eex̱í	noun	bone marrow (< sʼaaḵ ‘bone’ + tú ‘inside’ + eex̱ ‘oil’+ -í)
 íx̱tʼ	noun	shaman
 eeḵ	noun	copper
 éeḵ	noun	beach
@@ -342,6 +344,7 @@ tooxsʼeit	noun	bugle, pipe (< √.uʼx ‘blow’)
 óoxʼ	noun	shoulderblade
 √.ukʼ	root	play with things (< √.uʰ ‘own, buy’ + -kʼ ‘diminutive’)
 oox̱	noun	tooth
+dzeit.oox̱ú	noun	log ladder; stairs, steps (< dzeit + oox̱ ‘tooth’ + -í)
 ya-	affix	classifier prefix, I-component [i] (< *ŋi-; cf. ÿa-, y-, i-)
 y-	affix	classifier prefix, I-component [i] (< *ŋi-; cf. ÿa-, ya-, i-)
 √ya	root	pack, carry on back
@@ -1541,7 +1544,9 @@ lʼutʼtláaḵ	noun	snake, serpent (< lʼóotʼ ‘tongue’ + tláaḵ ‘spea
 tláx̱	adv	very, extremely
 √tlax̱	root	mouldy, moldy (cf. tlaax̱ ‘mould’)
 tlaax̱	noun	mould, mold growth (cf. √tlax̱)
+kaÿaanitlaax̱í	noun	clover (< kaÿaaní + tlaax̱ + -í)
 shaltláax̱	noun	rock almost covered by tide (< shá + l- + √tlax̱)
+kaltlax̱eit	noun	trailing blackcurrant (< ká + l- + √tlax̱ + -eit)
 tle	pcl	and so, just
 √tle	root	strain (cf. √dla, √cha, √dlex̱ʼw
 √tleʰ	root	stout (< √tlaʰ)
@@ -2368,7 +2373,7 @@ chʼúḵlʼ	noun	surf smelt; sand lance
 √xa	root	pour
 xán	noun	baleen; plastic (> xén)
 Tsʼootsxán	name	Tsimshian (< *tsʼumtsxan < C.Tsim. *tsʼəmtsxan)
-xáanaa	noun	evening (cf. xee ‘dusk’)
+xáanaa	noun	evening (cf. xee ‘dusk’, x̱ee ‘night’, √x̱i ‘overnight’)
 √xaʼt	root	pull, tighten; fasten, extend; shape, resemble (cf. √xwasʼ)
 xaadáa	noun	veil; netting, cheesecloth (< √xaʼt + -áa)
 √xatʼ	root	pull with rope, drag; suspend
@@ -2399,7 +2404,7 @@ xákwlʼi	noun	soapberry (< √xakw + -lʼ + -í)
 xákw	noun	sandbar (<? √xakw ‘grind, whip up’, √xak ‘dessicated’)
 tudaxákw	noun	basket with rattle in lid (<? √xakw ‘grind’, √xak ‘dry’)
 shakaxaagú	noun	skull (< shá + ká + √xak + -í)
-xei	noun	dusk (< xee)
+xei	noun	dusk (< xee; cf. x̱ee ‘night’, √x̱i ‘overnight’)
 xeiÿí	noun	mountain shadow (< xeeÿí)
 √xeʼn	root	scab; white fungus on fish (cf. xein)
 xein	noun	old dying salmon (cf. √xeʼn)
@@ -2415,7 +2420,7 @@ xeitltáaxʼayi	noun	horsefly (< xeitl + táaxʼaa)
 √xes	root	catch bird with box trap
 xeisáa	noun	bird trap (< √xes + -áa)
 √xekʼw	root	draw in fluid and air, slurp
-xee	noun	dusk (> xee)
+xee	noun	dusk (> xee; cf. x̱ee ‘night’, √x̱i ‘overnight’)
 xeeÿí	noun	mountain shadow (> xeiÿí; < xee ‘dusk’)
 √xiʼn	root	frown
 xéen	noun	blowfly, bluebottle, housefly
@@ -3284,20 +3289,28 @@ tex̱áaxʼ	noun	rock slab (< té ‘rock’ + x̱áaxʼ ‘slab’)
 √x̱ax̱ʼ	root	dew (cf. x̱áax̱ʼ)
 x̱áax̱ʼ	noun	dew (cf. √x̱ax̱ʼ)
 √x̱eʰ	root	fall to pieces
-x̱einí	noun	in addition (cf. x̱ooní)
-√x̱el	root	coil (cf. √x̱il)
-√x̱elʼ	root	stiff
-√x̱esʼ	root	wish (cf. √x̱itlʼ)
-√x̱exʼw	root	plural sleep (cf. √x̱i ‘overnight’)
-√x̱eḵ	root	wake early (< √x̱iḵ)
-x̱éix̱ʼu	noun	fish flesh
-waḵx̱ʼax̱éix̱ʼu	noun	eyelashes (< waaḵ + x̱ʼé + x̱éix̱ʼu)
-√x̱i	root	stay overnight (cf. √ḵi ‘plural sit’)
-x̱ee	noun	night, only in compounds and verbs (> x̱ei)
-x̱eeÿ	noun	pack (cf. Eyak χeˑł)
-√x̱in	root	sticklike momve through space, fall
+x̱einí	noun	in addition; matching, equivalent, similar (cf. x̱ooní, x̱oo)
+x̱eináx̱	adv	catching up to; overtaking (<? x̱einí ‘matching’ + -náx̱ ‘perl.’)
 √x̱it	root	multiply, breed, spawn
-√x̱iʼt	root	shake off water; fish thrash out of water; mist fall
+√x̱eʼt	root	shake off water; fish thrash out of water; mist fall (< √x̱eʼt)
+√x̱el	root	coil; waste time (cf. √x̱il)
+√x̱elʼ	root	stiff, paralyzed
+√x̱esʼ	root	wish (cf. √x̱itl)
+x̱éisʼ	noun	wish (cf. √x̱esʼ, √x̱itl)
+√x̱exʼw	root	plural sleep (cf. √x̱i ‘overnight’)
+√x̱eḵ	root	wake early
+√x̱éḵsʼ	root	be early riser (< √x̱eḵ + -sʼ)
+x̱éix̱ʼu	noun	fish flesh, flakes?
+waḵx̱ʼax̱éix̱ʼu	noun	eyelashes (< waaḵ + x̱ʼé + x̱éix̱ʼu)
+√x̱i	root	night pass; stay overnight (cf. x̱ee ‘night’, xee ‘dusk’, √ḵi ‘pl. sit’)
+x̱ee	noun	night, only in compounds and verbs (> x̱ei; cf. √x̱i, xee ‘dusk’)
+x̱eeḵ	noun	insomnia, sleeplessness (< x̱ee + -ḵ ‘lacking’)
+x̱eeÿ	noun	pack; burden (cf. x̱íÿaa ‘chest packstrap’, Eyak χeˑł ‘pack’)
+x̱íÿaa	noun	tumpline or packstrap on chest (cf. x̱eeÿ ‘pack’)
+√x̱in	root	sticklike move through space, fall; joint dislocate; end, close
+√x̱eenán	root	relocate, rearticulate, put joint back (< √x̱in + -án ‘restore’)
+√x̱it	root	multiply, breed, spawn
+√x̱iʼt	root	shake off water; fish thrash out of water; mist fall (> √x̱eʼt)
 kax̱ítjaa	noun	mist (< ká + √x̱it + -ch + -áa)
 x̱éetʼ	noun	giant clam
 √x̱il	root	foam (> √x̱el; cf. x̱eel, √x̱ish)
@@ -3306,23 +3319,55 @@ x̱eil	noun	foam (< x̱eel; cf. √x̱il, √x̱ish)
 x̱eelté	noun	granite (< x̱eel ‘foam’ + té ‘rock’)
 x̱eilté	noun	granite (< x̱eil ‘foam’ + té ‘rock’)
 √x̱ish	root	foam (cf. √x̱il)
+x̱eesh	noun	cork-like bark (cf. √x̱ish ‘foam’)
+aasdax̱eeshí	noun	lichen on spruce bark (< aas + daa + x̱eesh + -í)
 √x̱il	root	coil (cf. √x̱el)
+kax̱éel	noun	coil of rope
 √x̱itl	root	bless; lucky
+lax̱éetl	noun	blessing; luck (< √x̱itl)
 √x̱etl	root	bless; lucky (< √x̱itl)
+lax̱éitl	noun	blessing; luck (< √x̱etl)
 √x̱iʼtl	root	hem; add trimming (> √x̱eʼtl; cf. x̱ʼax̱éetl)
 x̱ʼax̱éetl	noun	hem, trimming (< x̱ʼé + √x̱iʼtl)
 √x̱eʼtl	root	hem; add trimming (< √x̱iʼtl; cf. x̱ʼax̱éitl)
 x̱ʼax̱éitl	noun	hem, trimming (< x̱ʼax̱éetl)
+√x̱ilʼ	root	slimy (cf. x̱éelʼ ‘slime’)
+x̱éelʼ	noun	slime, thick mucus (cf. √x̱ilʼ ‘slimy’)
+lux̱éelʼ	noun	snot, mucus from nose (< lú + x̱éelʼ)
+x̱ʼax̱eelʼ	noun	drool (< x̱ʼé + x̱éelʼ)
+√x̱elʼ	root	slimy (< √x̱ilʼ ‘slimy’; cf. x̱éilʼ ‘slime’)
+x̱éilʼ	noun	slime, thick mucus (cf. √x̱elʼ ‘slimy’)
+x̱élʼk	noun	slime, thick mucus (< √x̱elʼ + -k ‘repetitive’)
+√x̱itlʼ	root	fear, afraid (cf. √x̱éetlʼshán)
+√x̱éetlʼshán	root	dangerous, fearsome (< √x̱itlʼ + -shán)
+yéilkoox̱ítlʼaa	noun	scarecrow (< yéil + ká + u- + √x̱itlʼ + -áa)
+akoolx̱éetlʼ	noun	fear (< √x̱itlʼ)
+tʼáaÿax̱éetlʼi	noun	movie (< tʼáa + ÿá + √x̱itlʼ)
+√x̱etlʼ	root	fear, afraid (< √x̱itlʼ; cf. √x̱éitlʼshán)
+√x̱éitlʼshán	root	dangerous, fearsome (< √x̱itlʼ + -shán)
+yéilkoox̱étlʼaa	noun	scarecrow (< yéil + ká + u- + √x̱etlʼ + -áa)
+akoolx̱éitlʼ	noun	fear (< √x̱etlʼ)
+x̱ísʼ	noun	tough, chewy, inflexible, scar-like (cf. x̱éesʼ)
+x̱éesʼ	noun	unknown element in tlʼeḵshax̱éesʼi ‘knuckle’ (cf. x̱ísʼ)
+tlʼeḵshax̱éesʼi	noun	knuckle (< tlʼeiḵ ‘finger’ + shá ‘head’ + x̱éesʼ + -í)
 √x̱ísht	root	get rash (< √x̱ish; cf. √x̱ícht, x̱éesh ‘rash’)
 √x̱ícht	root	get rash (< √x̱ich; cf. √x̱ísht, x̱éesh ‘rash’)
 x̱éesh	noun	rash (cf. √x̱ísht, √x̱ícht)
 √x̱ich	root	throw animate or full container; tear down; beat, spank, club
 √x̱ísht	root	beat, club (< √x̱ich + -t)
-x̱íjaa	noun	rattle (< √x̱ich ‘beat’ + -áa)
-x̱íji	noun	nape of neck on moose hide
+x̱íjaa	noun	beater, drumstick (< √x̱ich ‘beat’ + -áa)
+jikax̱íjaa	noun	rattle used by shaman (< jín + ká + √x̱ich ‘beat’ + -áa)
+x̱íji	noun	mane
 x̱ík	noun	puffin
-x̱eeḵ	noun	upper arm (> x̱eiḵ)
-x̱eiḵ	noun	upper arm (< x̱eeḵ)
+x̱éegwálʼ	noun	packstrap, lashing (< *√x̱ikw unknown + -álʼ)
+√x̱iʼk	root	flap wings (cf. x̱eek ‘upper arm’)
+x̱eek	noun	upper arm (> x̱eik)
+x̱eegí	noun	haunch, upper part of foreleg (cf. x̱eek ‘upper arm’)
+x̱eik	noun	upper arm (< x̱eek)
+x̱eigí	noun	haunch, upper part of foreleg (cf. x̱eik ‘upper arm’)
+x̱ikshá	noun	shoulder (< x̱eek ‘upper arm’ + shá ‘head’)
+x̱éex̱	noun	saw-whet owl, boreal owl
+√x̱u	root	tide small, neap tide
 x̱oo	noun	among (> x̱uká)
 x̱uká	noun	on surface of water or ship, among waves (< x̱oo + ká)
 √x̱uʼw	root	peel bark of tree in slabs (cf. x̱óow ‘bark slab’)
@@ -3332,10 +3377,16 @@ x̱ooní	noun	relative, clan member; friend; in addition (cf. x̱einí, x̱oo)
 √x̱oonáḵw	root	drown (< √x̱un unknown + -áḵw ‘lacking’)
 √x̱utʼ	root	drag, pull; fish with rod (cf. √x̱utʼ ‘adze’)
 shax̱útʼaa	noun	fishing pole (< shá + √x̱utʼ + -áa)
+koox̱útʼdi	noun	rabbit snare (< √x̱utʼ ‘drag, pull’)
+gankax̱útʼti	noun	split wood (< gán ‘firewood’ + ká + √x̱utʼ ‘adze’ + -t)
+kadax̱óotʼi	noun	plank-dresser, finishing adze (< ká + d- + √x̱utʼ + -í)
 √x̱utʼ	root	adze (cf. √x̱utʼ ‘drag, pull’)
 x̱útʼaa	noun	adze (< √x̱utʼ + -áa)
 atkax̱útʼti	noun	adzing chips (< át + ká + √x̱utʼ + -t + -í)
 x̱úx̱	noun	husband (cf. √x̱ux̱ ‘call for, ask for’)
+aatx̱úx̱	noun	parallel uncle by marriage (< aat + x̱úx̱)
+seix̱úx̱	noun	son-in-law
+tláakʼwx̱úx̱	noun	cross uncle by marriage (< tláakʼw + x̱úx̱)
 √x̱ux̱	noun	call for, ask for; compose song
 shanax̱wáaÿi	noun	axe (< shá + n- + √x̱wa unknown + -í)
 shanx̱wáaÿi	noun	axe (< shanax̱wáaÿi)
