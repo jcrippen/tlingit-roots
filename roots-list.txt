@@ -295,10 +295,14 @@ eech	noun	rock, reef
 eex̱	noun	oil (> eix̱)
 sʼaḵtu.eex̱í	noun	bone marrow (< sʼaaḵ ‘bone’ + tú ‘inside’ + eex̱ ‘oil’+ -í)
 íx̱tʼ	noun	shaman
-eeḵ	noun	copper
-éeḵ	noun	beach
-eeḵ	noun	top of foot in iḵká ‘top of foot’
-éex̱ʼ	noun	slough
+eeḵ	noun	copper (> eiḵ ‘copper’, iḵnáachʼ ‘brass’, iḵÿéisʼ ‘iron’)
+eiḵ	noun	copper (< eeḵ ‘copper’)
+éeḵ	noun	beach (> éiḵ ‘beach’)
+éiḵ	noun	beach (< éeḵ ‘beach’)
+eeḵ	noun	unknown element in iḵká ‘top of foot’
+iḵká	noun	top of foot (< eeḵ unknown + ká ‘horizontal surface’)
+éex̱ʼ	noun	slough (> éix̱ʼ ‘slough’)
+éix̱ʼ	noun	slough (< éex̱ʼ ‘slough’)
 ó	interj	oh, understanding
 -ú	affix	at, locative predicate suffix
 √.uʰ	root	put, leave
@@ -407,7 +411,7 @@ yétsʼ	noun	jet black (cf. √yesʼ ‘blacken, discolour’)
 kayéisʼ	noun	dye (< √yesʼ ‘blacken, discolour’)
 daaÿéisʼ	noun	black furred weasel (< dáa ‘weasel’ + yéisʼ ‘dark’)
 iḵÿéisʼ	noun	iron (< eeḵ ‘copper’ + yéisʼ ‘dark’)
-g̱aÿéisʼ	noun	iron (< iḵyéisʼ ‘iron’)
+g̱aÿéisʼ	noun	iron (< iḵÿéisʼ ‘iron’)
 kooyéix	noun	camprobber
 √yek	root	roomy
 √yek	root	animated, alert; too fast
@@ -692,7 +696,8 @@ násʼk	num	three
 nátsʼ	noun	worthless (cf. √nátsʼ); nátsʼ yáx̱ yatee ‘he’s good for nothing’
 √naʼsh	root	shake; run in circles
 gunáashísh	noun	molasses (< Eng.)
-iḵnáachʼ	noun	brass (< eeḵ ‘copper’ + √nachʼ cf. √natsʼ, √natlʼ)
+iḵnáachʼ	noun	brass (< eeḵ ‘copper’ + náachʼ unknown; cf. √natsʼ, √natlʼ)
+náachʼ	noun	unknown element in iḵnáachʼ ‘brass’)
 náxw	noun	halibut hook
 √nak	root	become formed
 kanágaa	noun	form for shaping (< √nak ‘become formed’)
@@ -1598,8 +1603,9 @@ shalʼáax̱ʼ	noun	long beetle (in L78: 34; cf. lʼáax̱ʼ)
 √lʼéi	root	promiscuous, sexually aroused
 lʼé	noun	sediment (cf. lʼéiw)
 takalʼeiÿí	noun	sediment in oil (< tá + ká + lʼé + -í)
-lʼeiwú	noun	wood (cf. lʼé, lʼoowú)
-lʼéiw	noun	sand (cf. √lʼéiw)
+lʼeiwú	noun	wood (> lʼoowú ‘wood’)
+lʼoowú	noun	wood (< lʼeiwú ‘wood’)
+lʼéiw	noun	sand (cf. lʼé ‘sediment’, √lʼéiw)
 √lʼéiw	root	sandy (< lʼéiw)
 lʼéinxw	noun	wool ear pendant
 lʼénx̱i	noun	shabby (cf. tlʼénx̱i, lʼúx̱ʼti, √tlʼéin)
@@ -2685,7 +2691,7 @@ lakʼichʼgúnlʼi	noun	occipital bun (< lakʼéechʼ + gúnlʼ + -í)
 gúnx̱aa	noun	abalone (< √gun unknown + -x̱ + -áa)
 √gut	root	singular animate go (imperative stem -gú)
 kátgoot	noun	diarrhea (< √gut ‘sg. go’)
-gút	noun	dime (< CJ bit < Eng. bit ‘1/8th Spanish dollar; dime’; cf. gwít)
+gút	noun	dime (< gwít ‘dime’)
 √goodán	root	return to walking (< √gut + -án ‘restore’)
 gootskʼí	noun	in shéix̱ʼw gootskʼí ‘top of hill in fall w yellow grass’
 √gulʼ	root	one-eyed, wink
@@ -2791,7 +2797,7 @@ gwéiji	noun	in wa.é tlein gwéijích ‘you old thing you’ (only in L78: 59)
 sgwéijín	noun	gin formerly sold in square bottles (< Eng. square gin)
 aatagwéixʼi	noun	pond lily (< áa + tá + *√gwexʼ unknown + -í)
 gwîns	noun	beans (< Eng. beans)
-gwít	noun	dime (< CJ bit < Eng. bit ‘1/8th Spanish dollar; dime’; cf. gút)
+gwít	noun	dime (< CJ bit < Eng. bit ‘1/8th Spanish dollar; dime’; gút)
 gwíjín	noun	pigeon (< Eng. pigeon)
 -k	affix	obsolete locative suffix frozen in nouns (cf. táak, sháak)
 -k	affix	repetitive suffix on verbs (cf. -kw)
