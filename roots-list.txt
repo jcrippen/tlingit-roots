@@ -1652,7 +1652,6 @@ lʼook	noun	coho salmon, silver salmon
 lʼóox̱ʼ	noun	milt; cloudy or milky water
 lʼúx̱ʼti	noun	worn (cf. lʼénx̱i, tlʼénx̱i, √tlʼéin)
 tlʼa-	affix	in tlʼag̱áa ‘lots’ (cf. chʼa)
-tlʼag̱áa	adv	lots (< tlʼa- unknown + -g̱áa ‘adessive’)
 tlʼaa-	affix	in tlʼaadéin ‘crosswise’, maybe in tlʼaaḵʼwáchʼ ‘sorrel’
 tlʼaadéin	adv	crosswise (< tlʼaa- unknown + -déin ‘adverb’)
 eetlʼát	noun	lowbush cranberry (<? Dene)
@@ -3410,10 +3409,10 @@ g̱áa	interj	Raven call
 g̱áa	adv	enough, okay, all right (cf. g̱aa)
 g̱aa	adv	enough, okay, all right (cf. g̱áa)
 g̱áadéi	interj	resignation (< g̱áa + déi)
-tlʼag̱áa	adv	lots, a bunch, plenty, more
-adlag̱áa	interj	what a lot, surprise about quantity
+tlʼag̱áa	adv	lots, a bunch, plenty, more (< tlʼa- unknown + g̱áa ‘enough’)
+adlag̱áa	interj	what a lot, surprise about quantity (< hadláa + g̱áa ‘enough’)
 gwaag̱áal	adv	in gwaag̱áal yéi wooteeyíḵ ‘may it be’ (< gwáa + g̱áa + l)
-g̱aayéináx̱	noun	right side (< g̱áa + ÿé + -náx̱)
+g̱aayéináx̱	noun	right hand side, ‘good’ side (< g̱áa + ÿé + -náx̱)
 -g̱áa	ppn	for obtaining, vicinity of, adessive postposition
 √g̱a	root	bashful, shy, backward, afraid to ask
 g̱aaÿ	noun	eagle in Chilkat placenames: G̱aaÿ Héeni, G̱aaÿ Shaaÿí
