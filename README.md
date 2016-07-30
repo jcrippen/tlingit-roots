@@ -117,3 +117,64 @@ roots in having high tone where low tone would otherwise be expected.
 The representations are due to Tongass Tlingit where CVʰ roots had breathy
 vowels instead of plain vowels, and CVʼC roots had glottalized vowels instead
 of plain vowels.
+
+## Dialects and representation
+
+Tlingit dialect variation is primarily phonological, so that different dialects
+have distinct pronunciations of the same word. There are a few regular
+historical phonological processes that capture much of Tlingit’s dialect
+differentiation, particularly rounding spread and uvular lowering.
+
+### Rounding spread
+
+Rounding spread (or labial spread) is the spread of labial features from one
+segment to other adjacent segments. This can be progressive (perseveratory) or
+retrogressive (anticipatory), or both. The following is an example of
+progressive rounding spread, with the initial labialized velar stop `gw`
+spreading to the following `i` so that it becomes `u`.
+
+* `gwít` ‘dime’ → `gút` ‘dime’
+
+The next example shows retrogressive rounding, with the final `w` spreading to
+the preceding `ei` so that it becomes `oo`.
+
+* `lʼeiwú` ‘wood’ → `lʼoowú` ‘wood’
+
+### Uvular lowering
+
+Uvular lowering is the lowering of the high front vowel `i` ~ `ee` to the
+mid front vowel `e` ~ `ei` when adjacent to a uvular segment. The uvulars are
+uniformly represented in the orthography with an underscore diacritic
+(U+0331 Macron Below), so these are e.g. `x̱`, `ḵʼ`, `g̱w`. Uvular lowering
+can be progressive or retrogressive or both. The example below shows 
+progressive uvular lowering, with the uvular `g̱` causing the following `ee`
+to lower to `ei`.
+
+* `g̱eeÿ` ‘bay’ → `g̱eiÿ` ‘bay’
+
+The following illustrates retrogressive uvular lowering, with the final uvular
+stop `ḵ` causing the preceding high front vowel `ee` to lower to mid front
+`ei`.
+
+* `eeḵ` ‘copper’ → `eiḵ` ‘copper’
+
+### Representation of dialect variation as etymology
+
+The two processes of rounding spread and uvular lowering are the most important
+causes of dialect variation in the Tlingit lexicon, though there are others
+such as final vowel lowering. As such, much of the dialect variation is
+phonologically predictable.
+
+To represent dialect variation, I include multiple entries for each lexical
+item that is affected by variation. Since the phonological processes that cause
+these changes are well documented, the variation is indicated as forward and
+backward etymologies using the > and < arrows respectively.
+
+* `gwít → noun → dime (< CJ bit < Eng. bit ‘1/8 Spanish dollar’; > gút)`
+* `gút → noun → dime (< gwít ‘dime’)`
+* `lʼeiwú → noun → wood (> lʼoowú ‘wood’)`
+* `lʼoowú → noun → wood (< lʼeiwú ‘wood’)`
+* `g̱eeÿ → noun → bay (> g̱eiÿ ‘bay’)`
+* `g̱eiÿ → noun → bay (< g̱eeÿ ‘bay’)`
+* `eeḵ → noun → copper (> eiḵ ‘copper’, iḵnáachʼ ‘brass’, iḵÿéisʼ ‘iron’)`
+* `eiḵ → noun → copper (< eeḵ ‘copper’)`
