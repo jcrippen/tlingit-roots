@@ -3278,11 +3278,68 @@ x̱aju	pcl	I had thought, supposition (cf. x̱ach, ḵach, ḵaju, ḵáshde)
 √x̱aʼkw	root	hang on by fingernail, claw (cf. x̱aakw, x̱aagú)
 x̱aakw	noun	nail, fingernail (cf. √x̱aʼkw, x̱aagú)
 x̱aagú	noun	claw (cf. √x̱aʼkw, x̱aakw)
-√x̱axʼ	root	split or crack in layers, slabs (cf. x̱áaxʼ ‘slab’)
+√x̱axʼ	root	split, crack, flake in layers, slabs (cf. x̱áaxʼ ‘slab’)
 x̱áaxʼ	noun	slab (cf. √x̱axʼ ‘split in layer’)
 tex̱áaxʼ	noun	rock slab (< té ‘rock’ + x̱áaxʼ ‘slab’)
 √x̱ax̱ʼ	root	dew (cf. x̱áax̱ʼ)
 x̱áax̱ʼ	noun	dew (cf. √x̱ax̱ʼ)
+√x̱eʰ	root	fall to pieces
+x̱einí	noun	in addition (cf. x̱ooní)
+√x̱el	root	coil (cf. √x̱il)
+√x̱elʼ	root	stiff
+√x̱esʼ	root	wish (cf. √x̱itlʼ)
+√x̱exʼw	root	plural sleep (cf. √x̱i ‘overnight’)
+√x̱eḵ	root	wake early (< √x̱iḵ)
+x̱éix̱ʼu	noun	fish flesh
+waḵx̱ʼax̱éix̱ʼu	noun	eyelashes (< waaḵ + x̱ʼé + x̱éix̱ʼu)
+√x̱i	root	stay overnight (cf. √ḵi ‘plural sit’)
+x̱ee	noun	night, only in compounds and verbs (> x̱ei)
+x̱eeÿ	noun	pack (cf. Eyak χeˑł)
+√x̱in	root	sticklike momve through space, fall
+√x̱it	root	multiply, breed, spawn
+√x̱iʼt	root	shake off water; fish thrash out of water; mist fall
+kax̱ítjaa	noun	mist (< ká + √x̱it + -ch + -áa)
+x̱éetʼ	noun	giant clam
+√x̱il	root	foam (> √x̱el; cf. x̱eel, √x̱ish)
+x̱eel	noun	foam (> x̱eil; cf. √x̱il, √x̱ish)
+x̱eil	noun	foam (< x̱eel; cf. √x̱il, √x̱ish)
+x̱eelté	noun	granite (< x̱eel ‘foam’ + té ‘rock’)
+x̱eilté	noun	granite (< x̱eil ‘foam’ + té ‘rock’)
+√x̱ish	root	foam (cf. √x̱il)
+√x̱il	root	coil (cf. √x̱el)
+√x̱itl	root	bless; lucky
+√x̱etl	root	bless; lucky (< √x̱itl)
+√x̱iʼtl	root	hem; add trimming (> √x̱eʼtl; cf. x̱ʼax̱éetl)
+x̱ʼax̱éetl	noun	hem, trimming (< x̱ʼé + √x̱iʼtl)
+√x̱eʼtl	root	hem; add trimming (< √x̱iʼtl; cf. x̱ʼax̱éitl)
+x̱ʼax̱éitl	noun	hem, trimming (< x̱ʼax̱éetl)
+√x̱ísht	root	get rash (< √x̱ish; cf. √x̱ícht, x̱éesh ‘rash’)
+√x̱ícht	root	get rash (< √x̱ich; cf. √x̱ísht, x̱éesh ‘rash’)
+x̱éesh	noun	rash (cf. √x̱ísht, √x̱ícht)
+√x̱ich	root	throw animate or full container; tear down; beat, spank, club
+√x̱ísht	root	beat, club (< √x̱ich + -t)
+x̱íjaa	noun	rattle (< √x̱ich ‘beat’ + -áa)
+x̱íji	noun	nape of neck on moose hide
+x̱ík	noun	puffin
+x̱eeḵ	noun	upper arm (> x̱eiḵ)
+x̱eiḵ	noun	upper arm (< x̱eeḵ)
+x̱oo	noun	among (> x̱uká)
+x̱uká	noun	on surface of water or ship, among waves (< x̱oo + ká)
+√x̱uʼw	root	peel bark of tree in slabs (cf. x̱óow ‘bark slab’)
+x̱óow	noun	bark slab (cf. √x̱uʼw)
+x̱oonáa	noun	tool for debarking tree (cf. √x̱uʼw)
+x̱ooní	noun	relative, clan member; friend; in addition (cf. x̱einí, x̱oo)
+√x̱oonáḵw	root	drown (< √x̱un unknown + -áḵw ‘lacking’)
+√x̱utʼ	root	drag, pull; fish with rod (cf. √x̱utʼ ‘adze’)
+shax̱útʼaa	noun	fishing pole (< shá + √x̱utʼ + -áa)
+√x̱utʼ	root	adze (cf. √x̱utʼ ‘drag, pull’)
+x̱útʼaa	noun	adze (< √x̱utʼ + -áa)
+atkax̱útʼti	noun	adzing chips (< át + ká + √x̱utʼ + -t + -í)
+x̱úx̱	noun	husband (cf. √x̱ux̱ ‘call for, ask for’)
+√x̱ux̱	noun	call for, ask for; compose song
+shanax̱wáaÿi	noun	axe (< shá + n- + √x̱wa unknown + -í)
+shanx̱wáaÿi	noun	axe (< shanax̱wáaÿi)
+√x̱waʼl	root	tremble, rattle; wave flag
 
 √g̱eig̱áchʼ	root	swing (< √g̱eḵ + -áchʼ)
 
