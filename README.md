@@ -133,12 +133,12 @@ retrogressive (anticipatory), or both. The following is an example of
 progressive rounding spread, with the initial labialized velar stop `gw`
 spreading to the following `i` so that it becomes `u`.
 
-* `gwít` ‘dime’ → `gút` ‘dime’
+* `gwít` /kʷít/ ‘dime’ → `gút` /kʷút/ ‘dime’
 
 The next example shows retrogressive rounding, with the final `w` spreading to
 the preceding `ei` so that it becomes `oo`.
 
-* `lʼeiwú` ‘wood’ → `lʼoowú` ‘wood’
+* `lʼeiwú` /ɬʼèːwú/ ‘wood’ → `lʼoowú` /ɬʼùːwú/ ‘wood’
 
 ### Uvular lowering
 
@@ -150,13 +150,13 @@ can be progressive or retrogressive or both. The example below shows
 progressive uvular lowering, with the uvular `g̱` causing the following `ee`
 to lower to `ei`.
 
-* `g̱eeÿ` ‘bay’ → `g̱eiÿ` ‘bay’
+* `g̱eeÿ` /qìːɰ/ ‘bay’ → `g̱eiÿ` /qèːɰ/ ‘bay’
 
 The following illustrates retrogressive uvular lowering, with the final uvular
 stop `ḵ` causing the preceding high front vowel `ee` to lower to mid front
 `ei`.
 
-* `eeḵ` ‘copper’ → `eiḵ` ‘copper’
+* `eeḵ` /ʔìːq/ ‘copper’ → `eiḵ` /ʔèːq/ ‘copper’
 
 ### Representation of dialect variation as etymology
 
