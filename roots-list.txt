@@ -391,6 +391,7 @@ Lḵʼayáakʼw	name	man whose footprints (x̱ʼus.eetí) are the Milky Way
 yáx̱	ppn	like
 yaax̱	noun	bank, side edge
 Giyáḵw	name	Sugpiaq people, Alutiiq people (< Eyak)
+yé	noun	place, way, manner, circumstance, time (cf. ÿé, yéi ‘thus’)
 yéi	adv	thus, so (cf. yóo ‘thus’)
 koonaayei	noun	chipmunk
 atskʼiyé	noun	kind of duck species
@@ -444,6 +445,7 @@ yóoxgaa	noun	skirt (< Ru. юпка)
 √yux̱ʼ	root	gnaw, eat with teeth
 yooḵ	noun	cormorant
 √ÿaʰ	root	move uncertainly; happen, occur
+ÿaa=	adv	along, progressive adverb with verbs (cf. yéi ‘thus’)
 √ÿaʰ	root	resemble (with irrealis u-)
 kaÿaa	noun	duplicate
 uwáa	adj	resembling, ersatz
@@ -499,7 +501,7 @@ lḵukanÿáaxʼ	adv	for nothing, for no purpose
 √ÿaḵw	root	liken, make simile; bequeath
 √ÿaax̱áḵw	root	make plan (< √ÿaḵw + -x̱ + -áḵw ‘lacking’)
 ÿaax̱	noun	edge? in tʼáaÿaax̱ ‘board for table’, héen x̱ʼaÿaax̱ ‘shoreline’
-ÿé	noun	place, way, manner, circumstance, time (cf. yéi ‘thus’)
+ÿé	noun	place, way, manner, circumstance, time (cf. yé, yéi ‘thus’)
 √ÿéi	root	strange, weird (cf. √yàa ‘strange’)
 ÿeit	noun	thing below (< ÿee + át)
 -ÿeit	affix	thing (< –ÿi + -eit; cf. -weit, -neit, -deit, -teit, -jeit)
@@ -712,6 +714,8 @@ sx̱enx̱ináakw	noun	dog scratching medicine
 -náx̱	ppn	through, along, perlative, prolative
 -náx̱	affix	kind of bay in placenames (e.g. G̱aanáx̱, Sʼiknáx̱, Joonáx̱)
 -náx̱	affix	human numeral, e.g. dáx̱náx̱ ‘two people’
+-náx̱	affix	adverbial suffix
+-náx̱	affix	directional suffix in side nouns (cf. shiÿnáx̱, sʼátʼnáx̱)
 náx̱ki	noun	needles accumulated under tree
 √naḵ	root	plural stand
 shachkkanág̱u	noun	moss growing on muskeg (< √naḵ ‘plural stand’)
@@ -866,7 +870,7 @@ da-	affix	classifier prefix, D-component [t]
 √da	root	accustomed; watch over
 daa	noun	around, surrounding (cf. daa ‘what wh-question’)
 daakeit	noun	container (< daa ‘around’ + -keit)
-kaldaag̱ákw	adv	naked (< daa ‘around’ + -ḵ ‘lacking’ + -ákw?)
+kaldaag̱ákw	adv	naked (< daa ‘around’ + -ḵ ‘lacking’ + -ákw)
 kaldaag̱éináx̱	adv	slowly, carefully (<? daa ‘around’)
 daa	pron	what wh-question (cf. daa ‘around’)
 daat	pron	what wh-question (< daa ‘what’ + -t)
@@ -1118,14 +1122,16 @@ taakw.eetí	noun	spring (< táakw ‘winter’ + eetí ‘remains’)
 shakeedatáxʼ	noun	white crowned sparrow (cf. shakeedatákʼ)
 shakeedatákʼ	noun	white crowned sparrow (cf. shakeedatáxʼ)
 √taḵ	root	poke, spear, pry
-tág̱aa	noun	chisel, lancet (< √taḵ ‘poke’)
-kaktág̱aa	noun	skin cleaner (< √taḵ ‘poke’)
-katág̱ayi	noun	connecting rod in machine (< √taḵ ‘poke’)
-shkooltág̱aa	noun	pool, billiards (< √taḵ ‘poke’)
-ux̱taag̱áni	noun	canine tooth (< oox̱ ‘tooth’ + √taḵ ‘poke’)
-shataag̱áa	noun	short-horned deer (< shá ‘head’ + √taḵ ‘poke’)
+tág̱aa	noun	chisel, lancet (< √taḵ ‘poke’ + -áa)
+kaktág̱aa	noun	skin cleaner (< ká + ká + √taḵ ‘poke’ + -áa)
+katág̱aa	noun	connecting rod in machine (< ká + √taḵ ‘poke’ + -áa)
+shkooltág̱aa	noun	pool, billiards (< sh + ká + u- + √taḵ ‘poke’+ -áa)
+taag̱án	noun	in ux̱taag̱áni, taag̱anís, kʼishataag̱áni (< √taḵ ‘poke, spear’)
+ux̱taag̱áni	noun	canine tooth (< oox̱ ‘tooth’ + taag̱án ‘poker’)
+shataag̱áa	noun	short-horned deer (< shá ‘head’ + √taḵ ‘poke’ + -áa)
 taag̱anís	noun	pole (< taag̱anÿís)
-taag̱anÿís	noun	pole (< *taag̱án ‘poker’ < √taḵ ‘poke’ + ÿís ‘for’)
+taag̱anÿís	noun	pole (< taag̱án ‘poker’ + ÿís ‘for’)
+kʼishataag̱áni	noun	quill on rear of porcupine (< kʼí + shá + taag̱án + -í)
 √taḵ	root	care for, look after, attend (<? √taḵ ‘poke’)
 taḵsháa	noun	widow (< √taḵ ‘care for, look after’)
 táḵl	noun	hammer (<? √taḵ ‘poke’ + *-ł ‘instrument’)
@@ -1212,7 +1218,7 @@ jaḵtawteetʼí	noun	murderer (<? √jaḵ ‘kill’ + taw? + √titʼ ‘tens
 teel	noun	scar
 √til	root	put on shoes (cf. téel ‘shoe’)
 téel	noun	shoe (cf. √til ‘put on shoes’)
-téelʼ	noun	dog salmon (cf. téisʼ ‘flab’, téitlʼ ‘fat’)
+téelʼ	noun	dog salmon, chum salmon (cf. téisʼ ‘flab’, téitlʼ ‘fat’)
 √tis	root	shuffle, make audible footsteps (cf. √tixw, √tux)
 √tis	root	make fun, mock, tease
 √tisʼ	root	watch for, look, stare (cf. √tin ‘see’)
@@ -1399,7 +1405,6 @@ laakaayí	noun	gill (< lé ‘throat’)
 lakʼíchʼ	noun	back of head, nape of neck (lá ‘nape of neck’)
 lé	noun	throat; only in compounds (cf. lá ‘nape of neck’, √la ‘yell’)
 lekachóox̱ʼ	noun	trachea, windpipe (< lé ‘throat’ + chóox̱ʼ ‘fat roll’)
-laaÿig̱águ	noun	ring finger (cf. laag̱ák ‘rock slime’)
 Laaÿineidí	name	Raven moiety (<? laan unknown + ÿee + -eit)
 laaw	noun	penis
 laan	noun	in g̱ax̱laan ‘rabbit blanket’ and laanáḵw ‘barren cow’
@@ -1415,7 +1420,7 @@ kux̱ʼláax̱	noun	dried yaana.eit (cf. √lax̱ ‘tree die’)
 √lex̱w	root	plant wither, die (cf. √lax̱ ‘tree die’)
 laax̱	noun	red cedar
 lax̱tʼáa	noun	red cedar boards (< laax̱ ‘red cedar’ + tʼáa ‘board’)
-laag̱ák	noun	rock slime, algae that grows on rocks
+laag̱ák	noun	eelgrass; rock slime, algae that grows on rocks
 laaḵʼásk	noun	black seaweed, dulse
 láḵt	noun	bentwood box
 láx̱ʼ	noun	heron
@@ -1449,6 +1454,8 @@ lingít	noun	person, Tlingit (< leengít < *łiʰngit < *łinagit, -git unknown)
 leengít	noun	person, Tlingit (< *łiʰngit < *łinagit, -git unknown)
 √lit	root	throw small plural objects, slide, slit (cf. lítaa ‘knife’)
 lítaa	noun	knife (cf. √lit ‘slit’)
+g̱atltulítaa	noun	pocket knife (< g̱átl + tú + lítaa)
+g̱altulítaa	noun	pocket knife (< g̱atltulítaa)
 leet	noun	ridge (cf. √lit ‘slide, slit’, leedí ‘dorsal fin’)
 leedí	noun	dorsal fin (cf. leet ‘ridge’)
 litká	noun	atop ridge (< leet + ká)
@@ -1838,7 +1845,7 @@ dzeenáa	noun	small snare (< √dzin unknown + -áa; cf. √dziʼÿ)
 dzínx̱i	noun	kind of medicine (cited from Swanton in L78: 39)
 √dziskw	root	call dog (only in L78: 39)
 dzískʼw	noun	moose (also tsískʼw; cf. tsískʼw ‘owl’)
-hinx̱ukadzéedzi	noun	sandpiper (< héen + x̱oo + ká + dzéets onomatopoiea?)
+hinx̱ukadzéedzi	noun	sandpiper (< héen + x̱oo + ká + dzéets onomatopoeia?)
 watsíx	noun	caribou (cf. wadzíx; < Dene cf. Tagish mesdzíh)
 wadzíx	noun	caribou (cf. watsíx; < Dene cf. Tagish mesdzíh)
 √dzixʼ	root	cover eyes (only in L78: 39)
@@ -2745,7 +2752,6 @@ gux̱ḵú	noun	slavery (< goox̱ ‘slave’ + ḵú ‘areal’)
 √guḵ	root	push; plural animate run
 góoḵ	noun	dried fish eggs, dried roe (> kagúḵxʼu)
 kagúḵxʼu	noun	dried fish eggs, dried roe (< ká + gooḵ + -xʼ + -í)
-gangukg̱áx̱i	noun	fish heads cooked by fire (< gangóok + g̱áx̱ unknown)
 gwá-	affix	dubitative element in gwál (cf. gu-, gu.aa, gushí)
 gwál	pcl	maybe, perhaps, possibly (< gwá- + l)
 gwáa	pcl	comprehension, usually in gwáawégé ‘is that so?’ (cf. gwá-)
@@ -2989,6 +2995,7 @@ kooḵtáak	noun	cave (< kóoḵ ‘pit’ + táak ‘inside surface’)
 kóox̱ʼ	noun	dry Indian celery stalk
 shadakóox̱ʼ	noun	hat ring (< shá + daa + kóox̱ʼ)
 -kw	affix	repetitive suffix on verbs (cf. -k)
+-ákw	affix	perhaps allomorph of repetitive suffix (cf. -kw, -k)
 √kwan	root	plural wade, swim on surface
 kwaan	noun	smallpox (<? Eng. quarantine, perhaps < CJ *kwántin < Eng.)
 √kwaʼt	root	blacken with smoke (cf. kwáat)
@@ -3397,6 +3404,72 @@ tláakʼwx̱úx̱	noun	cross uncle by marriage (< tláakʼw + x̱úx̱)
 shanax̱wáaÿi	noun	axe (< shá + n- + √x̱wa unknown + -í)
 shanx̱wáaÿi	noun	axe (< shanax̱wáaÿi)
 √x̱waʼl	root	tremble, rattle; wave flag
+g̱-	affix	g̱-conjugation prefix, aspect marker, downward (cf. g̱a-)
+g̱a-	affix	g̱-conjugation prefix, aspect marker, downward (cf. g̱-)
+g̱áa	interj	Raven call
+g̱áa	adv	enough, okay, all right (cf. g̱aa)
+g̱aa	adv	enough, okay, all right (cf. g̱áa)
+g̱áadéi	interj	resignation (< g̱áa + déi)
+tlʼag̱áa	adv	lots, a bunch, plenty, more
+adlag̱áa	interj	what a lot, surprise about quantity
+gwaag̱áal	adv	in gwaag̱áal yéi wooteeyíḵ ‘may it be’ (< gwáa + g̱áa + l)
+g̱aayéináx̱	noun	right side (< g̱áa + ÿé + -náx̱)
+-g̱áa	ppn	for obtaining, vicinity of, adessive postposition
+√g̱a	root	bashful, shy, backward, afraid to ask
+g̱aaÿ	noun	eagle in Chilkat placenames: G̱aaÿ Héeni, G̱aaÿ Shaaÿí
+√g̱aÿ	root	baby whimper, whine (cf. √g̱an)
+g̱án	interj	look (< √g̱in)
+√g̱an	root	baby whimper, whine (cf. √g̱aÿ)
+kʼeilg̱án	noun	Ahtna word said by boy when he killed his brother
+nag̱án	noun	carved gambling stick (cited from Swanton in L78: 71)
+néig̱án	noun	stone fish weir (cf. √neʼḵ ‘slushy’)
+g̱ánch	noun	tobacco
+√g̱at	root	split, fall apart; plural fall; sift; trap; star rise; disorient
+ÿakasg̱áat	noun	falling star (< ÿá + ká + s- + √g̱at)
+g̱aatáa	noun	trap (< √g̱at + -áa)
+kag̱ádaa	noun	cheesecloth, lace, netting, screen (< ká + √g̱at + -áa)
+taaÿídaaÿaaḵug̱áat	noun	nightmare (< tá + -í + daa + ÿaa= + ḵu- + √g̱at)
+daaÿaaḵug̱átch	noun	dizziness (< daa + ÿaa= + ḵu- + √g̱at + -ch)
+g̱aat	noun	sockeye salmon, red salmon
+√g̱atʼ	root	crawl (cf. √g̱watʼ ‘crawl’)
+shag̱átl	interj	smart!, sarcastic comment about intelligence (cf. √gutl ‘lump’)
+g̱áatl	noun	pilot bread (> aasdaag̱áadli)
+aasdaag̱áadli	noun	tinder conk, quinine conk (< aas + daa + g̱áatl)
+g̱átl	noun	hip, flank (cf. g̱áts, g̱ásh, ḵaatl, ḵaash, ḵaach)
+√g̱atl	root	come into heat (cf. √g̱itl)
+√g̱as	root	taboo, forbidden, proscribed, avoid
+g̱áts	noun	thigh (cf. g̱ádzi, ḵaatl, ḵaash, ḵaach)
+g̱ádzi	noun	hindquarters (cf. g̱áts, ḵaatl, ḵaach)
+√g̱asʼ	root	scratch itch; striped
+daag̱ásʼaa	noun	body scraper (< daa + √g̱asʼ + -áa)
+g̱ásh	noun	hip, flank (cf. g̱áts, ḵaatl, ḵaash, ḵaach)
+g̱áach	noun	rug, mat, heavy blanket
+ÿee.atkag̱áaji	noun	comforter, heavy blanket (< ÿee.át + ká + g̱áach + -í)
+kag̱áak	noun	mouse
+kag̱aklʼeedí	noun	yarrow, rat’s tail plant
+g̱ákw	noun	tree heartwood knot; hard, tough, dry and stiff 
+laaÿig̱águ	noun	ring finger (< laaÿi unknown + g̱ákw ‘tree heartwood’)
+x̱ʼag̱ákwshayi	noun	lower jaw hanging open (< x̱ʼé + g̱ákwshaa unknown + -í)
+g̱áaxʼw	noun	herring eggs (< √g̱axʼw?)
+shakag̱áxʼwaa	noun	omasum (< shá + ká + g̱áaxʼw + aa; < √g̱axʼw?)
+g̱áx̱	noun	rabbit (cf. √g̱ax̱ ‘cry’)
+g̱áx̱i	noun	in gangook g̱áx̱i ‘fish heads cooked by fire’ (cf. √g̱ax̱ ‘cry’)
+gangukg̱áx̱i	noun	fish heads cooked by fire (< gangook + g̱áx̱i)
+√g̱ax̱	root	cry, sob, weep; ask for, beg for (cf. g̱áx̱, g̱áx̱i, g̱aax̱, √g̱aḵ)
+g̱aax̱	noun	crying (cf. √g̱ax̱)
+kasg̱aax̱	noun	groan (< ká + s- + √g̱ax̱)
+yeekag̱áax̱i	noun	loon (cf. √g̱ax̱ ‘cry’)
+yeilg̱ag̱áx̱	noun	abalone (cf. g̱ag̱áḵ ‘gambling stick’)
+√g̱aḵ	root	dog bay, yelp, howl; raven make noise (cf. √g̱ax̱)
+√g̱aḵ	root	toss quoit, gambling stick (cf. g̱ag̱áḵ ‘quoit’)
+g̱ag̱áḵ	noun	quoit, gambling stick (cf. √g̱aḵ ‘toss quoit’)
+g̱aaḵ	noun	lynx
+deiḵeetg̱áaḵ	noun	jaeger (onomatopoeia? borrowing?)
+g̱áḵsʼi	noun	fish roasted by tail over fire
+g̱áḵwch	noun	hooligan trap (> g̱úḵch, g̱áḵwji)
+g̱úḵch	noun	hooligan trap (< g̱áḵwch)
+g̱áḵwji	noun	expandable thing in g̱áḵwji yáx̱ yatee (< g̱áḵwch)
+√g̱ax̱ʼ	root	thin, skinny, lean
 
 √g̱eig̱áchʼ	root	swing (< √g̱eḵ + -áchʼ)
 
