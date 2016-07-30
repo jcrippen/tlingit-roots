@@ -737,6 +737,7 @@ dasdané	noun	suckerfish (cf. Kaska dasdanja)
 ḵʼaakanéi	noun	deep dish for grease
 néi	interj	hey, look
 anixanéi	noun	bishop (< Ru. архиерей < Gk. ἀρχιερεύς)
+yaanashg̱wanéi	noun	nighthawk (etymology obscure, from Dene?)
 tʼukanéiÿi	noun	baby (< tʼook ‘cradleboard’ + √neʼÿ ‘fiddle, twiddle’)
 √neʼÿ	root	fiddle, twiddle
 tsʼeig̱éenei	noun	magpie (cf. g̱éen ‘red willow’)
@@ -3586,17 +3587,20 @@ g̱ushka.át	noun	laptop computer (< g̱ushká + át ‘thing’)
 g̱ooch	noun	wolf
 haadaag̱oojí	noun	lion, tiger (< haadaa- + g̱ooch ‘wolf’ + -í)
 g̱ooch.uwá	noun	coyote (< g̱ooch ‘wolf’ + uwáa ‘resembling’)
-√g̱uʼch	root	tie up; hold blanket around body (< √g̱waʼch)
+√g̱uchʼ	root	tie up; hold blanket around body (< √g̱wachʼ)
 √g̱uk	root	clutch, squeeze in hand, wring (cf. √g̱utl, √g̱uts)
 g̱úḵlʼ	noun	swan (< √g̱uḵ unknown + -lʼ ‘repetitive’)
 √g̱waʼn	root	tie in bow (> lag̱wán ‘bow’)
 lag̱wán	noun	tied bow (< l- + √g̱waʼn ‘tie in bow’)
+shag̱wán	noun	hair in bunch, hair bun (< shá ‘head’ + √g̱waʼn ‘tie in bow’)
 √gwan	root	spreadeagle, spread limbs
 √g̱watʼ	root	crawl
 √g̱watʼ	root	close up; wave roll
-√g̱walʼ	root	fart; insect sting
-√g̱wachʼ	root	tie up; hold blanket around body
-√g̱waʼch	root	tie up; hold blanket around body (> √g̱uʼch)
+g̱wáatʼ	noun	sheepskin, blanket made of mountain sheep
+shag̱asg̱wátʼ	noun	unkempt hair, bed head (< shá + g̱- + s- + √g̱watʼ)
+√g̱walʼ	root	fart; insect sting (cf. g̱wáalʼ)
+g̱wáalʼ	noun	fart (cf. √g̱walʼ)
+√g̱wachʼ	root	tie up; hold blanket around body (> √g̱uʼch)
 
 √ḵéenás	root	in-law property exchange (< √ḵi ‘pay’ + -nás)
 
