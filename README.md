@@ -42,16 +42,18 @@ The structure of the roots list is very simple. The file is composed of many
 entries, with each entry on a separate line. (Unix line endings are used, so
 that [newlines](https://en.wikipedia.org/wiki/Newline) are represented by
 U+000A Line Feed.) Each entry line is divided into three columns, and these
-columns are separated by tabs (U+0009 Character Tabulation).
+columns are separated by tabs ([U+0009 Character
+Tabulation](http://en.wikipedia.org/wiki/Horizontal_tabulation)).
 
 * `column1 → column2 → column3`
 
 The first column, `column1` above, is the entry datum. This is a single word
-without any spaces, possibly preceded by a `√` root sign (U+221A Square Root)
-if the entry is a verb root. The second column, `column2` above, contains a
-part of speech label. The part of speech labels are listed exhaustively in a
-subsection below. The third column, `column3` above, is the definition and
-other assorted information about the datum.
+without any spaces, possibly preceded by a `√` root sign ([U+221A Square
+Root](https://codepoints.net/U+221A?lang=en)) if the entry is a verb root. The
+second column, `column2` above, contains a part of speech label. The part of
+speech labels are listed exhaustively in a subsection below. The third column,
+`column3` above, is the definition and other assorted information about the
+datum.
 
 * `√taxʼ → root → bite, chew`
 * `lʼaak → noun → dress`
@@ -145,16 +147,16 @@ the preceding `ei` so that it becomes `oo`.
 Uvular lowering is the lowering of the high front vowel `i` ~ `ee` to the
 mid front vowel `e` ~ `ei` when adjacent to a uvular segment. The uvulars are
 uniformly represented in the orthography with an underscore diacritic
-(U+0331 Macron Below), so these are e.g. `x̱`, `ḵʼ`, `g̱w`. Uvular lowering
-can be progressive or retrogressive or both. The example below shows 
-progressive uvular lowering, with the uvular `g̱` causing the following `ee`
-to lower to `ei`.
+([U+0331 Macron Below](https://en.wikipedia.org/wiki/Macron_below)), so these
+are e.g. `x̱`, `ḵʼ`, `g̱w`. Uvular lowering can be progressive or retrogressive
+or both. The example below shows progressive uvular lowering, with the uvular
+`g̱` causing the following `ee` to lower to `ei`.
 
 * `g̱eeÿ` /qìːɰ/ ‘bay’ → `g̱eiÿ` /qèːɰ/ ‘bay’
 
 The following illustrates retrogressive uvular lowering, with the final uvular
-stop `ḵ` causing the preceding high front vowel `ee` to lower to mid front
-`ei`.
+stop `ḵ` causing the preceding high front vowel `ee` to be lowered to the mid
+front `ei`.
 
 * `eeḵ` /ʔìːq/ ‘copper’ → `eiḵ` /ʔèːq/ ‘copper’
 
