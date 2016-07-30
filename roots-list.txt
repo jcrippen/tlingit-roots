@@ -3589,7 +3589,13 @@ g̱ooch.uwá	noun	coyote (< g̱ooch ‘wolf’ + uwáa ‘resembling’)
 √g̱uʼch	root	tie up; hold blanket around body (< √g̱waʼch)
 √g̱uk	root	clutch, squeeze in hand, wring (cf. √g̱utl, √g̱uts)
 g̱úḵlʼ	noun	swan (< √g̱uḵ unknown + -lʼ ‘repetitive’)
-
+√g̱waʼn	root	tie in bow (> lag̱wán ‘bow’)
+lag̱wán	noun	tied bow (< l- + √g̱waʼn ‘tie in bow’)
+√gwan	root	spreadeagle, spread limbs
+√g̱watʼ	root	crawl
+√g̱watʼ	root	close up; wave roll
+√g̱walʼ	root	fart; insect sting
+√g̱wachʼ	root	tie up; hold blanket around body
 √g̱waʼch	root	tie up; hold blanket around body (> √g̱uʼch)
 
 √ḵéenás	root	in-law property exchange (< √ḵi ‘pay’ + -nás)
