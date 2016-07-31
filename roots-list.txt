@@ -504,7 +504,7 @@ kaÿáash	noun	platform
 ÿaak	noun	mussel
 lḵukanÿáaxʼ	adv	for nothing, for no purpose
 √ÿáakw	root	deny
-kaÿág̱aa	noun	stern sheets of boat (< ká + √ÿaḵ unknown + -áa)
+kaÿág̱aa	noun	stern sheets of boat (< ká + ?√ÿaḵ + -áa)
 √ÿaḵw	root	liken, make simile; bequeath
 √ÿaax̱áḵw	root	make plan (< √ÿaḵw + -x̱ + -áḵw ‘lacking’)
 ÿaax̱	noun	edge? in tʼáaÿaax̱ ‘board for table’, héen x̱ʼaÿaax̱ ‘shoreline’
@@ -817,7 +817,7 @@ néekw	noun	breeze (< √nikw ‘feel; wind blow’)
 √néekw	root	be annoyed, bothered (perh. same as √néekw ‘sick’)
 √néekw	root	sick (< néekw ‘sickness’)
 néekw	noun	sickness
-néegwálʼ	noun	paint (< √néekw unknown + -álʼ)
+néegwálʼ	noun	paint (< ?√néekw + -álʼ)
 √néegwálʼ	root	paint (< néegwálʼ ‘paint’)
 kanéegwálʼ	noun	jam; berries mixed with salmon eggs (< néegwálʼ ‘paint’)
 x̱ʼanéegwálʼ	noun	lipstick (< x̱ʼé ‘mouth’ + néegwálʼ ‘paint’)
@@ -858,10 +858,10 @@ nóosh	noun	dead floating salmon
 Anóoshi	name	Russian (<? Ru. из алюший)
 nóochʼ	noun	heart of fish
 √nuk	root	singular animate sit (imperative stem -nú)
--nú	affix	irregular imperative verb stem of √nuk ‘sg. animate sit’
-g̱anook	noun	petrel (< √nuk ‘sg. animate sit’)
-ganx̱nook	noun	pot beside fire (< gán + √nuk ‘sg. animate sit’)
-káanukjeit	noun	chair (< a káa núkji át, < √nuk ‘sg. animate sit’)
+-nú	affix	irregular imperative verb stem of √nuk ‘singular animate sit’
+g̱anook	noun	petrel (< g̱- + √nuk ‘singular animate sit’)
+ganx̱nook	noun	pot beside fire (< gán + -x̱ + √nuk ‘sg. animate sit’)
+káanukjeit	noun	chair (< ká + -xʼ + √nuk ‘singular sit’ + -ch + -eit)
 ginóok	noun	bread of the Eucharist (< *ginéikw < Ru. хлеб; cf. xunéikw)
 nukt	noun	grouse
 √nukts	root	sweet, delicious
@@ -891,7 +891,7 @@ kóoshdaa	noun	land otter (< kóosh- unknown + daa; cf. dáa ‘weasel’)
 daaw	noun	broad kelp
 daawáa	noun	Indian chess (<? √daʼÿ or √da)
 √daawáa	root	play Indian chess (< daawáa)
-dám	interj	bang
+dám	interj	bang (cf. túp)
 √daʼn	root	snow fall heavily (cf. kadánjaa ‘dust’, √dan ‘pile up’)
 kadánjaa	noun	dust
 Dánjaakʼ	name	Donjek River (reinterp.)
@@ -982,7 +982,7 @@ dei-	affix	out to sea (in deikée, < dáak ‘out to sea’)
 ḵashde	pcl	had thought (< x̱ach + de ‘now’, see x̱ach)
 x̱ashde	pcl	had thought (< x̱ach + de ‘now’, see x̱ach)
 shákdé	pcl	perhaps (<? shí ‘dubitative’ + gí ‘yes/no’ + de ‘now’)
-ḵʼanashgidéi	adv	poor (< sh-*√de unknown <? *√day or *√daÿ or *√di)
+ḵʼanashgidéi	adv	poor (<? x̱ʼé + n- + sh- + ?√git + -i + yé)
 chudéi	noun	tomcod
 tlʼaag̱eendéi	noun	leech
 táatlʼeeshdéi	noun	blackbird
@@ -991,7 +991,7 @@ déin	noun	area, vicinity (cf. -déin)
 -deit	affix	thing (< -d + -eit; cf. -weit, -ÿeit, -neit, -teit, -jeit)
 √del	root	protect, guard
 déili	noun	harbour (< √del ‘protect, guard’)
-déisaa	noun	clam juice for seasoning (< *√des unknown)
+déisaa	noun	clam juice for seasoning (< ?√des)
 √detlʼ	root	swelling of wound (also attested as √ḵetlʼ, see L73: 05/96)
 √dexʼ	root	ashamed
 kadéixʼ	noun	shame (< √dexʼ ‘ashamed’)
@@ -1004,7 +1004,7 @@ gudéeyi	noun	shallow canoe for pack ice travel
 √din	root	upset, concern, trouble
 deenáa	noun	seal harpoon (<? √din ‘upset, concern, trouble’)
 sʼoodeen	noun	shrew
-sʼikshaldéen	noun	Hudson Bay tea (< sʼeek + shá + l-*√din unknown; sʼíksh)
+sʼikshaldéen	noun	Hudson Bay tea (< sʼeek + shá + l- + ?√din; sʼíksh)
 gukyikdínl	noun	earwax, hard of hearing (< gúk + ÿík + *√din + *-ł)
 shdéen	noun	steel (< CJ sdíl or Eng. steel; occ. sdéen)
 shadíngaa	noun	pig (<? Ru. свинья ‘pig’ or свинина ‘pork’)
@@ -1096,7 +1096,7 @@ kootánaa	noun	paddle for stirring fish while rendering (< √tan + -áa)
 táanaa	noun	octopus spear (< √tan ‘hook squid or octopus’)
 √tan	root	be habituated
 séewkooshtaneit	noun	swallow (< séew ‘rain’ + √tan ‘habituated’)
-Ḵudatán Hít	noun	Salmon Box House (< ḵu- ‘areal’ + da-√tan unknown)
+Ḵudatán Hít	noun	Salmon Box House (< ḵu- ‘areal’ + d- + ?√tan)
 √tánu	root	gripe, complain, mutter
 sʼigeiditaan	noun	bat (< sʼigeidí ‘beaver’ + taan unknown)
 taan	noun	sea lion
@@ -1155,7 +1155,7 @@ tax̱gixʼaa	noun	point of hill (< táx̱k + xʼaa)
 √tax̱	root	moisture condense (cf. √tex̱ ‘moisture condense’)
 ḵukatáx̱	noun	dew (< √tax̱ ‘moisture condense’)
 katáx̱	noun	wetness on ground after dew or rain (< √tax̱ ‘moisture condense’)
-kootáax̱aa	noun	headband (< √tax̱ unknown)
+kootáax̱aa	noun	headband (< ?√tax̱)
 táax̱ʼ	noun	slug, snail
 táax̱ʼ	noun	raised level around housepit (cf. tʼáax̱ʼw)
 táax̱ʼw	noun	wart (cf. tʼáax̱ʼw)
@@ -1214,7 +1214,7 @@ latíni	noun	watcher (< √tin ‘see’)
 √tin	root	go away mad (with a-)
 ḵustín	adj	monstrous, giant
 √tín	root	in wudzitínxʼ ‘lots of makeup on’ (< Eng. thing + -xʼ ‘plural’)
-tináa	noun	copper shield (< √tin unknown + -áa)
+tináa	noun	copper shield (< ?√tin + -áa)
 tínx	noun	bearberry
 √tit	root	wave move (cf. teet ‘wave’)
 teet	noun	waves (cf. √tit ‘wave move’)
@@ -1263,6 +1263,7 @@ tú	noun	self; in PPs like tóo < tú + -xʼ (cf. dú)
 tú.á	interj	smart move, good one (sarcastic?)
 toow	noun	tallow (< *tuʰm)
 kintóow	noun	icicle (< kín + tóow unknown; cf. kintóodzi)
+túp	interj	pop, bang (cf. dám)
 tóotʼ	noun	wood waste from chopping tree? (L78: 26)
 √tul	root	drill; spin; roll up (cf. √duchʼ, √dutlʼ, √dusʼ, √tuʼl)
 túlaa	noun	drill (< √tul ‘drill, spin’)
@@ -1278,7 +1279,7 @@ tóoch	adj	fresh
 √tuchʼ	root	rub with hand, dab, roll up (cf. √dutlʼ, √duchʼ, √dusʼ, √tul)
 √tux	root	insect spring, hop (cf. √tix, √tixw)
 tóox	noun	sandflea, bedbug (< √tux; cf. tíx, wanatíx)
-jáajikatúxsi	noun	snowshoe frame (< √túxs unknown; <? Dene)
+jáajikatúxsi	noun	snowshoe frame (< ?√túxs < ?√tux + -s ; <? Dene)
 tuxʼ-	affix	knee in yan tuxʼ uwatsúw ‘he knelt down’
 √tuk	root	explode
 √tuk	root	brew too strong, rancid; clean, pure (with negation)
@@ -1492,7 +1493,7 @@ tleilú	noun	butterfly
 looní	noun	outer bark
 lóotʼ	noun	eel (cf. lʼóotʼ ‘tongue’)
 lóol	noun	fireweed
-ÿalooleit	noun	cockle (< ÿa- + √lul unknown + -i + át; cf. -eit)
+ÿalooleit	noun	cockle (< ÿa- + ?√lul + -i + át; cf. -eit)
 √luk	root	sip, slurp hot drink
 √luk	root	have dishpan hands (only L78: 30)
 √lux̱	root	drip in steady stream
@@ -1764,8 +1765,8 @@ sáaxw	noun	cockle
 saak	noun	hooligan, eulachon
 sáagi	noun	place for lying in wait
 -sákw	adj	future, to be
-kaságu	noun	beam of house (cf. kasúgu)
-sagweit	noun	kind of deadfall trap (< sákw unknown + -eit; cf. seen)
+kaságu	noun	beam of house (cf. kasúgu, sagweit)
+sagweit	noun	kind of deadfall trap (< ?√sakw + -eit; cf. seen, kaságu)
 sáxʼ	noun	edible cambium of spruce or hemlock (cf. káx̱i)
 √saḵ	root	exhausted (cf. √shaḵ)
 sáḵs	noun	yew; bow
@@ -1783,7 +1784,7 @@ sé	noun	place below or in front; cache (<? sé ‘voice, neck’)
 séixʼ	noun	in trade, in exchange (< sé ‘place below’ + -xʼ)
 waḵdasé	noun	without seeing (< waaḵ ‘eye’ + daa ‘around’ + sé ‘place below’)
 seiyí	noun	area below it; shelter (< sé ‘place below’ + -í)
-séitaa	noun	snipe (< √set unknown or √sa unknown + -t)
+séitaa	noun	snipe (< ?√set or ?√sa + -t)
 √sel	root	bird sing, chirp
 kaséix̱jaa	noun	soft rain (< kaséex̱jaa)
 seig̱án	noun	tomorrow (<? √sa ‘breathe, rest’ + -án ‘restore’)
@@ -1842,20 +1843,20 @@ dzaaÿí	noun	thick hair of beard, whiskers, nose (cf. √dzaʼÿ)
 √dzaʼÿ	root	grow beard (cf. dzaaÿí)
 dzánti	noun	flounder
 ḵʼaldzántí	noun	kind of flounder-like fish (in L73: 09/100; cf. dzánti)
-yadzánlʼ	noun	lumpy, pock-marked face (<? dzán unknown + -lʼ)
+yadzánlʼ	noun	lumpy, pock-marked face (< ÿá ‘face’ + ?√dzan + -lʼ)
 dzáas	noun	leather thong (cf. dzaas, √dzas)
 dzaas	noun	leather thong (cf. dzáas, √dzas)
 √dzas	root	lace up (cf. dzáas, dzaas)
 √dzas	root	winded, short of breath
 dzeináa	noun	small snare (< dzeenáa)
-dzeit	noun	ladder, stairs, bridge (<? √dza unknown + -eit ‘thing’)
+dzeit	noun	ladder, stairs, bridge (< ?√dza or ?√dzay + -eit ‘thing’)
 tʼáadzeit	noun	sidewalk, boardwalk (< tʼáa ‘board’ + dzeit ‘ladder’)
-dzagweit	noun	deadfall (< √dzakw unknown + -eit ‘thing’)
+dzagweit	noun	deadfall (< ?√dzakw + -eit ‘thing’)
 dzi-	affix	classifier prefix, D [t] + S [s] + I [i] (< d- + s- + i-)
 √dzée	root	difficult (cf. √dziʼÿ ‘balk’)
 √dziʼÿ	root	balk, stop short, resist, retreat (cf. √dzée ‘difficult’)
 ayaandzéeyi	noun	husky dog breed (< Ayáan + Dene dzí ‘dog’ + -í)
-dzeenáa	noun	small snare (< √dzin unknown + -áa; cf. √dziʼÿ)
+dzeenáa	noun	small snare (< ?√dzin + -áa; cf. √dziʼÿ)
 dzínx̱i	noun	kind of medicine (cited from Swanton in L78: 39)
 √dziskw	root	call dog (only in L78: 39)
 dzískʼw	noun	moose (also tsískʼw; cf. tsískʼw ‘owl’)
@@ -1945,8 +1946,8 @@ sʼáx	noun	starfish
 sʼáxtʼ	noun	devilsclub
 √sʼaxw	root	stack; put on hat (cf. sʼáaxw ‘hat’)
 sʼáaxw	noun	hat (cf. √sʼaxw ‘stack’)
-kanalsʼáak	noun	squirrel (< unknown √sʼak(w); cf. kalsʼáak)
-kalsʼáak	noun	squirrel (< unknown √sʼak(w); cf. kanalsʼáak)
+kanalsʼáak	noun	squirrel (< ?√sʼak; cf. kalsʼáak)
+kalsʼáak	noun	squirrel (< ?√sʼak; cf. kanalsʼáak)
 sʼaax̱	noun	groundhog, marmot (cf. tsálk)
 sʼaaḵ	noun	bone (> √sʼàaḵ ‘bony’)
 √sʼàaḵ	root	bony; ambitious (< sʼaaḵ ‘bone’)
@@ -1975,7 +1976,7 @@ sʼeeÿ	noun	eyebrow (cf. sʼee, sʼei)
 sʼiyitú	noun	corner of roof (< sʼee + ÿee + tú)
 sʼín	noun	wild carrot (> sʼán)
 √sʼin	root	grimace, flinch (cf. √xʼin ‘grimace, flinch’)
-sʼeenáa	noun	lamp (< *√sʼin unknown + -áa)
+sʼeenáa	noun	lamp (< ?√sʼin + -áa)
 √sʼit	root	wrap, screw, bind, bandage, braid
 kasʼéet	noun	screw (< √sʼit ‘wrap, screw’)
 choonkasʼéet	noun	payment for death (< choon + kasʼéet)
@@ -2288,8 +2289,8 @@ chaan	noun	mother in law (cf. chaa)
 chaadí	noun	section above tail of bird, especially Raven
 chál	noun	platform cache (cf. chíl)
 chalxóok	noun	air-dried salmon (< chál + √xuk)
-teetx̱ʼachálx̱i	noun	sponge (< teet + x̱ʼé + √chal unknown; cf. hinx̱ʼachálx̱i)
-hinx̱ʼachálx̱i	noun	sponge (< héen + x̱ʼé + √chal unknown; cf. teetx̱ʼachálx̱i)
+teetx̱ʼachálx̱i	noun	sponge (< teet + x̱ʼé + ?√chal + -x̱; cf. hinx̱ʼachálx̱i)
+hinx̱ʼachálx̱i	noun	sponge (< héen + x̱ʼé + ?√chal + -x̱; cf. teetx̱ʼachálx̱i)
 chaal	noun	square fish trap (cf. sháal)
 cháatl	noun	halibut
 √chalʼ	root	tired after eating, indulging, food coma
@@ -2298,7 +2299,7 @@ cháash	noun	bough, limb of tree with foliage; brush, logging slash
 chashhít	noun	temporary brush house (< cháash + hít)
 cháashga	noun	teacup (< Ru. чашка)
 √chaʼk	noun	pack, put away neatly; stack, pile up; pass away (euph.)
-chág̱ayi	noun	antler (< cháḵ unknown + -aa + -í)
+chág̱ayi	noun	antler (< ?√chaḵ + -aa + -í; cf. chíg̱ayi)
 cháax̱	noun	grebe
 kʼinchéiÿi	noun	rose hips
 chéin	noun	chain (< Eng. chain)
@@ -2316,8 +2317,8 @@ gunalchéesh	interj	thank you (< hél gunalchéesh < √chish ‘obtain easily�
 cheech	noun	porpoise
 chichuwáa	noun	porpoise-like shark (< cheech + uwáa)
 chichwú	noun	beluga (< cheech ‘porpoise’ + √wu ‘pale’)
-√chígaa	root	fierce (< √chik unknown + -áa)
-chíg̱ayi	noun	hoof, forefoot (<? √chiḵ unknown + -aa + -í)
+√chígaa	root	fierce (< ?√chik + -áa)
+chíg̱ayi	noun	hoof, forefoot (< ?√chiḵ -aa + -í; cf. chág̱ayi)
 chéex̱ʼ	noun	shadow, shade (> chéix̱ʼ, chíx̱ʼ; cf. √chix̱ʼ)
 chíx̱ʼ	noun	shadow, shade (< chéex̱ʼ; cf. √chix̱ʼ)
 √chix̱ʼ	root	shadow move (> √chex̱ʼ; cf. chéex̱ʼ, chíx̱ʼ)
@@ -2370,7 +2371,7 @@ chʼéix̱ʼw	noun	dirt, smut (cf. √chʼex̱ʼw, tlʼáx̱ʼkw, tlʼátk)
 x̱akwtayeechʼéix̱ʼw	noun	fingernail dirt (< x̱ákw + tá + ÿee + chʼéix̱ʼw)
 luchʼéix̱ʼw	noun	dirty nose (< lú + chʼéix̱ʼw)
 √chʼéix̱ʼu	root	dirty (< chʼéix̱ʼw ‘dirt’)
-√chʼéeÿáḵw	root	slow (< √chʼi unknown + -áḵw ‘lacking’)
+√chʼéeÿáḵw	root	slow (< ?√chʼi + -áḵw ‘lacking’)
 √chʼiʼn	root	tie up hair (cf. chʼéen, √tlʼin)
 chʼéen	noun	hair ribbon (cf. √chʼiʼn, √tlʼin, tlʼéenaa)
 chʼéeni	noun	calyx and stem of berry (< chʼéen, shakasʼídi)
@@ -2383,7 +2384,7 @@ tachʼeedí	noun	suckerfish (<? té or tá + chʼeet + -í)
 chʼéedaadáa	interj	 songbird call (cf. tsʼatsʼée)
 √chʼitʼ	root	lick from finger or stick
 tuḵx̱ʼachʼítʼaa	noun	stick for wiping anus (< tóoḵ + x̱ʼé + √chʼitʼ + -áa)
-koochʼéetʼaa	noun	ball (< √chʼitʼ unknown)
+koochʼéetʼaa	noun	ball (< ká + u- + ?√chʼitʼ + -áa)
 √chʼéetʼaa	root	play ball (< koochʼéetʼaa)
 √chʼish	root	splash (cf. √sʼis ‘blown by wind’)
 lakwchʼísh	noun	common scoter (< lakw unknown + √chʼish ‘splash’)
@@ -2527,7 +2528,7 @@ kaxwaan	noun	frost (cf. √xwaʼn, x̱akaxwaan)
 x̱akaxwaan	noun	silver fox (< x̱aaw + kaxwaan or √xwaʼn)
 x̱ʼadaatlaxwáni	noun	white whFritillaria camschatcensisiskers (< x̱ʼé + daa + -t + l- + √xwaʼn + -í)
 sʼixwaadáa	noun	kind of basket
-xwaasdáa	noun	canvas (<? √xwàast unknown)
+xwaasdáa	noun	canvas (< ?√xwàast + -áa or ?√xwas + -t + -áa)
 √xwaʼts	root	paint black (cf. √xuʼts ‘scorch’, √xuʼsh ‘singe’, shalxwáts)
 shalxwáts	noun	redbreasted merganser, sawbill (cf. √xwaʼts)
 √xwasʼ	root	suspend, hang; resemble (cf. √xaʼt)
@@ -2641,7 +2642,7 @@ gé	pcl	yes-no question (< gí)
 shgé	pcl	dubitative (< sh? + gé)
 chʼagé	interj	oh yeah, right (< chʼa + gé)
 kusʼoolgéi	noun	willow grouse
-koogéinaa	noun	shoulder sash (< √gen unknown; cf. √giʼn ‘wrinkle’)
+koogéinaa	noun	shoulder sash (< ká + u- + ?√gen + -áa; cf. √giʼn ‘wrinkle’)
 √geʼÿ	root	pay back (> √geiÿáḵw ‘claim payment’)
 atgéiw	noun	treasure, precious thing (< √geʼÿ)
 √geiÿáḵw	root	claim payment (< √geʼÿ + -áḵw ‘lacking’)
@@ -2681,7 +2682,7 @@ geets	noun	rash (cf. √giʼts ‘rashy, hives’)
 geesh	noun	kelp (cf. √gish ‘soak’)
 Gichx̱áan	name	Ketchikan
 géek	noun	stern of boat
-tsʼagéegi	noun	fish quickly cut for dogs (< *√gik unknown)
+tsʼagéegi	noun	fish quickly cut for dogs (< tsʼa- unknown + ?√gik)
 √gu	root	poke, stab; boats or sea mammals go in group or pod
 daa.itnagóowu	noun	actions, behavior (< daa.ít + n- + √gu ‘poke’ + -í)
 gú	noun	base (rare; cf. goowú ‘stump’, aasgutú ‘forest’)
@@ -2707,11 +2708,11 @@ xʼaagóon	noun	portage across spit or sandbar (< xʼaa + góon)
 neigóon	noun	nagoonberry, arctic raspberry, Rubus arcticus (unknown etym.)
 góon	noun	gold (< CJ gul < Eng. gold)
 shgóonaa	noun	sailing ship (< CJ sgúna < Eng. schooner)
-gúnlʼ	noun	burl, lump on tree (< √gun unknown + -lʼ; cf. gooch, gootl)
+gúnlʼ	noun	burl, lump on tree (< ?√gun + -lʼ; cf. gooch, gootl)
 aasx̱ʼagúnlʼi	noun	burl, lump on tree (< aas + x̱ʼé + gúnlʼ + -í)
 lakʼichʼgúnlʼi	noun	occipital bun (< lakʼéechʼ + gúnlʼ + -í)
 √gúnlʼ	root	have lump; try hard (< gúnlʼ ‘burl’; cf. √gúklʼ)
-gúnx̱aa	noun	abalone (< √gun unknown + -x̱ + -áa)
+gúnx̱aa	noun	abalone (< ?√gun + -x̱ + -áa)
 √gut	root	singular animate go (imperative stem -gú)
 kátgoot	noun	diarrhea (< √gut ‘sg. go’)
 gút	noun	dime (< gwít ‘dime’)
@@ -2797,7 +2798,7 @@ x̱eeÿgwálʼ	noun	pack string (<? √gwalʼ; cf. x̱eeÿ ‘pack’, ji.aax̱g
 ji.aax̱gwálʼi	noun	string for sth on lix̱ʼooseit (cf. x̱eeÿgwálʼ; in L78: 34)
 gijukx̱igwálʼi	noun	kind of moss, club moss? (< gijook + x̱eeÿgwálʼ)
 √gwasʼ	root	foggy (> ḵugwáasʼ; cf. √gusʼ ‘cloudy’)
-tagwásʼ	noun	sunray skate (<? √takw unknown or √gwasʼ ‘foggy’; cf. taagwásʼ)
+tagwásʼ	noun	sunray skate (< ?√takw or tá + √gwasʼ ‘foggy’; cf. taagwásʼ)
 taagwásʼ	noun	sunray skate (cf. tagwásʼ)
 ḵugwáasʼ	noun	fog (< √gwasʼ ‘foggy’; cf. ḵugóosʼ ‘cloud’)
 √gwaʼsh	root	hop on one leg (cf. √kʼwash)
@@ -2807,9 +2808,9 @@ sgwách	pcl	after all, at that point; contrary to expectations
 deisgwách	pcl	pretty soon, in a while, already (< dé + sgwách)
 lugwáachʼ	noun	rhinocerous auklet (< lú + gwáachʼ unknown; cf. lugóochʼ)
 gwéin	noun	rattle (only in L78: 59)
-gwéinli	noun	hoof (<? *√gwa, *√gwen unknown; cf. gwéinlani, gwéinlʼi)
-gwéinlani	noun	hoof (<? *√gwa, *√gwen unknown; cf. gwéinli, gwéinlʼi)
-gwéinlʼi	noun	hoof (<? *√gwa, *√gwen unknown; cf. gwéinli, gwéinlani)
+gwéinli	noun	hoof (< ?√gwa or ?√gwen; cf. gwéinlani, gwéinlʼi)
+gwéinlani	noun	hoof (< ?√gwa or ?√gwen; cf. gwéinli, gwéinlʼi)
+gwéinlʼi	noun	hoof (< ?√gwa or ?√gwen; cf. gwéinli, gwéinlani)
 √gwéinsh	root	tinker with
 gwéil	noun	bag, sack (< *gweˀł < *gway̓ał; cf. Haida gwaʼahl)
 dzasgwéil	noun	babiche bag; handbag (< dzaas + gwéil)
@@ -2817,7 +2818,7 @@ daakagwéili	noun	bag or sack for containing something
 sooḵgwéil	noun	burlap sack, gunnysack (< sooḵ + gwéil)
 gwéiji	noun	in wa.é tlein gwéijích ‘you old thing you’ (only in L78: 59)
 sgwéijín	noun	gin formerly sold in square bottles (< Eng. square gin)
-aatagwéixʼi	noun	pond lily (< áa + tá + *√gwexʼ unknown + -í)
+aatagwéixʼi	noun	pond lily (< áa + tá + ?√gwexʼ or ?√gwa + -xʼ + -í)
 gwîns	noun	beans (< Eng. beans)
 gwít	noun	dime (< CJ bit < Eng. bit ‘1/8th Spanish dollar; dime’; gút)
 gwíjín	noun	pigeon (< Eng. pigeon)
@@ -2983,7 +2984,7 @@ kút	noun	nest, den (cf. kúdi)
 kúdi	noun	nest, den (< kút + -í) 
 kool	noun	navel; whirlpool with haat ‘current’
 -kóol	affix	in jikóol ‘back of hand’
-ḵʼalukakúltʼi	noun	hole in rawhide for thong (< ḵʼa- + lú + √kúltʼ unknown)
+ḵʼalukakúltʼi	noun	hole in rawhide for thong (< ḵʼa- + lú + ká + ?√kul + -tʼ)
 √kutl	root	fluff up, puff up (cf. √kutlʼ)
 √kutlʼ	root	fart quietly; puff up, fluff up (cf. √kutl, √kuchʼ)
 kóotlʼ	noun	noiseless fart (cf. √kutlʼ, kóochʼ)
@@ -3101,7 +3102,7 @@ xʼisʼshantú	noun	center of octopus, squid, devilfish tentacles
 xʼéesʼát	noun	shrimp (<? √xʼisʼ ‘tangled’; cf. sʼéexʼát ‘shrimp’)
 √xʼish	root	skin, remove skin from (> xʼíshaa)
 xʼíshaa	noun	skinning knife (< √xʼish ‘skin’)
-xʼeesháa	noun	bucket (< *√xʼish unknown)
+xʼeesháa	noun	bucket (< ?√xʼish + -áa)
 inxʼeesháa	noun	bottle, jug (< ín ‘obsidian, glass’ + xʼeesháa ‘bucket’)
 xʼéeshaa	noun	great-grandmother (obscure; in L78: 65)
 √xʼixʼ	root	bite small bits, nip
@@ -3194,10 +3195,10 @@ kʼalulkʼéen	noun	small snowshoes for breaking trail (in L78: 66)
 kʼínkʼ	noun	fermented fish heads (<? *√kʼin + -kʼ ‘diminutive’)
 shakʼeet	noun	hair follicle (< shá ‘head’ + kʼeet unknown; cf. kʼí)
 √kʼitʼ	root	spread out; group act; eat up; exhaust, die out; pick berries
-kʼéetl	noun	ripple, small wave (<? *√kʼitl unknown)
+kʼéetl	noun	ripple, small wave (< ?√kʼitl)
 √kʼitlʼ	root	act childishly, act silly
-sakʼéetlʼ	noun	fox tail (<? sé + √kʼitlʼ or *√kʼitl see kʼéetl)
-kʼeeljáa	noun	chinook wind, south wind (< *√kʼil unknown + -ch + -áa)
+sakʼéetlʼ	noun	fox tail (<? sé + √kʼitlʼ or ?√kʼitl see kʼéetl)
+kʼeeljáa	noun	chinook wind, south wind (< ?√kʼil + -ch + -áa)
 kʼéetsʼán	noun	fruitless bush (cf. √kʼitlʼ, √kʼitʼ, kʼéetl, sakʼéetlʼ)
 lakʼéechʼ	affix	occiput, nape, back of head (< lá + kʼéechʼ unknown)
 kʼiḵ-	affix	in kʼiḵlʼán ‘palate’ (cf. √kʼix̱ʼ ‘hook, gaff’)
@@ -3287,7 +3288,7 @@ x̱at-	pron	me, first person singular object (cf. x̱át)
 √x̱aʼt	root	fish fin on surface, fish present (cf. x̱áat ‘fish, salmon’)
 x̱áat	noun	fish, salmon (< *χaˀt; cf. √x̱aʼt)
 x̱áat	pron	to me, first person singular punctual (< x̱áa- + -t)
-jikax̱ádaa	noun	rattle (< jín + ká + √x̱at unknown + -áa)
+jikax̱ádaa	noun	rattle (< jín + ká + ?√x̱at + -áa)
 x̱aat	noun	root of plant or tree, spruce root
 √x̱atʼ	root	pole bend under pressure; spring, whip; reverberate
 x̱átʼaa	noun	whip (< √x̱atʼ + -áa)
@@ -3389,7 +3390,7 @@ x̱íjaa	noun	beater, drumstick (< √x̱ich ‘beat’ + -áa)
 jikax̱íjaa	noun	rattle used by shaman (< jín + ká + √x̱ich ‘beat’ + -áa)
 x̱íji	noun	mane
 x̱ík	noun	puffin
-x̱éegwálʼ	noun	packstrap, lashing (< *√x̱ikw unknown + -álʼ)
+x̱éegwálʼ	noun	packstrap, lashing (< ?√x̱ikw + -álʼ)
 √x̱iʼk	root	flap wings (cf. x̱eek ‘upper arm’)
 x̱eek	noun	upper arm (> x̱eik)
 x̱eegí	noun	haunch, upper part of foreleg (cf. x̱eek ‘upper arm’)
@@ -3404,7 +3405,7 @@ x̱uká	noun	on surface of water or ship, among waves (< x̱oo + ká)
 x̱óow	noun	bark slab (cf. √x̱uʼw)
 x̱oonáa	noun	tool for debarking tree (cf. √x̱uʼw)
 x̱ooní	noun	relative, clan member; friend; in addition (cf. x̱einí, x̱oo)
-√x̱oonáḵw	root	drown (< √x̱un unknown + -áḵw ‘lacking’)
+√x̱oonáḵw	root	drown (< ?√x̱un + -áḵw ‘lacking’)
 √x̱utʼ	root	drag, pull; fish with rod (cf. √x̱utʼ ‘adze’)
 shax̱útʼaa	noun	fishing pole (< shá + √x̱utʼ + -áa)
 koox̱útʼdi	noun	rabbit snare (< √x̱utʼ ‘drag, pull’)
@@ -3418,7 +3419,7 @@ aatx̱úx̱	noun	parallel uncle by marriage (< aat + x̱úx̱)
 seix̱úx̱	noun	son-in-law
 tláakʼwx̱úx̱	noun	cross uncle by marriage (< tláakʼw + x̱úx̱)
 √x̱ux̱	noun	call for, ask for; compose song
-shanax̱wáaÿi	noun	axe (< shá + n- + √x̱wa unknown + -í)
+shanax̱wáaÿi	noun	axe (< shá + n- + ?√x̱wa + -í)
 shanx̱wáaÿi	noun	axe (< shanax̱wáaÿi)
 √x̱waʼl	root	tremble, rattle; wave flag
 g̱-	affix	g̱-conjugation prefix, aspect marker, downward (cf. g̱a-)
@@ -3525,7 +3526,7 @@ g̱eig̱áchʼ	noun	hammock, swing (< √g̱eḵ + -áchʼ)
 g̱éḵsʼi	noun	fish roasted by tail over fire (< g̱íḵsʼi)
 g̱eig̱í	noun	big old thing, ugly, clumsy (< √g̱iḵ ‘stingy’)
 √g̱eḵ	root	extrasensory warning, warn by sixth sense
-√g̱eiḵxʼ	root	impenetrable brush, thicket, brambles (< *√g̱eḵ unknown + -xʼ)
+√g̱eiḵxʼ	root	impenetrable brush, thicket, brambles (< ?√g̱eḵ + -xʼ)
 g̱eeÿ	noun	bay (> g̱eiÿ ‘bay’)
 √g̱in	root	look, cast eye; examine (< g̱- + *√.en; cf. Dene *√ʔeːn ‘see’)
 g̱éen	noun	red willow (cf. tsʼeig̱éenee ‘magpie’)
@@ -3535,7 +3536,9 @@ dletg̱éedi	noun	snowstorm, blizzard (< dleit ‘snow’ + g̱éet ‘storm’)
 ḵug̱éet	noun	stormy, squally weather (< ḵu- + g̱éet; cf. √g̱it ‘stormy’)
 kag̱ít	noun	darkness (< ká + √g̱it ‘dark’)
 kag̱eet	noun	common loon (< ká + √g̱it ‘dark’)
-√g̱it	root	slide, slip (cf. √ḵit ‘slide, slip’)
+√g̱it	root	slide, slip (cf. g̱eet, √ḵit ‘slide, slip’, ḵeet)
+g̱eet	noun	rockslide, landslide (cf. √g̱it, √ḵit, ḵeet)
+dletg̱eedí	noun	snowslide, avalanche (< dleit ‘snow’ + g̱eet ‘slide’ + -í)
 g̱ítg̱aa	noun	conifer needle (<? *√g̱ítḵ + -áa, *√g̱it + -ḵ + -áa, *g̱ít + -g̱áa)
 √g̱il	root	dull, blunt, not sharp (cf. √g̱ilʼ ‘sharpen, grind’)
 g̱éel	noun	saddle in ridge
@@ -3599,7 +3602,7 @@ haadaag̱oojí	noun	lion, tiger (< haadaa- + g̱ooch ‘wolf’ + -í)
 g̱ooch.uwá	noun	coyote (< g̱ooch ‘wolf’ + uwáa ‘resembling’)
 √g̱uchʼ	root	tie up; hold blanket around body (< √g̱wachʼ)
 √g̱uk	root	clutch, squeeze in hand, wring (cf. √g̱utl, √g̱uts)
-g̱úḵlʼ	noun	swan (< √g̱uḵ unknown + -lʼ ‘repetitive’)
+g̱úḵlʼ	noun	swan (< ?√g̱uḵ + -lʼ ‘repetitive’)
 √g̱waʼn	root	tie in bow (> lag̱wán ‘bow’)
 lag̱wán	noun	tied bow (< l- + √g̱waʼn ‘tie in bow’)
 shag̱wán	noun	hair in bunch, hair bun (< shá ‘head’ + √g̱waʼn ‘tie in bow’)
@@ -3616,9 +3619,9 @@ g̱wáalʼ	noun	fart (cf. √g̱walʼ)
 -ḵ	affix	lacking, absent (cf. -áḵw ‘lacking, absent’)
 √ḵa	root	sew; tattoo (> √ḵéilʼútʼ, ḵéinaa, ḵéechʼál, kax̱duḵéisʼáḵw)
 √ḵéilʼútʼ	root	wet seam by licking (< √ḵa ‘sew’ + lʼóotʼ ‘tongue’)
-ḵéinaa	noun	awl (< √ḵa ‘sew’ + -n + -áa)
-ḵéechʼálʼ	noun	seam (< √ḵa ‘sew’ + -chʼ + -álʼ)
-ḵéichʼálʼ	noun	seam (< ḵéechʼálʼ)
+ḵéinaa	noun	awl; penis (< √ḵa ‘sew’ + -n + -áa)
+ḵéichʼálʼ	noun	seam (< √ḵa ‘sew’ + -chʼ + -álʼ)
+ḵéechʼálʼ	noun	seam (< ḵéichʼálʼ)
 kax̱duḵéisʼáḵw	noun	quilt (< ká + g̱- + du- + √ḵa ‘sew’ + -sʼ + -áḵw)
 katḵésʼáḵw	noun	quilt (< ká + d- + √ḵa ‘sew’ + -sʼ + -áḵw)
 √ḵa	root	say, tell; send, order (> ÿaḵá, kooḵénaa, kooḵánaa)
@@ -3663,7 +3666,7 @@ kaḵáshx̱i	noun	steamed berries (< ká + √ḵash + -x̱ + -í)
 ḵaashdé	pcl	I had thought, supposition (cf. x̱ach, x̱aju, ḵach, ḵaju)
 √ḵach	root	swell up, inflate; bread rise, bake (> ḵájaa)
 ḵájaa	noun	kelp ball, floating kelp mat (< √ḵach ‘swell up’ + -áa)
-√ḵáchk	root	lame, limp, paralyzed (< *√ḵach unknown + -k ‘repetitive’)
+√ḵáchk	root	lame, limp, paralyzed (< ?√ḵach + -k ‘repetitive’)
 ḵákw	noun	basket (cf. ḵóok ‘box’)
 ḵágu	noun	big and wide open (< ḵákw ‘basket’; cf. x̱ʼaḵágu, tuḵḵágu, etc.)
 yéilḵágu	noun	dandelion (< yéil ‘raven’ + ḵákw ‘basket’ + -í)
@@ -3675,10 +3678,51 @@ x̱asḵáaxʼ	noun	cross fox (< x̱askáaxʼ ‘cross fox’ < √kaxʼ ‘spot
 √ḵax̱	root	dry cough, hack; say ‘hah’; quit unfinished (cf. ḵaax̱)
 ḵaax̱	noun	merganser (cf. √ḵax̱ ‘dry cough, hack’)
 ḵáx̱sʼ	noun	coho salmon tied to bush (why?)
+lḵáax̱yéináx̱	noun	left hand side, ‘bad’ side (< l + ḵáax̱? + yé + -náx̱)
 √ḵaḵ	root	land, alight; perch, squat
 woolnáx̱wooshḵáḵ	noun	wren (< wool ‘hole’ + -náx̱ + ÿu- + sh- + √ḵaḵ ‘perch’)
+kunaḵé	noun	frame lashing of snowshoe
+√ḵéi	root	shy
+√ḵe	root	pay (< √ḵi ‘pay’)
+√ḵéinás	root	in-law property exchange (< √ḵe ‘pay’ + -nás; cf. ḵéenás)
+√ḵetsʼ	root	tickle (> kaḵéitsʼ)
+kaḵéitsʼ	noun	ticklishness, tickling sensation, tickle (< ká + √ḵetsʼ)
+√ḵe	root	plural sit; plural awaken (< √ḵi ‘plural sit’)
+káayaḵejeit	noun	chair (< ká + -xʼ + √ḵe ‘plural sit’ + -ch + -eit)
+ḵei	noun	dawn (< ḵee ‘dawn’ < *qiˀ)
+√ḵen	root	fly (< √ḵin ‘fly’; cf. ḵén ‘brant’)
+ḵén	noun	brant (< ḵín ‘brant’; cf. √ḵen ‘fly’)
+ḵénaa	noun	flight feather, remiges, rectrices (< √ḵén ‘fly’ + -áa)
 
+wug̱aḵeináyi	noun	protecting spirit of clan (< ÿu- + g̱- + ?√ḵen + -áa)
+
+ḵuyasaḵéitʼi	noun	judge, commissioner, lawyer, court
+
+ḵélaa	noun	platter, large flat plate (< ḵílaa ‘platter’)
+
+√ḵi	root	pay (> √ḵe ‘pay’)
 √ḵéenás	root	in-law property exchange (< √ḵi ‘pay’ + -nás)
+√ḵi	root	plural sit; plural awaken (< √ḵe ‘plural sit’)
+ḵee	noun	dawn (< *qiˀ; > ḵei ‘dawn’)
+√ḵín	root	fly (> √ḵen ‘fly’; cf. ḵín ‘brant’)
+ḵín	noun	brant (> ḵén ‘brant’; cf. √ḵin ‘fly’)
+ḵínaa	noun	flight feather, remiges, rectrices (< √ḵin ‘fly’ + -áa)
+√ḵin	root	new moon (cf. ḵín ‘less than, short of’)
+ḵín	ppn	less than, short of (cf. √ḵin ‘new moon’)
+ishḵeen	noun	black cod, sablefish (cf. Haida sqil)
+√ḵit	root	suspect; annoyed with
+√ḵiʼt	root	dam up (cf. ḵéet ‘dam’)
+ḵéet	noun	dam (cf. √ḵiʼt ‘dam up’)
+√ḵit	root	slide, slip (cf. √g̱it ‘slide, slip’, g̱eet, ḵeet)
+ḵeet	noun	rockslide, landslide (cf. √ḵit ‘slide, slip’, g̱eet, √g̱it)
+√ḵitʼ	root	suppurate, ooze (cf. ḵéetʼ ‘pus’)
+ḵéetʼ	noun	pus (cf. √ḵitʼ ‘suppurate’)
+ḵílaa	noun	platter, large flat plate (< √ḵil + -áa; > ḵélaa ‘platter’)
+ḵéetlʼ	noun	runny tree sap, e.g. birch sap, maple sap
+√ḵisʼ	root	flood (cf. ḵéesʼ ‘flood’)
+ḵéesʼ	noun	flood (cf. √ḵisʼ ‘flood’)
+√ḵichʼ	root	sneak, spy, watch covertly
+ḵéechʼ	noun	scab, scar with scab on it
 
 ḵóok	noun	box (cf. ḵákw ‘basket’)
 
