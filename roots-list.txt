@@ -32,7 +32,7 @@ kuhaawú	noun	beaver tail
 kahánti	noun	strips (< √han ‘cut into strips’)
 kuhaantí	noun	orphan
 -háan	affix	plural pronoun suffix
-ḵuháan	noun	dwellers (> ḵwáan)
+ḵuháan	noun	dwellers (< ḵú + √han or √ha + -n; > ḵwáan)
 háanís	noun	harness (< Eng.)
 hándít	noun	hundred (< CJ hándlət or Eng. hundred)
 √hat	root	carry heavy object
@@ -618,7 +618,7 @@ wu-	affix	perfective prefix in verbs (< *ŋu-; cf. ÿu-, m-)
 √wu	root	send, take along
 wóow	noun	lunch (< √wu ‘send, take along’)
 √wu	root	float
-√wu	root	dare (see √wuḵ)
+√wu	root	dare (cf. √wuḵ ‘pity, doubt’)
 √wu	root	pale (orig. ‘white’)
 taanwú	noun	umbilical cord
 lakʼéechʼwu	noun	surf scoter (< lakʼéechʼ ‘occiput’ + √wu ‘pale’)
@@ -838,7 +838,8 @@ tusg̱aneix̱	noun	pity (< √nex̱)
 neix̱	noun	safe harbour (< √nex̱)
 néex̱ʼ	noun	marble
 néix̱ʼ	noun	marble (< √néex̱ʼ)
-ḵux̱denóo	noun	eddy, whirlpool
+ḵux̱deinwú 	noun	eddy, whirlpool (< ḵúx̱ + -dé + n- + √wu ‘float’)
+ḵux̱deinóo	noun	eddy, whirlpool (< ḵux̱deinwú)
 noow	noun	flat island; fort; palisade fish trap
 Xootsnoowú	name	Admiralty Island
 hóotsʼanoo	noun	hooch, booze (< CJ húchənu < Tl. Xootsnoowú)
@@ -875,6 +876,7 @@ noox̱ú	noun	colon (cf. ḵʼanoox̱)
 ḵʼanoox̱	noun	labret; whiskers of fish (cf. noox̱ú)
 d-	affix	classifier prefix, D-component [t]
 da-	affix	classifier prefix, D-component [t]
+da-	affix	element in directionals (cf. di-)
 √da	root	flow
 √da	root	accustomed; watch over
 daa	noun	around, surrounding (cf. daa ‘what wh-question’)
@@ -999,6 +1001,7 @@ déix̱	num	two (cf. déex̱, dáx̱-)
 déex̱	num	two (cf. déix̱; Yakutat dialect only)
 √deḵ	root	dare
 di-	affix	classifier prefix, D-component [t] + I-component [i] (< d-i-)
+di-	affix	element in directionals (cf. da-)
 dee	noun	tea (< Eng.)
 gudéeyi	noun	shallow canoe for pack ice travel
 √din	root	upset, concern, trouble
@@ -1025,7 +1028,7 @@ lidíx̱ʼ	noun	neck (< lé ‘throat’ + díx̱ʼ ‘spine’)
 ladíx̱ʼ	noun	neck (< lidíx̱ʼ)
 tudéx̱ʼi	noun	backbone, vertebra(e) (< tú ‘inside’ + díx̱ʼ ‘spine’)
 du	pron	third person human possessor/postposition
-du-	pron	someone, they, people, fourth person human subject
+du-	pron	someone, somebody, they, people, fourth person human subject
 dú	noun	self; in PP dóo < dú + -xʼ and PP dóot < dú + -t (also with tú)
 dú	interj	no thanks, refusal
 dóo	interj	you dummy, annoyance, impatience
@@ -1112,7 +1115,8 @@ taatÿeen	noun	middle of night (< taat ‘night’ + ÿeen ‘during’)
 tsʼootaat	noun	morning (<? tsʼu- + taat ‘night’)
 táal	noun	flat open basket; flat thing (cf. kaat ‘straining basket’)
 tuḵʼatáal	noun	pants, trousers (< tóoḵ ‘butt’ + x̱ʼé ‘mouth’ + táal)
-Taal	name	component of names referring to Tahltan
+taal	name	component of names referring to Tahltan (cf. táal ‘flat basket’)
+Taalḵú	name	Thomas Bay (< taal unknown + -ḵú ‘bay, area’)
 √tált	root	dissuade, discourage
 tás	noun	sinew, thread
 taská	noun	inguinal region (<? tás + ká)
@@ -1186,6 +1190,7 @@ téisʼ	noun	flab (< √tesʼ ‘limp, flabby’)
 √tex̱	root	smell acrid
 yéiltéx̱i	noun	wild onion (< √tex ‘smell acrid’)
 teiḵ	noun	cape (clothing; cf. teeḵ)
+Teiḵweidí	name	clan name (< tei unknown + -ḵú ‘bay’ + -eit + -í)
 téix̱ʼ	noun	heart (cf. √tex̱ʼ ‘twist’)
 Gutéix̱ʼ	name	Eyak (cf. Haida kʼudeeḵʼ)
 √tex̱ʼw	root	smoke signal (cf. √tax̱ʼw)
@@ -1300,6 +1305,7 @@ tʼaaÿ	noun	hotsprings; heat; perspiration (cf. √tʼaʰ ‘hot’)
 kanatʼá	noun	blueberry (< √tʼaʰ ‘ripe’)
 √tʼaʰ	root	warp, bend by steam or heat (cf. √tʼak ‘dent’)
 tʼá	noun	king salmon
+Tʼaaḵú	name	Taku (< tʼá ‘king salmon’ + -ḵú ‘bay, area’)
 -tʼaa	affix	one in demonstratives (< -t + aa ‘partitive’)
 -tʼát	affix	thing in demonstratives (< -t + át ‘thing’)
 tʼáa	noun	board (cf. √tʼaʼÿ ‘shiplap’)
@@ -1813,6 +1819,7 @@ sánk	noun	silk (< Eng.)
 seet	noun	Sitka spruce canoe (cf. leet, √lit ‘slide’)
 séet	noun	channel, portage
 sítʼ	noun	glacier
+Sitʼḵú	name	Sitkoh Bay (< sítʼ ‘glacier’ + -ḵú ‘bay, area’)
 √sis	root	tired, fatigued (cf. √siʼs)
 √siʼs	root	lull to sleep (cf. √suʼs, √sis)
 √suʼs	root	lull to sleep (cf. √siʼs)
@@ -2251,7 +2258,7 @@ jís	ppn	for possession (< jee ‘possession’ + ÿís ‘for’)
 √jixw	root	spin, roll on axis (> √jux)
 koojíxwaa	noun	wheel, wheelbarrow (< √jixw + -áa)
 √jikʼ	root	carry over shoulder
-Jeeshḵweidí	name	clan name (< jeesh-ḵú + -eit + -í)
+Jeeshḵweidí	name	clan name (< jeesh unknown + -ḵú ‘bay’ + -eit + -í)
 √jiḵ	root	scale fish (> √jeḵ; cf. kajeeg̱í ‘scales’)
 jeeg̱í	noun	kidney of fish
 kajeeg̱í	noun	scales of fish (> kajeig̱í; cf. √jiḵ ‘scale fish’)
@@ -2492,6 +2499,7 @@ xíxchʼ	noun	frog (cf. √xix ‘fall’)
 xixchʼikóoxu	noun	celery (< xíxchʼ ‘frog’ + kóox ‘rice’)
 xixchʼikaÿaaní	noun	watercress (< xíxchʼ ‘frog’ + kaÿaaní ‘leaf’)
 xixchʼitléig̱u	noun	neigoonberry (< xíxchʼ ‘frog’ + tléiḵw ‘berry’)
+ḵux̱shusxéexi	noun	ascending colon (< ḵúx̱ + shú + s- + √xix ‘fall’ + -í)
 √xu	root	steam
 xóow	noun	steambath (cf. √xu ‘steam’, xwéix̱ ‘steambath’)
 xwéix̱	noun	steambath (cf. √xu ‘steam’, xóow ‘steambath’)
@@ -3213,7 +3221,7 @@ aankʼóonáx̱	noun	with chʼa, calmly, without anger (< √àan + kʼú- + -n�
 kʼóolʼ	noun	backside, buttocks, hind quarters; coccyx, tailbone (cf. jikóol)
 kʼóolʼ	noun	fish hopper, of net spanning a river
 kʼóolʼi	noun	crumbs, last drop, last little bit
-ḵux̱dakʼóolʼin	adv	backward (< ḵúx̱ + da- + kʼóolʼ + -ín)
+ḵux̱dakʼóolʼin	adv	backward (< ḵúx̱ + -dé or da- + kʼóolʼ + -ín)
 kʼúntsʼ	noun	potato (> kʼúnsʼ)
 kʼúnsʼ	noun	potato (< kʼúntsʼ)
 shakʼúntsʼ	noun	deer sprouting horns (< shá ‘head’ + kʼúntsʼ ‘potato’)
@@ -3433,6 +3441,7 @@ adlag̱áa	interj	what a lot, surprise about quantity (< hadláa + g̱áa ‘eno
 gwaag̱áal	adv	in gwaag̱áal yéi wooteeyíḵ ‘may it be’ (< gwáa + g̱áa + l)
 g̱aayéináx̱	noun	right hand side, ‘good’ side (< g̱áa + yé + -náx̱)
 -g̱áa	ppn	for obtaining, vicinity, accept, adessive postposition (cf. g̱áa)
+-g̱áa	affix	distributive suffix in numerals (cf. dag̱a-, dax̱-)
 aag̱áa	ppn (< á + -g̱áa)	at that time, then (< á + -g̱áa)
 ÿeeg̱áa	ppn	waiting for (< ÿee ‘time’ or ÿee ‘below’ + -g̱áa)
 tóog̱aa	ppn	pleasing, liking, as wanted (< tú ‘mind’ + -g̱áa)
@@ -3639,6 +3648,7 @@ tleiḵáa	num	twenty (< tléixʼ ‘one’ + ḵáaʷ ‘man’)
 sʼag̱iḵáawu	noun	ghost (< sʼaaḵ ‘bone’ + ḵáaʷ ‘man’ + -í)
 sʼig̱iḵáawu	noun	ghost (< sʼag̱iḵáawu ‘ghost’)
 x̱anḵáawu	noun	companion (< x̱án + ḵáaʷ ‘man’ + -í)
+ḵaa	pron	someone, somebody, them, people, fourth person human (cf. ḵú)
 √ḵáa	root	gamble (> √ḵáanáatskʼ ‘wealthy’, alḵáa ‘gambling’)
 √ḵáanaatskʼ	root	have money, be rich (< √ḵáa ‘gamble’ + -naatskʼ unknown)
 alḵáa	noun	gambling (< a- + l- + √ḵáa ‘gamble’)
@@ -3693,13 +3703,9 @@ káayaḵejeit	noun	chair (< ká + -xʼ + √ḵe ‘plural sit’ + -ch + -eit)
 √ḵen	root	fly (< √ḵin ‘fly’; cf. ḵén ‘brant’)
 ḵén	noun	brant (< ḵín ‘brant’; cf. √ḵen ‘fly’)
 ḵénaa	noun	flight feather, remiges, rectrices (< √ḵén ‘fly’ + -áa)
-
 wug̱aḵeináyi	noun	protecting spirit of clan (< ÿu- + g̱- + ?√ḵen + -áa)
-
-ḵuyasaḵéitʼi	noun	judge, commissioner, lawyer, court
-
+ḵuyasaḵéitʼi	noun	judge, commissioner, lawyer, court (< ?√ḵetʼ)
 ḵélaa	noun	platter, large flat plate (< ḵílaa ‘platter’)
-
 √ḵi	root	pay (> √ḵe ‘pay’)
 √ḵéenás	root	in-law property exchange (< √ḵi ‘pay’ + -nás)
 √ḵi	root	plural sit; plural awaken (< √ḵe ‘plural sit’)
@@ -3723,8 +3729,53 @@ ishḵeen	noun	black cod, sablefish (cf. Haida sqil)
 ḵéesʼ	noun	flood (cf. √ḵisʼ ‘flood’)
 √ḵichʼ	root	sneak, spy, watch covertly
 ḵéechʼ	noun	scab, scar with scab on it
-
+ḵu-	affix	indefinite location, place, space, extent, areal prefix (cf. ḵú)
+ḵu-	pron	someone, somebody, them, people, fourth person human object
+ḵú	noun	indefinite location, place, space, extent, areal (cf. ḵu-)
+ḵú	pron	someone, somebody, them, people, fourth person human (cf. ḵaa)
+ḵóon	pron	with people, to people, fourth human instrumental (< ḵú + -n)
+ḵóo	pron	to people, fourth person human locative (< ḵú ‘people’ + -xʼ)
+ḵóoxʼ	pron	to people, fourth person human locative (< ḵú ‘people’ + -xʼ)
+ḵút	adv	lost, away, off to indefinite location (< ḵú ‘areal’ + -t)
+ḵúde	adv	into oblivion, disappearing, lost (< ḵú ‘areal’ + -dé)
+ḵude	adv	into oblivion, disappearing, lost (< ḵú ‘areal’ + -dé)
+ḵúnáx̱	adv	very (< ḵú ‘areal’ + -náx̱; cf. ḵúdáx̱, ḵútx̱)
+ḵúdáx̱	adv	too much (< ḵú ‘areal’ + -dáx̱; > ḵútx̱; cf. ḵúnáx̱)
+ḵútx̱	adv	too much (< ḵúdáx̱; cf. ḵúnáx̱)
+ḵúx̱	adv	reverse, going back, revertive (< ḵú + -x̱)
+galg̱aaḵú	noun	wilderness (<? g- + l- + √g̱a + ḵú ‘areal’; cf. katḵaaḵú, kalg̱aaḵú)
+kalg̱aaḵú	noun	wilderness (<? ká + l- + √g̱a + ḵú ‘areal’; cf. katḵaaḵú, kalg̱aaḵú)
+katḵaaḵú	noun	wilderness (<? ká + d- + √ḵa + ḵú ‘areal’; cf. galg̱aaḵú, kalg̱aaḵú)
+dag̱anḵú	noun	afterlife (<? dag̱a- ‘distributive’ + aan ‘land’ + ḵú ‘areal’)
+-ḵú	affix	element in placenames, bay, area (cf. ḵu-, ḵú ‘areal’)
+√ḵu	root	flood; vomit (cf. Lḵoot, aangalaḵú)
+Lḵoot.áa	name	Chilkoot Lake (< l- + √ḵu ‘vomit’ + -t + áa ‘lake’)
+Jilḵoot	name	Chilkoot (< ji- from Jilḵaat + lḵoot see Lḵoot.áa)
+aangalaḵú	noun	flood (< aan ‘land’ + g- ‘upward’ + l- + √ḵu ‘flood’)
+ḵóow	noun	cave (cf. ḵú ‘areal’, ḵoowú ‘den’)
+ḵoowú	noun	den (cf. ḵú ‘areal’, ḵóow ‘cave’)
+ḵúlkw	noun	punk, rotten wood, dry rot
+√ḵutlʼ	root	muddy (cf. ḵútlʼkw ‘mud’, √ḵuʼsh ‘open sore, unclean’)
+ḵútlʼkw	noun	mud, soil (cf. √ḵutlʼ ‘muddy’)
+Ḵooskʼeidí	name	clan name (< ḵooskʼ unknown + -eit + -í)
+√ḵuʼsh	root	open sore; unclean (cf. ḵóosh, ḵóoshkadáan, √ḵooshí)
+ḵóosh	noun	open sore; unclean thing
+ḵóoshkadáan	interj	oh no, woe, despair, distraught
+√ḵooshí	root	unclean (< √ḵuʼsh + -í)
+√ḵuʼsh	root	fall in heap, pile (cf. ḵoosh ‘cascade, fall of mass’)
+ḵoosh	noun	cascade, fall of mass (cf. √ḵuʼsh ‘fall in heap, pile’)
 ḵóok	noun	box (cf. ḵákw ‘basket’)
+√ḵuxʼ	root	sticklike fall over; animate roll on ground (cf. ḵóoxʼ)
+ḵóoxʼ	noun	fort, driftwood pole palisade in circle (cf. √ḵuxʼ)
+√ḵux̱	root	go by boat, go by vehicle (cf. chʼaḵúx̱)
+√ḵúx̱aa	root	play with toy boat (< √ḵux̱ + -áa)
+chʼaḵúx̱	noun	skin boat (>? jaaḵúx̱; cf. √ḵux̱, chʼáatwu)
+jaaḵúx̱	noun	skin boat (<? chʼaḵúx̱; cf. √ḵux̱, chʼáatwu)
+√ḵux̱	root	share food, contribute to potluck (d-sh-); extend hand (d-l-)
+√ḵuḵ	root	cough (< *√qʷaɢ)
+ḵwáan	noun	dwellers (< ḵuháan)
+√kwatlʼ	root	metal melt; boil hard
+ḵwáaḵ	adv	mistakenly, wrongly, errative (<? ḵú ‘areal’)
 
 chʼax̱ʼínx̱ʼ	noun	mallard (cf. kindachooneit)
 shax̱ʼéegwálʼ	noun	hair clip, barrette (< shá + √x̱ʼik + -álʼ)
