@@ -455,6 +455,7 @@ yooḵ	noun	cormorant
 √ÿaʰ	root	resemble (with irrealis u-)
 kaÿaa	noun	duplicate
 uwáa	adj	resembling, ersatz
+ÿáanaa	noun	enemy (<? ?√ÿa + -n + -áa)
 √ÿa	root	lower
 shaÿéinaa	noun	anchor
 ÿaÿéinaa	noun	whetstone
@@ -464,7 +465,8 @@ shaÿéinaa	noun	anchor
 ÿa-	affix	vertical surface, face, incorporated form of ÿá (< ÿá; cf. ÿ-)
 ÿá	noun	face, vertical surface (> ÿa-, ÿ-)
 ÿáag̱aa	noun	during, throughout, around the time of (<? ÿee + -g̱áa)
-ig̱aÿáak	noun	beach below town
+ig̱aÿáak	noun	beach below town (< éeḵ ‘beach’ + ÿá ‘face’ + -k locative)
+eeg̱aÿáak	noun	beach below town (< éeḵ ‘beach’ + ÿá ‘face’ + -k)
 g̱unaÿáa	adv	different (< g̱una ‘different’ + ÿá + -xʼ)
 g̱uwanáa	adv	different (< g̱unaÿáa < *ɢunaŋaˀ)
 tliÿaa	noun	next, further over
@@ -2199,7 +2201,7 @@ sheexú	noun	spleen
 shíkw	noun	strawberry (> shúk; cf. shákw)
 tayashágu	small red sea anemone (< té + ÿá + shákw + -í)
 √shikʼw	root	cramp, shock; blather, talk too much (> √shukʼ, kashéekʼw)
-kashéekʼw	noun	cramps, electricity (< √shikʼw; > kashóokʼ)
+kashéekʼw	noun	cramps, electricity (< √shikʼw; > kaḵhóokʼ)
 √shix̱ʼ	root	praise (> kashéex̱ʼ)
 kashéex̱ʼ	noun	praise, glory (< √shix̱ʼ)
 √shu	root	end, extend, hang (cf. shú, shoowú)
