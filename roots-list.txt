@@ -250,6 +250,7 @@ eix̱	noun	oil, grease (< eex̱)
 éix̱ʼ	noun	slough
 i-	affix	classifier prefix, I-component [i] (< *ŋi-; cf. ÿa-, ya-)
 -i	affix	relative clause, suffix on relativized verbs (cf. -í)
+-i	affix	at, in, on, rare locative suffix (cf. -xʼ ‘locative’)
 -í	affix	subordinate clause, suffix on subordinated verbs (cf. -i, -í)
 -í	affix	nominalization, suffix on nominalized verbs (cf. -i, -í)
 -í	affix	possessive, suffix on possessed nouns (cf. -ÿí, -wú, etc.)
@@ -383,7 +384,6 @@ lukshiyáan	noun	mink (cf. nukshiyáan)
 kiksyáan	noun	baby killerwhale
 ínyán	noun	onion (< Eng. onion)
 √yat	root	pleat
-kichyaat	noun	tern
 shaayáal	noun	hawk
 tayáadzi	noun	honeycomb ice
 tʼíxʼyáadzi	noun	honeycomb ice
@@ -2628,7 +2628,7 @@ gáxde	ppn	forward, out (< gáx- + -dé ‘toward’)
 gáaxw	noun	duck
 gáak	noun	outside, out in the open, out of shadow (cf. gáx-, gági)
 gáak	adv	protruding (< gáak ‘outside’)
-gági	adv	outside, out in the open, out of shadow (cf. gáak, gáx-)
+gági	adv	outside, out in the open, out of shadow (< gáak + -i; cf. gáx-)
 √gaxʼ	root	annoy by noise; pray (> x̱ʼagáaxʼ ‘prayer’)
 x̱ʼagáaxʼ	noun	prayer (< x̱ʼé + √gaxʼ)
 √gaxʼ	root	spotted (cf. √chʼalʼ, √chʼachʼ, √kaxʼ)
@@ -2974,11 +2974,17 @@ kookítsʼaa	noun	seesaw, teeter-totter (< √kítsʼaa)
 √kich	root	housewarming
 √kiʼch	root	putrefy, rot in sun (cf. kéech)
 kéech	noun	dead fish odor, stench of rot, smell of decay (cf. √kiʼch)
-atkíji	noun	stink of excrement (< √kiʼch; cf. kéech)
+keech	noun	contents of intestines (cf. √kiʼch, kéech, atkíji)
+atkíji	noun	stink of excrement (< √kiʼch; cf. kéech, keech)
 kích	noun	halibut bait (< √kiʼch)
 kichdéin	adv	smelly, stinking (< √kiʼch + -déin)
-kích	noun	tinder, firestarter
+kéech	noun	unidentified seaweed species (<? √kiʼch)
+kích	noun	tinder, firestarter; soft like powder, crumbly
+kích	noun	wing; side of body (> kichÿá; cf. kíji)
 kíji	noun	wing
+kichÿá	noun	under or beside arm, inside shirt (< kích + ÿá ‘face’)
+kichtusʼaag̱í	noun	wing bone (< kích + tú + sʼaaḵ + -í)
+kichtuyík	noun	sound of wings flapping, flap sound (< kích + tú + √yek)
 kich-	affix	in kichx̱.anagaat ‘rainbow’
 √kik	root	shake, shake out
 kík	noun	alongside, next to, side of (cf. kígi, keek)
