@@ -35,6 +35,7 @@ kuhaantí	noun	orphan
 ḵuháan	noun	dwellers (< ḵú + √han or √ha + -n; > ḵwáan)
 háanís	noun	harness (< Eng.)
 hándít	noun	hundred (< CJ hándlət or Eng. hundred)
+ándít	noun	hundred (< hándít)
 √hat	root	carry heavy object
 koohádaa	noun	heavy thing carrier (< √hat ‘carry heavy object’)
 √hat	root	cover
@@ -3084,6 +3085,7 @@ asxʼaan	noun	smokehouse with hít ‘house’ (< a- + s- + √xʼan ‘smoke fo
 √xʼaʼn	root	angry, grouchy (cf. xʼáan ‘anger’, √kʼan ‘hate’, x̱ʼaan ‘fire’)
 xʼáan	noun	anger; war (cf. √xaʼn)
 xʼaan	noun	point, tip, sharp edge; tips of branches (cf. xʼaan)
+naaxʼáani	noun	chief’s dagger (cf. √xʼaʼn ‘angry’, xʼáan ‘anger, war’)
 √xʼat	root	file, rasp (> xʼádaa ‘file, rasp’; cf. xʼátgu ‘dogfish’)
 xʼádaa	noun	file, rasp (< √xʼat ‘file, rasp’)
 xʼátgu	noun	dogfish, shark, Squalidae species (cf. √xʼat ‘file, rasp’)
