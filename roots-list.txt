@@ -354,6 +354,7 @@ tooxsʼeit	noun	bugle, pipe (< √.uʼx ‘blow’)
 √.uk	root	frost up
 óoxʼ	noun	shoulderblade
 √.ukʼ	root	play with things (< √.uʰ ‘own, buy’ + -kʼ ‘diminutive’)
+ux̱=	adverb	wrongly, out of control, blindly with kei=
 oox̱	noun	tooth
 dzeit.oox̱ú	noun	log ladder; stairs, steps (< dzeit + oox̱ ‘tooth’ + -í)
 ya-	affix	classifier prefix, I-component [i] (< *ŋi-; cf. ÿa-, y-, i-)
@@ -2772,10 +2773,16 @@ shuwugoojí	ironic amazement in tláakw shuwugoojí gé
 lugóochʼ	noun	nasal alae (< lú ‘nose’ + góochʼ unknown; cf. lugwáachʼ)
 gúk	noun	ear
 guk.át	noun	earring (< gúk + át; cf. gukkajaash)
+gukdaa	noun	outer ear, auricle (< gúk + daa)
+gukkudayáatʼ	noun	donkey (< gúk + ká + u- + d- + √ÿatʼ)
+gukyík	noun	inside ear, middle and inner ear (< gúk + ÿík)
+guklʼóotʼi	noun	tragus (< gúk + lʼóotʼ + -í)
+guklʼéinxw	noun	ear pendant; white ear spot on duck (< gúk + lʼéinxw)
 gúksh	noun	corner (< gukshú)
 gukshú	noun	corner (< gúk ‘ear’ + shú ‘end’; cf. gangook)
 gukshutú	noun	corner (< gukshú ‘corner’ + tú ‘inside’)
 gangook	noun	around fire (< gán ‘firewood’ + gook unknown; cf. gukshú)
+gukáaxʼ	ppn	clearly, distinctly, understandably (< gúk + ká + -xʼ)
 √guʼk	root	peck (cf. gandaadagóogu ‘woodpecker’)
 gandaadagóogu	noun	woodpecker (< gán + daa + d- + √guʼk + -í)
 gandaagóogu	noun	woodpecker (< gán + daa + + √guʼk + -í)
@@ -3084,7 +3091,7 @@ atxʼaan	noun	smokehouse with hídi ‘house of’ (< √xʼan ‘smoke food’)
 asxʼaan	noun	smokehouse with hít ‘house’ (< a- + s- + √xʼan ‘smoke food’)
 √xʼaʼn	root	angry, grouchy (cf. xʼáan ‘anger’, √kʼan ‘hate’, x̱ʼaan ‘fire’)
 xʼáan	noun	anger; war (cf. √xaʼn)
-xʼaan	noun	point, tip, sharp edge; tips of branches (cf. xʼaan)
+xʼaan	noun	point, tip, sharp edge; tips of branches (cf. xʼaa)
 naaxʼáani	noun	chief’s dagger (cf. √xʼaʼn ‘angry’, xʼáan ‘anger, war’)
 √xʼat	root	file, rasp (> xʼádaa ‘file, rasp’; cf. xʼátgu ‘dogfish’)
 xʼádaa	noun	file, rasp (< √xʼat ‘file, rasp’)
@@ -3102,7 +3109,7 @@ kaxʼásʼti	noun	lumber (< √xʼasʼ ‘slice, saw with grain’)
 √xʼash	root	bewitch, ensorcel, enchant, entrance
 √xʼáashaa	root	fool, play trick on (< √xʼash + -áa; in L78: 64)
 xʼaash	noun	butt cheek
-xʼashx̱ʼaak	noun	gluteal cleft (< xʼaash + x̱ʼaak)
+xʼashx̱ʼáak	noun	gluteal cleft (< xʼaash + x̱ʼáak)
 √xʼax	root	rough, coarse (cf. √xʼak ‘rough, coarse’)
 √xʼak	root	rough, coarse (cf. √xʼax ‘rough, coarse’)
 √xʼak	root	fish swim (cf. xʼaagí ‘pectoral fin’)
@@ -3354,7 +3361,7 @@ x̱áax̱ʼ	noun	dew (cf. √x̱ax̱ʼ)
 √x̱eʰ	root	fall to pieces
 x̱einí	noun	in addition; matching, equivalent, similar (cf. x̱ooní, x̱oo)
 x̱eináx̱	adv	catching up to; overtaking (<? x̱einí ‘matching’ + -náx̱ ‘perl.’)
-√x̱it	root	multiply, breed, spawn
+√x̱et	root	multiply, breed, spawn (< √x̱it)
 √x̱eʼt	root	shake off water; fish thrash out of water; mist fall (< √x̱eʼt)
 √x̱el	root	coil; waste time (cf. √x̱il)
 √x̱elʼ	root	stiff, paralyzed
@@ -3372,9 +3379,9 @@ x̱eeÿ	noun	pack; burden (cf. x̱íÿaa ‘chest packstrap’, Eyak χeːł ‘
 x̱íÿaa	noun	tumpline or packstrap on chest (cf. x̱eeÿ ‘pack’)
 √x̱in	root	sticklike move through space, fall; joint dislocate; end, close
 √x̱eenán	root	relocate, rearticulate, put joint back (< √x̱in + -án ‘restore’)
-√x̱it	root	multiply, breed, spawn
+√x̱it	root	multiply, breed, spawn (> √x̱et)
 √x̱iʼt	root	shake off water; fish thrash out of water; mist fall (> √x̱eʼt)
-kax̱ítjaa	noun	mist (< ká + √x̱it + -ch + -áa)
+kax̱ítjaa	noun	mist (< ká + √x̱iʼt + -ch + -áa)
 x̱éetʼ	noun	giant clam
 √x̱il	root	foam (> √x̱el; cf. x̱eel, √x̱ish)
 x̱eel	noun	foam (> x̱eil; cf. √x̱il, √x̱ish)
