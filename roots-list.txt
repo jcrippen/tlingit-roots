@@ -377,7 +377,7 @@ sʼawgusayáa	noun	red beetle (cf. sʼawangasayáa)
 dendewooyáa	noun	kind of thong (< Dene lgs.)
 √yàa	root	weird, strange
 √yaaÿí	root	submerged
-yáaÿ	noun	whale
+kyáaÿ	noun	whale
 yaaw	noun	herring
 héiyáaw	interj	fish are jumping
 Ayáan	name	Yukon Dene people (N. Tutchone, Hän, Gwichʼin, etc.)
@@ -1113,7 +1113,8 @@ séewkooshtaneit	noun	swallow (< séew ‘rain’ + √tan ‘habituated’)
 sʼigeiditaan	noun	bat (< sʼigeidí ‘beaver’ + taan unknown)
 taan	noun	sea lion
 taan	noun	people of a house group in clan names
-ḵutaan	noun	summer
+ḵutaan	noun	summer (cf. √tan ‘summer camp’)
+√tan	root	summer over, summer camp, fish camp (cf. ḵutaan ‘summer’)
 taanú	noun	umbilical cord (cf. taanwú, táani)
 taanwú	noun	umbilical cord (cf. taanú, táani)
 táani	noun	umbilical cord (cf. taanú, taanwú)
@@ -1223,10 +1224,10 @@ téeÿ	noun	chin
 √tiʼw	root	count, read (> √tuʼw)
 teen	ppn	with, instrumental postposition (< át? + ee + -n; cf. een, -n)
 tin	ppn	with, instrumental postposition (< teen)
-√tin	root	see; travel
+√tin	root	see, watch, look; travel
 ḵutéen	noun	sight (< √tin ‘see’)
 latíni	noun	watcher (< √tin ‘see’)
-√tin	root	go away mad (with a-)
+√tin	root	go away mad (with a-; cf. √tin ‘see, watch, look; travel’)
 ḵustín	adj	monstrous, giant
 √tín	root	in wudzitínxʼ ‘lots of makeup on’ (< Eng. thing + -xʼ ‘plural’)
 tináa	noun	copper shield (< ?√tin + -áa)
@@ -1238,8 +1239,15 @@ yaakwdaateedí	noun	wake of boat (< yaakw ‘boat’ + daa + teet ‘wave’ + -
 √tit	root	caulk
 téet	noun	caulk
 √titʼ	root	tense up
-téetʼi	noun	vein (< √titʼ ‘tense up’)
+téetʼi	noun	vein; tendon (< √titʼ ‘tense up’)
 jaḵtawteetʼí	noun	murderer (<? √jaḵ ‘kill’ + taw? + √titʼ ‘tense up’)
+saaÿeetéetʼi	noun	achilles tendon (< saÿee ‘calf’ + téetʼi ‘tendon’)
+x̱ʼeitakwtéetʼi	noun	achilles tendon (< x̱ʼeitákw ‘heel’ + téetʼi ‘tendon’)
+kalóoxʼshanitéetʼi	noun urinary tract (< kalóoxʼshani ‘bladder’ + téetʼi)
+shayiktéetʼi	noun jugular vein (< shá ‘head’ + ÿík ‘within’ + téetʼi ‘vein’)
+hinx̱ukatéetʼi	noun	water skeeter (< héen + x̱oo + ká + téetʼi)
+daatéetʼi	noun	sinew (< daa ‘around’ + téetʼi ‘tendon’)
+yadaatéetʼi	noun	surface blood vessels (< ÿá + daa + téetʼi ‘vein’)
 √til	root	scarred
 teel	noun	scar
 √til	root	put on shoes (cf. téel ‘shoe’)
@@ -2524,7 +2532,7 @@ xwéix̱	noun	steambath (cf. √xu ‘steam’, xóow ‘steambath’)
 kaxwéix̱	noun	highbush cranberry (< √xu ‘steam’)
 shantuxʼisʼkaxwéix̱i	noun	ink of octopus (< shantú + xʼísʼ + kaxwéix̱)
 √xu	root	weigh down with rocks
-xóow	noun	rockpile, rock weight (cf. √xu, xoon, √xun, ÿanxoon)
+xóow	noun	rockpile, rock weight (cf. √xu, xoon, ?√xun, ÿanxoon)
 sítʼwanxóowu	noun	moraine on side of glacier (< sʼít + wán + xóow + -í)
 sitʼkaxóowu	noun	moraine on end of glacier (< sʼít + ká + xóow + -í)
 xú	noun	pubic hair (cf. x̱aaw ‘fur, hair’)
@@ -3265,7 +3273,7 @@ kʼóochʼ	noun	shelter, shadow, back of, behind, rear end, butt (cf. kʼóolʼ)
 kʼúxjaa	noun	bump sound, knocking, distant noise (< √kʼux + -ch + -áa)
 kʼóox	noun	marten (cf. √kʼux ‘knock’)
 kʼóoxdísi	noun	morning star, evening star, Venus (< kʼóox + dís + -í)
-√kʼux̱ʼ	root	sticy (cf. kʼóox̱ʼ ‘pitch’)
+√kʼux̱ʼ	root	sticky (cf. kʼóox̱ʼ ‘pitch’)
 kʼóox̱ʼ	noun	pitch; lead
 lkʼóox̱ʼeit	noun	balsam fir (< l + kʼóox̱ʼ + -eit)
 gukyikkʼóox̱ʼu	noun	earwax (< gúk + ÿík + kʼóox̱ʼ + -í)
@@ -3874,7 +3882,8 @@ koox̱ʼílʼaÿeit	noun	sled (< ká + u- + √x̱ʼilʼ + -aa + ÿee + át)
 kax̱ʼees	noun	strong urine smell (< ká + √x̱ʼis ‘smell like urine’)
 lax̱ʼéesʼi	noun	beach rye (cf. √xʼisʼ ‘tangled, matted’)
 x̱ʼéesh	noun	rash (only in L78: 77)
-x̱ʼéeshi	noun	dry fish (< ?√x̱ʼish or √x̱ʼiʼsh + -í)
+x̱ʼéeshi	noun	dry fish (< ?√x̱ʼish or ?√x̱ʼiʼsh + -í)
+atx̱ʼéeshi	noun	dry fish (< at + ?√x̱ʼish or ?√x̱ʼiʼsh + -í)
 √x̱ʼiʼkw	root	clip (> shax̱ʼéegwálʼ; cf. √x̱ʼixʼw)
 shax̱ʼéegwálʼ	noun	hair clip, barrette (< shá + √x̱ʼiʼk + -álʼ; cf. x̱ʼéexʼwálʼ)
 √x̱ʼixʼ	root	squeeze through, wedge in (cf. x̱ʼíxʼ, √x̱ʼixʼw, √x̱ʼiʼkw, √ḵʼikʼ)
