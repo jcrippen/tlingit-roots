@@ -400,6 +400,8 @@ yaax̱	noun	bank, side edge
 Giyáḵw	name	Sugpiaq people, Alutiiq people (< Eyak)
 yé	noun	place, way, manner, circumstance, time (cf. yéi, ÿee ‘time’)
 yéi	adv	thus, so (cf. yé ‘manner’, yóo ‘thus’)
+tliyéi	adv	still, motionless (< ?tli + yéi; cf. tleyéi)
+tleyéi	adv	still, motionless (< ?tle + yéi; cf. tleyéi)
 koonaayei	noun	chipmunk
 atskʼiyé	noun	kind of duck species
 √yeʼn	root	twirl, wave, wag
@@ -458,7 +460,7 @@ yooḵ	noun	cormorant
 kaÿaa	noun	duplicate
 uwáa	adj	resembling, ersatz
 ÿáanaa	noun	enemy (<? ?√ÿa + -n + -áa)
-√ÿa	root	lower
+√ÿa	root	lower, dangle, hang, anchor; spread out; hone, sharpen, whet
 shaÿéinaa	noun	anchor
 ÿaÿéinaa	noun	whetstone
 ÿa-	affix	classifier prefix, I-component [i] (< *ŋi-; cf. ÿ-, ya-, i-)
@@ -654,6 +656,8 @@ m-	affix	perfective prefix in verbs (< *ŋu-; cf. ÿu-, wu-)
 √máamaa	root	call ‘mama’
 máadushgaa	noun	priest’s wife (< Ru. матюшка)
 √bélt	root	spell (< Eng. spelled)
+páadnaa	noun	partner, friend (< Eng. partner)
+páatnaa	noun	partner, friend (< Eng. partner)
 n-	affix	n-conjugation prefix, aspect marker, lateral direction
 na-	affix	n-conjugation prefix, aspect marker, lateral direction
 -n	ppn	with, instrumental postposition (cf. een, teen)
@@ -3368,7 +3372,7 @@ tex̱áaxʼ	noun	rock slab (< té ‘rock’ + x̱áaxʼ ‘slab’)
 x̱áax̱ʼ	noun	dew (cf. √x̱ax̱ʼ)
 √x̱eʰ	root	fall to pieces
 x̱einí	noun	in addition; matching, equivalent, similar (cf. x̱ooní, x̱oo)
-x̱eináx̱	adv	catching up to; overtaking (<? x̱einí ‘matching’ + -náx̱ ‘perl.’)
+x̱eináx̱	adv	catching up to; overtaking (< x̱einí ‘matching’ + -náx̱ ‘perl.’)
 √x̱et	root	multiply, breed, spawn (< √x̱it)
 √x̱eʼt	root	shake off water; fish thrash out of water; mist fall (< √x̱eʼt)
 √x̱el	root	coil; waste time (cf. √x̱il)
@@ -3857,6 +3861,7 @@ x̱ʼé	noun	mouth (< *χʼay; cf. x̱ʼa-, x̱ʼásʼ ‘jaw’)
 √x̱ʼéi	root	have mouth (< x̱ʼé ‘mouth’)
 x̱ʼanaa	noun	in the way of, obstructing (< x̱ʼé + niÿaa)
 x̱ʼatá	noun	sides of mouth (< x̱ʼé ‘mouth’ + tá ‘head of bay’)
+x̱ʼatú	noun	rim, edge of opening, eyehole of woven thing (< x̱ʼé + tú)
 tleḵwx̱ʼax̱daḵín	noun	hummingbird (< tléiḵw + x̱ʼé + -x̱ + d- + √ḵin ‘fly’)
 tseenx̱ʼé	noun	lizard (<? √tsin + x̱ʼé; cf. tsoonx̱ʼé)
 tsoonx̱ʼé	noun	lizard (cf. tseenx̱ʼé)
