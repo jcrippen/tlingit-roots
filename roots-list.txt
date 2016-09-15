@@ -1289,6 +1289,7 @@ tu-	pron	we, first person plural subject
 tú	noun	self; in PPs like tóo < tú + -xʼ (cf. dú)
 √tu	root	clever (cf. toowú ‘mind, emotion’)
 tú.á	interj	smart move, good one (sarcastic?)
+ḵushtúyáx̱	adv	irrelevant, unnecessary, doesn’t matter (<? √tu + yáx̱)
 toow	noun	tallow (< *tuʰm)
 kintóow	noun	icicle (< kín + tóow unknown; cf. kintóodzi)
 túp	interj	pop, bang (cf. dám)
@@ -1788,6 +1789,7 @@ shaaxʼsáani	noun	girls, young women (< sháa ‘woman’ + -xʼ ‘pl.’ + s�
 woosáani	noun	hunting spear
 sándi	noun	Sunday, week (< CJ sándi < Eng. Sunday)
 sandix̱ʼáak	noun	week (< sándi + x̱ʼáak ‘interval’)
+Saangwéishán	name	Salvation Army (L76: 93)
 √sat	root	tight (cf. √hat ‘cover’, √sa ‘narrow’)
 √sátkw	root	fast, quick (< √ha ‘move invisibly’)
 sáaxdze	noun	orphaned bear cub, yearling rejected by mother (< Dene)
@@ -3382,7 +3384,7 @@ x̱éisʼ	noun	wish (cf. √x̱esʼ, √x̱itl)
 √x̱exʼw	root	plural sleep (cf. √x̱i ‘overnight’)
 √x̱eḵ	root	wake early
 √x̱éḵsʼ	root	be early riser (< √x̱eḵ + -sʼ)
-x̱éix̱ʼu	noun	fish flesh, flakes?
+x̱éix̱ʼu	noun	fish flesh; flakes?
 waḵx̱ʼax̱éix̱ʼu	noun	eyelashes (< waaḵ + x̱ʼé + x̱éix̱ʼu)
 √x̱i	root	night pass; stay overnight (cf. x̱ee ‘night’, xee ‘dusk’, √ḵi ‘pl. sit’)
 x̱ee	noun	night, only in compounds and verbs (> x̱ei; cf. √x̱i, xee ‘dusk’)
