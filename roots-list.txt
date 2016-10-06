@@ -751,7 +751,7 @@ né	noun	hair seaweed
 yaa.aa.uné	noun	oldsquaw duck
 tsʼanéi	noun	round split cedar basket (<? C.Tsim.)
 dasdané	noun	suckerfish (cf. Kaska dasdanja)
-ḵʼaakanéi	noun	deep dish for grease
+ḵʼaakanéi	noun	deep dish for grease (<? C.Tsim.)
 néi	interj	hey, look
 anixanéi	noun	bishop (< Ru. архиерей < Gk. ἀρχιερεύς)
 yaanashg̱wanéi	noun	nighthawk (etymology obscure, from Dene?)
@@ -2390,6 +2390,7 @@ chʼáatwu	noun	epidermis (< chʼáat unknown + √wú ‘pale’; cf. tlʼátk)
 chʼáalʼ	noun	willow; pale (cf. √chʼalʼ ‘pale, spotted’)
 √chʼachʼ	root	spotted, polka-dotted (cf. √chʼalʼ, √gaxʼ, √kaxʼ)
 chʼáagu	adv	long ago (< chʼa + *tłáagu; cf. jáag̱oo, tlákw, tlaagú, tlágu)
+chʼáakw	adv	long ago (< chʼáagu)
 chʼáakʼ	noun	bald eagle
 chʼakʼyéisʼ	noun	juvenile bald eagle (< chʼáakʼ + yéisʼ)
 √chʼakʼw	root	carve, incise (cf. kachʼákʼwaa)
@@ -3241,6 +3242,7 @@ shakʼí	noun	hairline (< shá ‘head’ + kʼí ‘base’)
 jinkʼí	noun	base of hand (< jín ‘hand’ + kʼí ‘base’)
 kʼeeyí	noun	lower part of trunk or stem (< kʼí + -í)
 Gusʼkʼiḵwáan	noun	White, European, Russian (< góosʼ + kʼí + ḵwáan)
+kʼidaa	noun	neighbouring, neighboring (< kʼí ‘base’ + daa ‘around’)
 -kʼee	affix	in wankʼeenáx̱ ‘quietly’ and kʼeekát ‘at least’ (cf. kʼí)
 wankʼeenáx̱	adv	quietly, under breath (< wán ‘edge’ + -kʼee + -náx̱)
 kʼeekát	adv	in chʼa kʼeekát ‘at least’ (< -kʼee + -kát; cf. chʼakʼát)
@@ -3561,7 +3563,7 @@ g̱áḵwji	noun	expandable thing in g̱áḵwji yáx̱ yatee (< g̱áḵwch)
 √g̱ax̱ʼ	root	thin, skinny, lean
 g̱ei	noun	enclosed within, between, in folds of (cf. g̱eiwú ‘seine net’)
 g̱eiÿí	noun	inside of shell (< g̱ei ‘within’)
-jig̱ei	noun	forearm (< jín ‘arm’ + g̱ei ‘betwee’)
+jig̱ei	noun	forearm (< jín ‘arm’ + g̱ei ‘between’)
 g̱atsg̱ei	noun	between legs (< g̱áts ‘thigh’ + g̱ei ‘between’)
 xʼuxʼg̱ei	noun	between pages of book (< xʼúxʼ ‘book’ + g̱ei ‘between’)
 √g̱eiÿáḵw	root	extract from shell (< g̱ei ‘within’ + -áḵw ‘lacking’)
