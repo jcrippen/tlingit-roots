@@ -458,7 +458,7 @@ yooḵ	noun	cormorant
 ÿaa=	adv	along, progressive adverb with verbs (cf. yéi ‘thus’)
 √ÿaʰ	root	resemble (with irrealis u-)
 kaÿaa	noun	duplicate
-uwáa	adj	resembling, ersatz
+uwáa	adj	resembling, ersatz (< √ÿaʰ ‘resemble’)
 ÿáanaa	noun	enemy (<? ?√ÿa + -n + -áa)
 √ÿa	root	lower, dangle, hang, anchor; spread out; hone, sharpen, whet
 shaÿéinaa	noun	anchor
@@ -3580,7 +3580,7 @@ g̱ég̱aa	adv	with chʼa, in vain, uselessly, pointless (< g̱íg̱aa)
 g̱eig̱áchʼ	noun	hammock, swing (< √g̱eḵ + -áchʼ)
 √g̱eig̱áchʼ	root	swing (< g̱eig̱áchʼ)
 g̱éḵsʼi	noun	fish roasted by tail over fire (< g̱íḵsʼi)
-g̱eig̱í	noun	big old thing, ugly, clumsy (< √g̱iḵ ‘stingy’)
+g̱eig̱í	noun	big old thing, ugly, clumsy (< g̱eeg̱í < √g̱iḵ ‘stingy’)
 √g̱eḵ	root	extrasensory warning, warn by sixth sense
 √g̱eiḵxʼ	root	impenetrable brush, thicket, brambles (< ?√g̱eḵ + -xʼ)
 g̱eeÿ	noun	bay (> g̱eiÿ ‘bay’)
@@ -3620,6 +3620,7 @@ g̱eeg̱áchʼ	noun	hammock, swing (< √g̱iḵ + -áchʼ)
 g̱íḵsʼi	noun	fish roasted by tail over fire (< g̱íḵsʼ + -í; > g̱áḵsʼi, g̱éḵsʼi)
 g̱íḵsʼ	noun	fish roasted by tail over fire (< √g̱iḵ + -sʼ; > g̱íḵsʼi)
 √g̱iḵ	root	stingy, cheap; merciful
+g̱eeg̱í	noun	big old thing, ugly, clumsy (< √g̱iḵ ‘stingy’; > g̱eig̱í)
 √g̱ix̱ʼ	root	creak, squeak, make noise by rubbing (> g̱íx̱ʼjaa)
 g̱íx̱ʼjaa	noun	creak, squeak; bowed string instrument, violin, fiddle (< √g̱ix̱ʼ + -ch + -áa)
 √g̱íx̱ʼjaa	root	creak (< g̱íx̱ʼjaa)
