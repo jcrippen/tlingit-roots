@@ -693,7 +693,8 @@ náa	noun	covering, draped over; end of pointed object
 chʼakwanáaxʼ	adv	anyway (cf. ḵulkanáaxʼ, lḵukanyáaxʼ)
 lukanáa	noun	dog eater demon (from southern tribes)
 aganáa	interj	oh no, regret
-weenáa	noun	sawmill (< CJ (lə)mulá < Fr. le moulin; not *woonáa)
+weenáa	noun	sawmill (< woonáa < CJ (lə)mulá < Fr. le moulin)
+woonáa	noun	sawmill (< CJ (lə)mulá < Fr. le moulin)
 naaw	noun	bilge water
 náaw	noun	liquor (< CJ lam < Eng. rum)
 Xoujunáay	name	Fourth of July (< Eng.)
@@ -1816,7 +1817,7 @@ sadatʼaaÿ	noun	scarf (< sé + daa ‘around’ + tʼaaÿ ‘heat’)
 sé	noun	place below or in front; cache (<? sé ‘voice, neck’)
 séixʼ	noun	in trade, in exchange (< sé ‘place below’ + -xʼ)
 waḵdasé	noun	without seeing (< waaḵ ‘eye’ + daa ‘around’ + sé ‘place below’)
-seiyí	noun	area below it; shelter (< sé ‘place below’ + -í)
+seiÿí	noun	area below it; shelter (< sé ‘place below’ + -í)
 séitaa	noun	snipe (< ?√set or ?√sa + -t)
 √sel	root	bird sing, chirp
 kaséix̱jaa	noun	soft rain (< kaséex̱jaa)
@@ -2554,7 +2555,7 @@ sitʼxóodzi	noun	glacier bear (< sítʼ ‘glacier’ + xóots ‘brown bear’
 hintakxóodzi	noun	polar bear (< héen ‘water’ + táak + xóots ‘brown bear’)
 √xuts	root	overpower (cf. xóots ‘brown bear’)
 √xuʼts	noun	scorch, burn black (cf. √xwaʼts, √xuʼsh)
-xoodzí	noun	partly burnt wood (< √xuʼts)
+xoodzí	noun	partly burnt wood; falling star, comet (< √xuʼts)
 √xuʼsh	root	singe, scorch (cf. √xuʼts, √xwaʼts)
 xóoshtʼ	noun	burnt stuff (√xuʼsh + -tʼ)
 √xuk	root	dry (cf. xook, √xak, √kux)
@@ -3568,7 +3569,7 @@ g̱atsg̱ei	noun	between legs (< g̱áts ‘thigh’ + g̱ei ‘between’)
 xʼuxʼg̱ei	noun	between pages of book (< xʼúxʼ ‘book’ + g̱ei ‘between’)
 √g̱eiÿáḵw	root	extract from shell (< g̱ei ‘within’ + -áḵw ‘lacking’)
 g̱eiÿ	noun	bay (< g̱eeÿ ‘bay’)
-g̱eiwú	noun	seine net
+g̱eiwú	noun	seine net (cf. g̱ei ‘enclosed within’)
 √g̱eiwú	root	seine, fish with seine net
 asg̱eiwú	noun	seine fisherman (< a- + s- + √g̱eiwú ‘seine’)
 x̱ʼadag̱eidí	noun	fish trap barrier (< x̱ʼé + daa + g̱ei + -eit + -í)
