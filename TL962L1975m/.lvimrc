@@ -1,4 +1,4 @@
 set tabstop=20
 set showbreak=____________________
-set guifont=Menlo:h14
+set guifont=Consolas:h14
 set columns=100
