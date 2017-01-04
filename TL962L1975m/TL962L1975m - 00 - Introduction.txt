@@ -1,0 +1,133 @@
+TLINGIT STEM LIST
+
+Jeff Leer
+Alaska Native Language Center
+University of Alaska
+Fairbanks, AK 99701
+
+June 1978
+
+«0»
+Alphabetical order
+
+Consonants
+	Glottals
+	h
+	. /ʼ/
+	Sonorants
+	w
+	y
+	ÿ
+	n
+	Obstruents (order: non-glottalized F, D, T; glottalized Fʼ Tʼ)
+	-	ł	s	sh /š/		x	x̱ /x̣/
+	d	dl	dz	j /dž/		g	g̱ /ɢ/
+	t	tł	ts	ch /tš/		k	ḵ /q/
+	-	łʼ	sʼ	-		xʼ	x̱ʼ /x̣ʼ/
+	tʼ	tłʼ	tsʼ	chʼ /tšʼ/	kʼ	ḵʼ /qʼ/
+Vowels
+	a
+	e
+	i
+	u
+
+Stem Nucleus Types
+		Tongass		Sanyaa-Heinyaa	Northern
+	V	V		V́		V́
+	V`	VV`		V̀V		VV
+	Vʼ	VVʼ		V̂V		V́V
+	Vˑ	VVˑ		V́V		V́V
+	V;	--		--		V́V (indeterminate)
+
+«i»
+A.	Stem Types
+	All variable verb stems are marked with *.
+
+1.	Open verb stems
+	(a)  CV*ˑ	suffixed stem with sustained (high-toned)
+			vowel.
+	     CV*`	suffixed stem with fading (low-toned) vowel.
+
+	(b)  Unless suffixed and/or progressive stems are shown,
+	     all suffixed and progressive stems have the ablaut
+	     a > e, u > (w)e, and progressive stems have sustained
+	     (high-toned) vowels.
+
+	(c)  (w-) after a stem indicates that the allomorph -wu(C)
+	     of suffixes having the shape -(ÿ)i(C) is used
+	     following the unsuffixed stem.
+
+2.	Closed verb stems
+
+	(C⁻ indicates a non-glottalized stem-final consonant;
+	Cʼ indicates a glottalized stem-final consonant).
+			Lengthened stem	Basic stem	Reduced stem
+	Stem Type	/CVːC/		/CV°C/		/CVC-/
+	CV`C⁻*		 CVˑC⁻		 CV`C⁻		 CVC⁻
+	CVʼCʼ*		 CVˑCʼ		 CVʼCʼ		 CVCʼ
+	CVʼC⁻*		 CVʼC⁻		 CVʼC⁻		 CVC⁻
+	CVˑC⁻*		 CVˑC⁻		 CVˑC⁻		 CVC⁻
+	Stems of the shape CVˑC⁻* are rare and unstable.
+
+3.	Open noun stems
+
+	Stem type	-t, -x̱, -xʼ	-de,-dax̱,-nax̱,-g̱a,-n₁	-n₂
+	CV		CVˑ-		CVˑ-			CVˑ-
+	CV²		CVˑ-		CV`-			—
+	CV³		CV-		CV`-			Ciˑ-
+
+«ii»
+B.	Conjugations
+
+		Open		Conjugation	Conjugation
+		hortative stem	prefix		directional
+	∅	CV`		∅		—
+	∅ˑ	CVˑ		∅		—
+	n	CV`		na-		—
+	g̱	CV`		g̱a-		ÿe`
+	g	CV`		ga-		ke`
+
+	Hortative stems of the shape CV` are realized as CV` in
+	the subjunctive and potential, but CV in the imperative.
+
+	The conjugation directional for ∅ and n conjugations is ∅
+	in the future tense and ÿa` in the progressive aspect.
+
+C.	Imperfective Types
+
+	(N.B. In the following chart, realized (that is, non-
+	negative, non-optative, non-decessive, non-participial,
+	non-abstract) imperfectives are separated from abstracted
+	(that is, negative, optative, decessive, participial or
+	abstract noun) imperfectives by a slash.)
+
+			Open Stems		Closed Stems
+	1.	Active imperfectives (having A-form classifiers)
+		A1	CVˑ/CV`			CVːC/CV°C
+		A2	—			CV°C
+		A3	CV			CVC
+		A-C	having suffix		-C₀
+	2.	Positional imperfectives (having A-form classifiers)
+		P1	CVˑ/CV`			CVːC/CV°C
+		P3	—			CVC
+	3.	Neuter imperfectives (having I-form classifiers)
+		I1	CVˑ/CV`			CVːC/CV°C
+		I2	CV`			CV°C
+		I3	CVˑ/CV			—
+		I3b	CV`/CV			–
+		I-C₀	having suffix		-C₀
+	4.	Extension imperfectives (having conj. prefix and I-form cls.)
+		E1	CVˑ/CV`			—
+		E2	CV`			CV°C
+		E3	CVˑ/CV			—
+
+«iii»
+	The imperfectives of invariable verb stems are given simply
+	as A or I. Note also that A1 and A2 are not distinct with
+	stems of the type CVʼC⁻* and CVˑC⁻*; such imperfectives
+	are also given as A.
+
+D.	Thematic Prefixes
+
+	Only thematic prefixes which are proper to all major themes
+	under a stem are given.
