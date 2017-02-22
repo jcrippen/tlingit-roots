@@ -3762,7 +3762,7 @@ wug̱aḵeináyi	noun	protecting spirit of clan (< ÿu- + g̱- + ?√ḵen + -á
 ḵee	noun	dawn (< *qiˀ; > ḵei ‘dawn’)
 ḵeex̱ʼé	noun	crack of dawn, early dawn (< ḵee ‘dawn’ + x̱ʼé ‘mouth’)
 Ḵéex̱ʼ	name	Kake (< ḵeex̱ʼé ‘early dawn’)
-√ḵín	root	fly (> √ḵen ‘fly’; cf. ḵín ‘brant’)
+√ḵin	root	fly (> √ḵen ‘fly’; cf. ḵín ‘brant’)
 ḵín	noun	brant (> ḵén ‘brant’; cf. √ḵin ‘fly’)
 ḵínaa	noun	flight feather, remiges, rectrices (< √ḵin ‘fly’ + -áa)
 √ḵin	root	new moon (cf. ḵín ‘less than, short of’)
