@@ -47,7 +47,7 @@ shkahaadí	interj	crazy
 √hátkw	root	fast (> √sátkw ‘fast’)
 √haʼt	root	herd
 háatlʼ	noun	crap (< √hatlʼ ‘crap’; cf. √hasʼ ‘vomit’, háachʼ ‘shame’)
-√hatlʼ	noun	crap (cf. √hasʼ ‘vomit’, háachʼ ‘shame’)
+√hatlʼ	root	crap (cf. √hasʼ ‘vomit’, háachʼ ‘shame’)
 hás	pron	third person human plural
 háasʼ	noun	vomit (< √hasʼ ‘vomit’; cf. √hatlʼ ‘crap’, háachʼ ‘shame’)
 √hasʼ	root	vomit (cf. √hatlʼ ‘crap’, háachʼ ‘shame’)
@@ -194,7 +194,7 @@ niÿa.áatʼani	noun	lid, cover
 áatʼlani	noun	slime of shellfish (< √.atʼ ‘cold’)
 áatʼl	noun	food storage pit (< √.atʼ ‘cold’)
 áali	noun	grandparent, grandfather (occ. éili)
-√.aʼl	noun	call as grandfather (<? áali ‘grandparent’)
+√.aʼl	root	call as grandfather (<? áali ‘grandparent’)
 √.as	root	lonesome
 aas	noun	tree
 aasgutú	noun	forest (< aas ‘tree’ + gú ‘base’ + tú ‘inside’)
@@ -229,8 +229,8 @@ atkuna.áaḵw	noun	plan, strategy (< át + ká + u- + n- + √.aḵw)
 éi	interj	hey
 wa.é	pron	you, second person singular
 ma.é	pron	you, second person singular
-√.e	root	slide
-√.e	root	shaman ask for more
+√.eʰ	root	slide
+√.èi	root	shaman ask for more; wish for
 éihu	interj	paddling call
 √.éiyáḵw	root	incapacitated (< √.a or √.eʼk + -áḵw ‘lacking’)
 √.éin	root	starving
@@ -1362,7 +1362,7 @@ tʼási	noun	grayling (<? Dene)
 √tʼash	root	slap, clap, swim (cf. √tʼach, √tʼak, √tʼatʼ, √tʼatl, √tʼalʼ)
 √tʼak	root	dent, press into cake (cf. √tʼatʼ, √tʼatl, √tʼash, √tʼakw)
 katʼákx̱i	noun	patty (cf. √tʼak, √tʼatʼ, katʼátʼx̱i)
-√tʼakw	noun	slap tail, hit hard (cf. √tʼak, √tʼatʼ, √tʼach)
+√tʼakw	root	slap tail, hit hard (cf. √tʼak, √tʼatʼ, √tʼach)
 katʼákwjaa	noun	fan (< √tʼakw)
 yakatʼájaa	noun	fan (< √tʼakw)
 √tʼakw	root	body heat
@@ -2336,7 +2336,7 @@ cháasʼ	noun	humpy salmon, pink salmon
 cháash	noun	bough, limb of tree with foliage; brush, logging slash
 chashhít	noun	temporary brush house (< cháash + hít)
 cháashga	noun	teacup (< Ru. чашка)
-√chaʼk	noun	pack, put away neatly; stack, pile up; pass away (euph.)
+√chaʼk	root	pack, put away neatly; stack, pile up; pass away (euph.)
 chág̱ayi	noun	antler (< ?√chaḵ + -aa + -í; cf. chíg̱ayi)
 cháax̱	noun	grebe
 kʼinchéiÿi	noun	rose hips
@@ -2554,7 +2554,7 @@ xóots	noun	brown bear, grizzly bear (cf. √xuts ‘overpower’)
 sitʼxóodzi	noun	glacier bear (< sítʼ ‘glacier’ + xóots ‘brown bear’)
 hintakxóodzi	noun	polar bear (< héen ‘water’ + táak + xóots ‘brown bear’)
 √xuts	root	overpower (cf. xóots ‘brown bear’)
-√xuʼts	noun	scorch, burn black (cf. √xwaʼts, √xuʼsh)
+√xuʼts	root	scorch, burn black (cf. √xwaʼts, √xuʼsh)
 xoodzí	noun	partly burnt wood; falling star, comet (< √xuʼts)
 √xuʼsh	root	singe, scorch (cf. √xuʼts, √xwaʼts)
 xóoshtʼ	noun	burnt stuff (√xuʼsh + -tʼ)
@@ -2911,7 +2911,7 @@ kálkʼw	noun	woman’s brother’s child (vocative; cf. káalkʼw)
 káts	noun	lime, calcined shell; white bird excreta (cf. ḵʼalkátsḵ)
 ḵʼalkátsḵ	noun	yellowneck clam (<? ḵʼa- mouth + l- + ?√kats + -ḵ)
 káast	noun	barrel
-√kasʼ	noun	gather algae (cf. káasʼ ‘algae’)
+√kasʼ	root	gather algae (cf. káasʼ ‘algae’)
 káasʼ	noun	algae (cf. √kasʼ ‘gather algae’)
 √kak	root	thick
 káak	noun	mother’s brother
@@ -3474,7 +3474,7 @@ x̱úx̱	noun	husband (cf. √x̱ux̱ ‘call for, ask for’)
 aatx̱úx̱	noun	parallel uncle by marriage (< aat + x̱úx̱)
 seix̱úx̱	noun	son-in-law
 tláakʼwx̱úx̱	noun	cross uncle by marriage (< tláakʼw + x̱úx̱)
-√x̱ux̱	noun	call for, ask for; compose song
+√x̱ux̱	root	call for, ask for; compose song
 shanax̱wáaÿi	noun	axe (< shá + n- + ?√x̱wa + -í)
 shanx̱wáaÿi	noun	axe (< shanax̱wáaÿi)
 √x̱waʼl	root	tremble, rattle; wave flag
