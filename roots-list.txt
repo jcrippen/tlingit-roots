@@ -43,7 +43,7 @@ háat	noun	cover (< √hat ‘cover’)
 √hat	root	feel around (esp. for lice?)
 haat	noun	current, strong tide
 shkahaadí	interj	crazy
-√hátk	root	tremble due to nerve damage
+√haatk	root	tremble usu. due to nerve damage
 √hátkw	root	fast (> √sátkw ‘fast’)
 √haʼt	root	herd
 háatlʼ	noun	crap (< √hatlʼ ‘crap’; cf. √hasʼ ‘vomit’, háachʼ ‘shame’)
@@ -339,13 +339,14 @@ Ana.óot	name	Aleut people, Alutiiq people
 útlx̱i	noun	boiled fish (< √.utl ‘boil fish’)
 √.us	root	sulk, pout (cf. √.ush ‘sulk’)
 √.us	root	playful
-óoskʼ	interj	cute! (cf. úxkʼ ‘how tiny!’)
+óoskʼ	interj	cute! (cf. úxkʼ, úhúhkʼ ‘how tiny!’)
 √.usʼ	root	wash
 óosʼi	noun	laundry (< √.usʼ ‘wash’)
 úsʼaa	noun	soap (< √.usʼ ‘wash’)
 √.ush	root	sulk (cf. √.us ‘sulk, pout’)
 óosh	pcl	hypothetical
-úxkʼ	interj	how tiny! (cf. óoskʼ ‘cute!’)
+úxkʼ	interj	how tiny! (cf. úhúhkʼ ‘how tiny!’, óoskʼ ‘cute!’)
+úhúhkʼ	interj	how tiny! (cf. úxkʼ ‘how tiny!’, óoskʼ ‘cute!’)
 √.uʼx	root	blow
 óox	noun	gas in óoxh shawlihík ‘he’s filled with gas’ (< √.uʼx ‘blow’)
 óoxjaa	noun	wind (< √.uʼx ‘blow’)
@@ -617,7 +618,8 @@ Jiskʼuwéinayi	name	Alkali Flats above Warm Bay
 -weit	affix	thing (< -wu + -eit; cf. -ÿeit, -neit, -deit, -teit, -jeit)
 √weʼt	root	menstruate
 wéitadi	noun	menstruant
-Naawéiján	name	Norwegian (< Eng.)
+Naawéiján	name	Norwegian (< Eng.; cf. Naawéijín)
+Naawéijín	name	Norwegian (< Eng.; cf. Naawéiján)
 wéisʼ	noun	louse; gland
 wéiksh	noun	ulu
 wéix̱ʼ	noun	bullhead
@@ -876,7 +878,7 @@ g̱anook	noun	petrel (< g̱- + √nuk ‘singular animate sit’)
 ganx̱nook	noun	pot beside fire (< gán + -x̱ + √nuk ‘sg. animate sit’)
 káanukjeit	noun	chair (< ká + -xʼ + √nuk ‘singular sit’ + -ch + -eit)
 ginóok	noun	bread of the Eucharist (< *ginéikw < Ru. хлеб; cf. xunéikw)
-nukt	noun	grouse
+núkt	noun	blue grouse
 √nukts	root	sweet, delicious
 √nukch	root	helpless, undependable
 nóoxʼ	noun	shell
@@ -1486,10 +1488,10 @@ daaleilí	noun	elephant skin, loose skin (< daa ‘around’ + leilí)
 létlʼk	noun	soft (cf. lélʼk, √lel, leilí)
 lélʼk	noun	soft (cf. létlʼk, √lel, leilí)
 lékwaa	noun	fighting spirit
-√lex̱ʼw	root	paint red (cf. √sex̱ʼw ‘stain’, léiḵʼw, léiḵʼw, shéix̱ʼw, shoox̱ʼ)
+√lex̱ʼw	root	paint red (cf. √seḵʼw ‘stain’, léix̱ʼw, léiḵʼw, shéix̱ʼw, shoox̱ʼ)
 léix̱ʼw	noun	red face paint (cf. √lex̱ʼw)
 kooléix̱ʼwaa	noun	walrus (< √lex̱ʼw)
-léiḵʼw	noun	red snapper (cf. √lex̱ʼw, √sex̱ʼw, léix̱ʼw, shéix̱ʼw, shoox̱ʼ)
+léiḵʼw	noun	red snapper (cf. √lex̱ʼw, √seḵʼw, léix̱ʼw, shéix̱ʼw, shoox̱ʼ)
 √liʰ	root	far, distant (cf. √leʰ ‘far’, √seʰ ‘near’)
 lí	pcl	prohibitive element in ilí, líl ‘don’t’ (cf. l ‘negative’)
 ilí	interj	don’t, stop (< i ‘second person singular’ + lí ‘prohibitive’)
@@ -1605,7 +1607,7 @@ kaÿaanitlaax̱í	noun	clover (< kaÿaaní + tlaax̱ + -í)
 shaltláax̱	noun	rock almost covered by tide (< shá + l- + √tlax̱)
 kaltlax̱eit	noun	trailing blackcurrant (< ká + l- + √tlax̱ + -eit)
 tle	pcl	and so, just
-√tle	root	strain (cf. √dla, √cha, √dlex̱ʼw
+√tle	root	strain (cf. √dla, √cha, √dlex̱ʼw)
 √tleʰ	root	stout (< √tlaʰ)
 √tle	root	run away, avoid responsibility (only in L78: 32)
 √tlew	root	make noise, yell or speak loudly
@@ -1823,7 +1825,7 @@ séitaa	noun	snipe (< ?√set or ?√sa + -t)
 kaséix̱jaa	noun	soft rain (< kaséex̱jaa)
 seig̱án	noun	tomorrow (<? √sa ‘breathe, rest’ + -án ‘restore’)
 seig̱ánín	noun	 tomorrow (< seig̱án ‘tomorrow’ + -ín unknown)
-√seḵʼw	root	stain, dye (cf. √lex̱ʼw ‘red’, léiḵʼw, léiḵʼw, shéix̱ʼw, shoox̱ʼ)
+√seḵʼw	root	stain, dye (cf. √lex̱ʼw ‘red’, léix̱ʼw, léiḵʼw, shéix̱ʼw, shoox̱ʼ)
 séiḵʼw	noun	dark spot, stain (cf. √seḵʼw)
 kaséiḵʼw	noun	dye, color (< ká + √seḵʼw)
 kaséḵʼx̱u	noun	dye, color (< ká + √seḵʼw + -x̱ + -í)
@@ -1921,7 +1923,8 @@ katsáatl	noun	plaster (cf. √tsaʼtl)
 tsás	pcl	I wish (< tsaʼs <? tsaʼ + sí)
 tsáats	noun	bear root, indian potato, Hedysarum alpinum (cf. tséitʼ)
 √tsáakw	root	long-lasting, durable (cf. tlákw ‘always’)
-tsáaxʼ	noun	gloves (<? Dene)
+tsáaxʼ	noun	gloves, mittens (<? Dene)
+√tsáaxʼḵ	root	gloveless, mittenless (< tsáaxʼ + -ḵ)
 √tsaḵ	root	push, poke with long object (cf. √taḵ, tsaag̱álʼ, wootsaag̱áa)
 tsaag̱álʼ	noun	spear (< √tsaḵ + -álʼ)
 tsaag̱áa	noun	spear (< √tsaḵ + -áa)
@@ -2179,7 +2182,7 @@ shéiÿi	noun	Sitka spruce (cf. shée, shéeÿi)
 -sheit	affix	thing (< -sh + -eit)
 sheidí	noun	horn (< shá + át)
 sheixw	noun	close-quarters bow and arrow (< sheexw)
-shéix̱ʼw	noun	red alder (cf. √lex̱ʼw, √sex̱ʼw, léix̱ʼw, léiḵʼw, shoox̱ʼ)
+shéix̱ʼw	noun	red alder (cf. √lex̱ʼw, √seḵʼw, léix̱ʼw, léiḵʼw, shoox̱ʼ)
 -shí	affix	dubitative in gushí ~ kwshí ‘maybe’ (> -shé; cf. gu-, sí)
 √shiʰ	root	sing (cf. shí ‘song’, atshí ‘song, music’, atsheeÿí ‘singer’)
 shí	noun	song (cf. √shiʰ ‘sing’)
@@ -2250,7 +2253,7 @@ sheishóox̱	noun	rattle (<? C.Tsim.)
 √shuḵ	root	laugh, smile, funny
 atshóoḵ	noun	laughter (< √shuḵ)
 shúḵʼ	noun	mythical wolf-like animal (< sháḵʼw)
-shoox̱ʼ	noun	robin (cf. √lex̱ʼw, √sex̱ʼw, léix̱ʼw, léiḵʼw, shéix̱ʼw)
+shoox̱ʼ	noun	robin (cf. √lex̱ʼw, √seḵʼw, léix̱ʼw, léiḵʼw, shéix̱ʼw)
 shoox̱ʼuwáa	noun	varied thrush (< shoox̱ʼ ‘robin’ + uwáa)
 jáʼ	interj	honey, addressing spouse
 √jaʰ	root	advise, instruct, direct
@@ -2985,7 +2988,7 @@ daakídi	noun	building, house (< daakahídi)
 √kitʼ	root	jammed, stuck (> kítʼaa, kookítʼaa)
 kítʼaa	noun	peavy, prybar (< √kitʼ + -áa)
 kookítʼaa	noun	shovel (< √kitʼ + -áa)
-kéel	noun	auklet or murrelet (cf. sakéel)
+kéel	noun	auklet or murre (cf. sakéel)
 sakéel	noun	animal e.g. dog with white spot at base of neck (cf. kéel)
 √kis	root	inform (>? kées ‘bracelet’)
 kées	noun	bracelet (<? √kis ‘inform’, originally identity marker?)
@@ -3316,7 +3319,7 @@ x̱aaÿ	noun	steambath, banya (cf. x̱aaÿí, x̱áaÿi ‘beaver dam’)
 x̱aaÿí	noun	beaver dam (cf. x̱aaÿ ‘steambath’, x̱áaw ‘driftlog, snag’)
 x̱áaÿi	noun	beaver dam (cf. x̱aaÿ ‘steambath’, x̱áaw ‘driftlog, snag’)
 x̱áaÿ	noun	yellow-cedar, Nootka cedar, Chamaecyparis nootkatensis
-x̱aaw	noun	fur, hair (> √x̱aaÿáḵw; cf. √x̱áaw ‘furry, hairy’)
+aaw	noun	fur, hair (> √x̱aaÿáḵw; cf. √x̱áaw ‘furry, hairy’)
 √x̱áaw	root	furry, hairy (cf. x̱aaw ‘fur, hair’)
 √x̱aaÿáḵw	root	shed fur, lose hair (< x̱aaw ‘furry’ + -áḵw ‘lacking’)
 lḵashashx̱aaw	noun	dragonfly (< l + ḵaa + shá + sh- + √x̱aaw)
@@ -3962,7 +3965,7 @@ kooḵʼéshaa	noun	baseball, hockey (< ká + u- + + √ḵʼesh + -áa)
 √ḵʼekʼw	root	pace, stride, take long steps measuring distance
 √ḵʼeḵʼw	root	cut flesh with knife (cf. √ḵʼekʼw, ḵʼéikʼw, ḵʼéiḵʼw, ḵʼeiḵʼw)
 ḵʼéiḵʼw	noun	knife wound, slash, cut (cf. √ḵʼeḵʼw, √ḵʼekʼw, ḵʼéikʼw, ḵʼeiḵʼw)
-ḵʼeiḵʼw	noun	sea pigeon (cf. √ḵʼeḵʼw ‘cut flesh’, ḵʼéiḵʼw)
+ḵʼeiḵʼw	noun	kittiwake, sea pigeon (cf. √ḵʼeḵʼw ‘cut flesh’, ḵʼéiḵʼw)
 √ḵʼit	root	twist, braid (cf. √tiḵʼ)
 ḵʼéedaa	noun	collar (< √ḵʼit + -áa)
 √ḵʼetʼ	root	shave
