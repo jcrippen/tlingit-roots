@@ -739,7 +739,7 @@ sx̱enx̱ináakw	noun	dog scratching medicine
 náx̱ki	noun	needles accumulated under tree
 √naḵ	root	plural stand
 shachkkanág̱u	noun	moss growing on muskeg (< √naḵ ‘plural stand’)
-√naag̱án	root	restore confidence inp plural by reelection (< √naḵ + -án)
+√naag̱án	root	restore confidence in plural by reelection (< √naḵ + -án)
 náḵ	ppn	leaving behind, abessive, ablative (cf. √naḵ ‘leave behind’)
 Tlʼaḵʼanaag̱ádi	name	mythical animal
 √naḵ	root	leave behind (cf. náḵ ‘leaving behind’)
@@ -1765,7 +1765,8 @@ sá	pcl	wh-question particle (cf. sí ‘dubitative’)
 √sa	root	breathe, rest (cf. daséikw, x̱ʼaséikw)
 daséikw	noun	breath, air, life (< d- + √sa ‘breathe’ + -kw)
 x̱ʼaséikw	noun	breath, air, life (< x̱ʼé ‘mouth’ + √sa ‘breathe’ + -kw)
-√seigáḵw	root	regain breath, get wind back (< √sa + -áḵw; not seig̱ákw)
+√seigáḵw	root	regain breath, get wind back (< √sa + -k + -áḵw; cf. √seig̱ákw)
+√seig̱ákw	root	regain breath, get wind back (< √sa + -ḵ + -ákw; cf. √seigáḵw)
 √sa	root	name, call (cf. saa ‘name’)
 saa	noun	name (cf. √sa ‘name, call’)
 √saaÿí	root	famous (< saa ‘name’)
