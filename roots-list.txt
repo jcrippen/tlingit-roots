@@ -424,6 +424,7 @@ kayéisʼ	noun	dye (< √yesʼ ‘blacken, discolour’)
 daaÿéisʼ	noun	black furred weasel (< dáa ‘weasel’ + yéisʼ ‘dark’)
 iḵÿéisʼ	noun	iron (< eeḵ ‘copper’ + yéisʼ ‘dark’)
 g̱aÿéisʼ	noun	iron (< iḵÿéisʼ ‘iron’)
+yéichʼ	noun	depth gauge stick for hollowing canoe
 kooyéix	noun	camprobber
 √yek	root	roomy
 √yek	root	animated, alert; too fast
@@ -863,7 +864,7 @@ x̱anóon	noun	brown bear (cf. sʼiknóon)
 √nutʼ	root	swallow
 nóotʼaÿi	noun	uvula (< √nutʼ ‘swallow’; cf. nóotʼani)
 nóotʼani	noun	uvula (< √nutʼ ‘swallow’; cf. nóotʼaÿi)
-ḵushnóotlʼ	noun	uncooperative
+ḵushnóotlʼ	noun	uncooperative (< ḵu- + d-? + sh- + √nutlʼ unknown)
 √nutlʼ	root	in ḵushnóotlʼ ‘uncooperative’
 nóos	noun	news, gossip (< Eng. news; cf. neek ‘news, gossip’)
 nóoskw	noun	wolverine (cf. sʼiknóon, x̱anóon)
@@ -932,6 +933,7 @@ sheinjoosdaadí	noun	kind of rock causing rain
 √dal	root	heavy (cf. √das ‘too light’)
 atdáli	noun	pound (< √dal ‘heavy’)
 dáali	noun	tripe
+dáal	noun	box with holes at both ends (Tongass daʼl)
 √dalʼ	root	imprint; type (cf. √dasʼ ‘wear through’)
 kadáalʼi	noun	imprint (< √dalʼ ‘imprint’)
 waḵkadáalʼi	noun	folded open eyelid (< waaḵ ‘eye’ + √dalʼ ‘imprint’)
@@ -2440,7 +2442,7 @@ lakwchʼísh	noun	common scoter (< lakw unknown + √chʼish ‘splash’)
 wankachʼeeḵ	noun	little finger (< wán + ká + chʼeeḵ < tlʼeeḵ ‘finger’)
 chʼéex̱ʼi	noun	index finger, pointer (< √chʼix̱ʼ; > chʼéix̱ʼi)
 √chʼix̱ʼ	root	poke, point (> chʼéex̱ʼi, √chʼex̱ʼ)
-chʼeex̱ʼ	noun	thimbleberry (> chʼeex̱ʼ)
+chʼeex̱ʼ	noun	thimbleberry (> chʼeix̱ʼ)
 chʼu	pcl	even, just, still, the same (cf. chʼa, tsʼu)
 kʼichʼóo	noun	gambling game, perhaps with chair dice (also gichʼóo)
 chʼuljíni	noun	vest (< chʼu + l.uljíni)
@@ -3209,7 +3211,8 @@ xʼweiḵ	noun	winterberry, sorrel berry, but plant is unidentified
 ÿax̱akʼáawu	noun	crosspiece of canoe, thwart
 tsʼakʼáawásh	noun	necktie-style dry fish
 √kʼan	root	hate; shoo away
-chʼakʼát	adv	at least (< chʼa just + kʼát unknown; cf. chʼa kʼeekát)
+kʼát	adv	unclear meaning; repeatedly, over and over?
+chʼakʼát	adv	at least (< chʼa just + kʼát; cf. chʼa kʼeekát)
 √kʼatlʼ	root	silent, speechless
 kʼáatlʼ	noun	silence, quiet, calm; quiet person
 kʼátlʼgináx̱	adv	silently, without words (< √kʼatlʼ + -k + -í + -náx̱)
