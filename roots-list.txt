@@ -2310,6 +2310,7 @@ jíx̱ʼwaa	noun	sling (< √jix̱ʼw)
 √jeḵ	root	scale fish (< √jiḵ; cf. kajeig̱í ‘scales’)
 kajeig̱í	noun	scales of fish (< kajeeg̱í; cf. √jeḵ ‘scale fish’)
 √juʼw	root	dissheveled, messy
+√jun	root	dream (cf. joon ‘dream’)
 joon	noun	dream (cf. √jun)
 junḵóoxʼ	adv	in dreams (< joon ‘dream’ + ḵú ‘areal’ + -xʼ ‘loc.’)
 júk	interj	get, scat, scram, go away (cf. chúk)
