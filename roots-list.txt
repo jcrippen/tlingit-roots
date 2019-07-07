@@ -70,7 +70,7 @@ naahéin	noun	gambling game
 yilaheil	interj	shaman fish killing
 héil	pcl	negative
 hél	pcl	negative
-√hélʼk	root	weak
+√hélʼk	root	clumsy, helpless, weak
 héitlʼ	interj	huge
 √hesh	root	disgrace
 kaheish	noun	disgrace (< √hesh ‘disgrace’)
@@ -584,7 +584,7 @@ Jaagwaanée	name	Japanese (< CJ japaní < Eng. Japanese)
 Waaktwáani	name	Victoria (< CJ biktóli < Eng. Victoria)
 waat	noun	fathom (cf. ÿaat)
 √wat	root	measure fathom (cf. waat, ÿaat)
-√wat	root	grow up, mature (cf. ÿát ‘child’, waat ‘fathom’)
+√waʼt	root	grow up, mature (cf. ÿát ‘child’, waat ‘fathom’)
 wáat	noun	adult (in ÿées wáat ‘young adult’, ÿanwáat ‘adult’)
 kawáat	noun	tumour
 shaawát	noun	girl, woman (< sháa ‘woman’ + ÿát ‘child’)
@@ -1218,7 +1218,7 @@ Gutéix̱ʼ	name	Eyak (cf. Haida kʼudeeḵʼ)
 √tex̱ʼ	root	twist (< √tix̱ʼ; cf. √teʼḵ, √tiḵʼ, téix̱ʼ ‘heart’)
 téix̱ʼaa	noun	lock (< √tex̱ʼ + -áa)
 √tiḵʼ	root	twist (cf. √tex̱ʼ, √teʼḵ, √tix̱ʼ, √tixʼ ‘twist rope’)
-√tiʰ	root	handle generic object
+√ti	root	handle generic object
 √tiʰ	root	exist, be
 tee	noun	tea (< Eng.)
 shachkalateeÿí	noun	sʼikshaldéen, Hudson’s Bay tea (<? sháchk + tee ‘tea’)
@@ -1792,7 +1792,7 @@ sitgamsaan	noun	noon (< CJ sítkəm san ‘half day/sun’)
 sáani	noun	medium amount
 =sáani	affix	plural of diminutive (< sáani ‘medium amount’)
 kʼisáani	noun	boys, young men (< kʼi unknown + sáani)
-shaaxʼsáani	noun	girls, young women (< sháa ‘woman’ + -xʼ ‘pl.’ + sáani)
+shaaxʼwsáani	noun	girls, young women (< sháa ‘woman’ + -xʼ ‘pl.’ + sáani)
 woosáani	noun	hunting spear
 sándi	noun	Sunday, week (< CJ sándi < Eng. Sunday)
 sandix̱ʼáak	noun	week (< sándi + x̱ʼáak ‘interval’)
@@ -2579,7 +2579,7 @@ xwáaxʼu	noun	sidekicks, lackeys, henchmen (< xwáa + -xʼ, rounding <? *ʷ)
 √xwaʼn	root	frosty; silvered (cf. kaxwaan, x̱akaxwaan)
 kaxwaan	noun	frost (cf. √xwaʼn, x̱akaxwaan)
 x̱akaxwaan	noun	silver fox (< x̱aaw + kaxwaan or √xwaʼn)
-x̱ʼadaatlaxwáni	noun	white whFritillaria camschatcensisiskers (< x̱ʼé + daa + -t + l- + √xwaʼn + -í)
+x̱ʼadaatlaxwáni	noun	white whiskers (< x̱ʼé + daa + -t + l- + √xwaʼn + -í)
 sʼixwaadáa	noun	kind of basket
 xwaasdáa	noun	canvas (< ?√xwàast + -áa or ?√xwas + -t + -áa)
 √xwaʼts	root	paint black (cf. √xuʼts ‘scorch’, √xuʼsh ‘singe’, shalxwáts)
