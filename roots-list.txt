@@ -1316,8 +1316,8 @@ tóoch	adj	fresh
 tóox	noun	sandflea, bedbug (< √tux; cf. tíx, wanatíx)
 jáajikatúxsi	noun	snowshoe frame (< ?√túxs < ?√tux + -s ; <? Dene)
 tuxʼ-	affix	knee in yan tuxʼ uwatsúw ‘he knelt down’
-√tuk	root	explode
-√tuk	root	brew too strong, rancid; clean, pure (with negation)
+√tuʼk	root	explode
+√tuʼk	root	brew too strong, rancid; clean, pure (with negation)
 √tux̱	root	spit
 leitóox̱	noun	throat (< lé ‘throat’ + √tux̱ ‘spit’)
 tooḵ	noun	needlefish
