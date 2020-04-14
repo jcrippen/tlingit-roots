@@ -31,7 +31,7 @@
     lexical string: O-ka-¹√.i (∅; ach.) ‘O (small, round) become cooked’
     derivation: qualifier ka- ‘small, round’
     * **ya.íkwt** ‘it cooks quickly’
-      lexical string: O-¹√.i-μH-kw-t (?; state) ‘O cook quickly’
+      lexical string: O-¹√.i-μH-kw-t (g?; state) ‘O cook quickly’
       derivation: repetitive tendency state -kw-t
     * **as.ée** ‘s/he/it cooks it’
       lexical string: O-S-s-¹√.i (∅; -μμH act.) ‘S cook O’
@@ -75,9 +75,9 @@
     * expect high tone with consonant suffix (i.e. √CV not √CVʰ)
   * possible stems:
     * [CV́]   : +há
-    * [CV́ː]  : +háa
-    * [CV̀ː]  : +haa
-    * Céː… : +héi… (e.g. +héi-n, +héi-k)
+    * [CV́V́]  : +háa
+    * [CV̀V̀]  : +haa
+    * [Céː…] : +héi… (e.g. +héi-n, +héi-k)
 * syntax & semantics
   * meaning
     * entity unintentionally moves imperceptibly or invisibly (±location)
