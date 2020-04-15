@@ -24,22 +24,32 @@
         * telic: event has natural culmination/ending
 * derived verbs
   * **uwa.ée** ‘it became cooked’
+    **u-i-¹√.i-μμH**
+    pfv-stv-¹√cook-var
     lexical string: O-¹√.i (∅; ach.) ‘O become cooked’
-    · *De yaa na.éen.* (prog) ‘It’s getting cooked.’ (NS73: )
-    · *Chʼa yeisú tléixʼ yan uwa.ée.* (pfv) ‘Only one is cooked yet.’ (NS73: )
+    · *De yaa na.éen.* (prog) ‘It’s getting cooked already.’ (NS73: )
+    · *Chʼa yeisú tléixʼ yan uwa.ée.* (pfv) ‘Only one is finished cooking yet.’ (NS73: )
     * **kaawa.ée** ‘it (small, round) became cooked’
-    lexical string: O-ka-¹√.i (∅; ach.) ‘O (small, round) become cooked’
-    derivation: qualifier ka- ‘small, round’
+      **ka-u-i-¹√.i-μμH**
+      sro-pfv-stv-¹√cook-var
+      lexical string: O-ka-¹√.i (∅; ach.) ‘O (small, round) become cooked’
+      derivation: qualifier ka- ‘small, round’
     * **ya.íkwt** ‘it cooks quickly’
+      **i-¹√.i-μH-kw-t**
+      stv-¹√cook-var-rep-rep
       lexical string: O-¹√.i-μH-kw-t (g?; state) ‘O cook quickly’
       derivation: repetitive tendency state -kw-t
     * **as.ée** ‘s/he/it cooks it’
+      **a-s-¹√.i-μμH**
+      3>3-csv-¹√cook-var
       lexical string: O-S-s-¹√.i (∅; -μμH act.) ‘S cook O’
       derivation: causative s-
       note: change from achievement to activity
       · *Kei gux̱sa.áaxʼw, yéi isa.éeni.* (cond) ‘It will be bitter if you cook
         it that way.’ (NS73: 30.224)
       · *Kóox du x̱ʼéis sa.í.* (imp) ‘Cook rice for him to eat.’ (NS73: 56.621)
+                      ∅-∅-∅-s-¹√.i-μH
+                      3O-ZCNJ-2SS-CSV-¹√cook-VAR
       · *A káx̱ at x̱wasi.éeyi dáanaa yeexʼ daak kuḵashée.* (pfv) ‘I will accept
         the money for my having cooked things.’ (NS73: 168.2306)
       · *Shaaw g̱adus.éenín, kadulnóoxʼáḵw.* (ctng) ‘When they have cooked the
